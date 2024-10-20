@@ -1,0 +1,91 @@
+20-10-2024 17:09:57 - Function | backend_answer | finished with result <function return_settings at 0x000001B851980CC0>
+20-10-2024 17:09:58 - Function | backend_answer | finished with result <function return_settings at 0x000001700A1BF240>
+20-10-2024 17:09:58 - Function | backend_answer | finished with result <function return_settings at 0x000001700A2260C0>
+20-10-2024 17:11:11 - Function | backend_answer | finished with result <function return_settings at 0x000001EC2AC7F240>
+20-10-2024 17:11:11 - Function | backend_answer | finished with result <function return_settings at 0x000001EC2ACE60C0>
+20-10-2024 17:11:16 - Function | backend_answer | finished with result <function return_settings at 0x00000140CC56CCC0>
+20-10-2024 17:11:16 - Function | backend_answer | finished with result <function return_settings at 0x000002310A48F240>
+20-10-2024 17:11:17 - Function | backend_answer | finished with result <function return_settings at 0x000002310A4F60C0>
+20-10-2024 17:11:40 - Function | backend_answer | finished with error name 'answer_template' is not defined
+Traceback (most recent call last):
+  File "c:\Users\NVME_1TB\Desktop\tg_backuper\back_end\utils.py", line 20, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\NVME_1TB\Desktop\tg_backuper\back_end\utils.py", line 31, in backend_answer
+    template = answer_template()
+               ^^^^^^^^^^^^^^^
+NameError: name 'answer_template' is not defined. Did you mean: 'AnswerTemplate'?
+20-10-2024 17:11:48 - Function | backend_answer | finished with result <function return_settings at 0x000001341807F240>
+20-10-2024 17:11:48 - Function | backend_answer | finished with result <function return_settings at 0x00000134180E60C0>
+20-10-2024 17:12:49 - Function | backend_answer | finished with result <function return_settings at 0x0000020063B7F240>
+20-10-2024 17:12:49 - Function | backend_answer | finished with result <function return_settings at 0x0000020063BE60C0>
+20-10-2024 17:14:25 - Function | backend_answer | finished with error Value after * must be an iterable, not function
+Traceback (most recent call last):
+  File "c:\Users\NVME_1TB\Desktop\tg_backuper\back_end\utils.py", line 21, in wrapper
+    logging.info("Function | %s | finished with result %r", func.__name__, *result)
+TypeError: Value after * must be an iterable, not function
+20-10-2024 17:14:31 - Function | backend_answer | finished with result <function return_settings at 0x000001C640F7F240>
+20-10-2024 17:14:31 - Function | backend_answer | finished with result <function return_settings at 0x000001C640FE60C0>
+20-10-2024 17:15:25 - Function | backend_answer | finished with result <function return_settings at 0x0000023BBD86FA60>
+20-10-2024 17:15:29 - Function | backend_answer | finished with result <function return_settings at 0x000001BF9BF6D800>
+20-10-2024 17:15:29 - Function | backend_answer | finished with result <function return_settings at 0x000001BF9C06C860>
+20-10-2024 17:16:13 - Function | backend_answer | finished with result <function return_settings at 0x0000022A6A32B740>
+20-10-2024 17:21:37 - Function backend_answer finished with result <function return_settings at 0x000002756357F240>
+20-10-2024 17:21:37 - Function backend_answer finished with result <function return_settings at 0x00000275635E60C0>
+20-10-2024 17:21:53 - Function backend_answer finished with result <function return_settings at 0x000001840DE7F240>
+20-10-2024 17:21:54 - Function backend_answer finished with result <function return_settings at 0x000001840DEE60C0>
+20-10-2024 17:21:57 - Function backend_answer finished with result <function return_settings at 0x0000017DB9C6D760>
+20-10-2024 17:21:57 - Function backend_answer finished with result <function return_settings at 0x0000017DB9D60540>
+20-10-2024 17:23:22 - Function backend_answer finished with result <function return_settings at 0x0000025D00D7F240>
+20-10-2024 17:23:22 - Function backend_answer finished with result <function return_settings at 0x0000025D00DE60C0>
+20-10-2024 17:23:24 - Function backend_answer finished with result <function return_settings at 0x000001E977C6D760>
+20-10-2024 17:23:24 - Function backend_answer finished with result <function return_settings at 0x000001E977D70540>
+20-10-2024 17:23:40 - Function backend_answer finished with result <function return_settings at 0x0000015FC337F240>
+20-10-2024 17:23:40 - Function backend_answer finished with result <function return_settings at 0x0000015FC33E60C0>
+20-10-2024 17:23:42 - Function backend_answer finished with result <function return_settings at 0x000001C2FFD6D760>
+20-10-2024 17:23:42 - Function backend_answer finished with result <function return_settings at 0x000001C2FFE50540>
+20-10-2024 17:54:39 - Function backend_answer finished with result <function return_settings at 0x000002128927F2E0>
+20-10-2024 17:54:39 - Function backend_answer finished with result <function return_settings at 0x00000212892E6160>
+20-10-2024 17:54:41 - Function backend_answer finished with result <function return_settings at 0x000001E7A116D8A0>
+20-10-2024 17:54:41 - Function backend_answer finished with result <function return_settings at 0x000001E7A1260680>
+20-10-2024 17:54:51 - Function backend_answer finished with result <function return_settings at 0x000001E4C447F2E0>
+20-10-2024 17:54:51 - Function backend_answer finished with result <function return_settings at 0x000001E4C44E6160>
+20-10-2024 17:54:54 - Function backend_answer finished with result <function return_settings at 0x0000022CFDC67BA0>
+20-10-2024 17:54:56 - Function backend_answer finished with result <function return_settings at 0x00000294A5D6D940>
+20-10-2024 17:54:56 - Function backend_answer finished with result <function return_settings at 0x00000294A5E50720>
+20-10-2024 17:55:12 - Function backend_answer finished with result <function return_settings at 0x0000020CD912B880>
+20-10-2024 17:55:14 - Function backend_answer finished with result <function return_settings at 0x00000177DF86D940>
+20-10-2024 17:55:14 - Function backend_answer finished with result <function return_settings at 0x00000177DF950720>
+20-10-2024 17:55:40 - Function backend_answer finished with result <function return_settings at 0x000002049C367BA0>
+20-10-2024 17:55:41 - Function backend_answer finished with result <function return_settings at 0x0000016C55B6D940>
+20-10-2024 17:55:41 - Function backend_answer finished with result <function return_settings at 0x0000016C55C50720>
+20-10-2024 17:57:39 - Function backend_answer finished with result <function return_settings at 0x000002447077F2E0>
+20-10-2024 17:57:39 - Function backend_answer finished with result <function return_settings at 0x00000244707E6160>
+20-10-2024 17:57:44 - Function backend_answer finished with result <function return_settings at 0x000001C575A7F2E0>
+20-10-2024 17:57:44 - Function backend_answer finished with result <function return_settings at 0x000001C575AE6160>
+20-10-2024 17:57:46 - Function backend_answer finished with result <function return_settings at 0x000001BD2B16D8A0>
+20-10-2024 17:57:46 - Function backend_answer finished with result <function return_settings at 0x000001BD2B24CE00>
+20-10-2024 17:57:54 - Function backend_answer finished with result <function return_settings at 0x00000161F796FB00>
+20-10-2024 17:57:55 - Function backend_answer finished with result <function return_settings at 0x000001DDFC16D8A0>
+20-10-2024 17:57:55 - Function backend_answer finished with result <function return_settings at 0x000001DDFC25CE00>
+20-10-2024 17:59:27 - Function backend_answer finished with result <function return_settings at 0x0000021AC4867B00>
+20-10-2024 17:59:29 - Function backend_answer finished with result <function return_settings at 0x00000202D826D8A0>
+20-10-2024 17:59:29 - Function backend_answer finished with result <function return_settings at 0x00000202D834CE00>
+20-10-2024 17:59:49 - Function backend_answer finished with result <function return_settings at 0x0000017C46B2B7E0>
+20-10-2024 17:59:50 - Function backend_answer finished with result <function return_settings at 0x00000279B4A6D8A0>
+20-10-2024 17:59:50 - Function backend_answer finished with result <function return_settings at 0x00000279B4B4CE00>
+20-10-2024 18:00:17 - Function backend_answer finished with result <function return_settings at 0x0000016D8A167B00>
+20-10-2024 18:00:19 - Function backend_answer finished with result <function return_settings at 0x0000021F0046D8A0>
+20-10-2024 18:00:19 - Function backend_answer finished with result <function return_settings at 0x0000021F0054CE00>
+20-10-2024 18:01:00 - Function return_settings finished with result '{\n    "API": "",\n    "chats": [\n        ""\n    ],\n    "time": null,\n    "frequency": {\n        "every_day": true,\n        "week_days": []\n    }\n}'
+20-10-2024 18:01:07 - Function return_settings finished with result '{\n    "API": "",\n    "chats": [\n        ""\n    ],\n    "time": null,\n    "frequency": {\n        "every_day": true,\n        "week_days": []\n    }\n}'
+20-10-2024 18:01:09 - Function return_settings finished with result '{\n    "API": "",\n    "chats": [\n        ""\n    ],\n    "time": null,\n    "frequency": {\n        "every_day": true,\n        "week_days": []\n    }\n}'
+20-10-2024 18:02:06 - Function return_settings finished with result {'status': 'GOOD', 'data': '{\n    "API": "",\n    "chats": [\n        ""\n    ],\n    "time": null,\n    "frequency": {\n        "every_day": true,\n        "week_days": []\n    }\n}'}
+20-10-2024 18:05:33 - Function return_settings finished with result "status": "GOOD", "data": {'API': '', 'chats': [''], 'time': None, 'frequency': {'every_day': True, 'week_days': []}}
+20-10-2024 18:05:34 - Function return_settings finished with result "status": "GOOD", "data": {'API': '', 'chats': [''], 'time': None, 'frequency': {'every_day': True, 'week_days': []}}
+20-10-2024 18:05:34 - Function return_settings finished with result "status": "GOOD", "data": {'API': '', 'chats': [''], 'time': None, 'frequency': {'every_day': True, 'week_days': []}}
+20-10-2024 18:06:58 - Function return_settings finished with result "status": "GOOD", "data": {'API': '', 'chats': [''], 'time': None, 'frequency': {'every_day': True, 'week_days': []}}
+20-10-2024 18:06:58 - Function return_settings finished with result "status": "GOOD", "data": {'API': '', 'chats': [''], 'time': None, 'frequency': {'every_day': True, 'week_days': []}}
+20-10-2024 18:06:59 - Function return_settings finished with result "status": "GOOD", "data": {'API': '', 'chats': [''], 'time': None, 'frequency': {'every_day': True, 'week_days': []}}
+20-10-2024 18:07:00 - Function return_settings finished with result "status": "GOOD", "data": {'API': '', 'chats': [''], 'time': None, 'frequency': {'every_day': True, 'week_days': []}}
+20-10-2024 18:07:02 - Function return_settings finished with result "status": "GOOD", "data": {'API': '', 'chats': [''], 'time': None, 'frequency': {'every_day': True, 'week_days': []}}

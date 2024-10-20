@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Folder Selection</title>
+    <link rel="stylesheet" href="/static/styles.css">
+    <link rel="icon" href="/static/icon.ico">
+
+</head>
+<body>
+    <div class="container">
+        <h1>Folder Selection</h1>
+        <form id="folderForm">
+            <label for="botApi">Bot API:</label>
+            <input type="text" id="botApi" required>
+
+            <label for="chatId">Chat ID:</label>
+            <input type="text" id="chatId" required>
+
+            <label for="folders">Select Folders:</label>
+            <input type="file" id="folders" webkitdirectory directory multiple>
+
+            <label for="time">Select Time (24h format):</label>
+            <input type="time" id="time" required>
+
+            <label for="frequency">Frequency of Action:</label>
+            <select id="frequency">
+                <option value="everyday">Every Day</option>
+                <option value="specific">Specific Days</option>
+            </select>
+
+            <div id="daysOfWeek" class="hidden">
+                <label><input type="checkbox" name="day" value="Monday"> Monday</label>
+                <label><input type="checkbox" name="day" value="Tuesday"> Tuesday</label>
+                <label><input type="checkbox" name="day" value="Wednesday"> Wednesday</label>
+                <label><input type="checkbox" name="day" value="Thursday"> Thursday</label>
+                <label><input type="checkbox" name="day" value="Friday"> Friday</label>
+                <label><input type="checkbox" name="day" value="Saturday"> Saturday</label>
+                <label><input type="checkbox" name="day" value="Sunday"> Sunday</label>
+            </div>
+
+            <button type="button" id="saveSettings">Save Settings</button>
+            <button type="button" id="doItByTimetable">Do It By Timetable</button>
+            <button type="button" id="doItNow">Do It Just Now</button>
+        </form>
+    </div>
+    <script src="/static/script.js"></script>
+</body>
+</html>

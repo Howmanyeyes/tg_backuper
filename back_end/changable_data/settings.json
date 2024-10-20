@@ -1,0 +1,11 @@
+{
+    "API": "",
+    "chats": [
+        ""
+    ],
+    "time": null,
+    "frequency": {
+        "every_day": true,
+        "week_days": []
+    }
+}
