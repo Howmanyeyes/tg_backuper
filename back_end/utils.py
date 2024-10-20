@@ -42,19 +42,19 @@ def log_this(func):
     return wrapper_non_as
 
 
-def backend_answer(func):
+def backend_answer(func): # TODO rework to industry standard 
     """Function to answer backend requests in specific format"""
-    template = AnswerTemplate()
+    answer = AnswerTemplate()
     @wraps(func)
     async def wrapper(*args, **kwargs):
         try:
             result = await func(*args, **kwargs)
-            template.data = result
-            return template
+            answer.data = result
+            return answer
         except Exception as e:
-            template.status = "ERROR"
-            template.data = str(e)
-            return template
+            answer.status = "ERROR"
+            answer.data = str(e)
+            return answer
 
     return wrapper
 
