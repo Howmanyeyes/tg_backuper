@@ -6,6 +6,9 @@ import asyncio
 import sys
 import json
 
+from pydantic import BaseModel
+from fastapi import FastAPI, HTTPException
+
 logging.basicConfig(
 level=logging.INFO,
 format='%(asctime)s - %(message)s',
@@ -44,47 +47,12 @@ def log_this(func):
 
 def backend_answer(func): # TODO rework to industry standard 
     """Function to answer backend requests in specific format"""
-    answer = AnswerTemplate()
     @wraps(func)
     async def wrapper(*args, **kwargs):
         try:
-            result = await func(*args, **kwargs)
-            answer.data = result
-            return answer
+            1/0
+            return await func(*args, **kwargs)
         except Exception as e:
-            answer.status = "ERROR"
-            answer.data = str(e)
-            return answer
+            raise HTTPException(status_code=500, detail=f"Something went wrong: {e}") from e
 
     return wrapper
-
-class AnswerTemplate:
-    """Class for easy answer template"""
-    def __init__(self):
-        self.template = {
-            "status": "GOOD",
-            "data": None
-        }
-
-    def __repr__(self):
-        return f"\"status\": \"{self.status}\", \"data\": {str(json.loads(self.data))}"
-
-    @property
-    def data(self):
-        """Returns data from template as a property"""
-        return self.template["data"]
-
-    @data.setter
-    def data(self, new_data):
-        """Sets data to template"""
-        self.template["data"] = new_data
-
-    @property
-    def status(self):
-        """Returns status from template as a property"""
-        return self.template["status"]
-
-    @status.setter
-    def status(self, new_status):
-        """Sets status to template"""
-        self.template["status"] = new_status

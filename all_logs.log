@@ -89,3 +89,146 @@ TypeError: Value after * must be an iterable, not function
 20-10-2024 18:06:59 - Function return_settings finished with result "status": "GOOD", "data": {'API': '', 'chats': [''], 'time': None, 'frequency': {'every_day': True, 'week_days': []}}
 20-10-2024 18:07:00 - Function return_settings finished with result "status": "GOOD", "data": {'API': '', 'chats': [''], 'time': None, 'frequency': {'every_day': True, 'week_days': []}}
 20-10-2024 18:07:02 - Function return_settings finished with result "status": "GOOD", "data": {'API': '', 'chats': [''], 'time': None, 'frequency': {'every_day': True, 'week_days': []}}
+21-10-2024 11:40:51 - Function return_settings finished with error division by zero
+Traceback (most recent call last):
+  File "c:\Users\NVME_1TB\Desktop\tg_backuper\back_end\utils.py", line 54, in wrapper
+    a = 1/ 0
+        ~^~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\NVME_1TB\Desktop\tg_backuper\back_end\utils.py", line 27, in wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\NVME_1TB\Desktop\tg_backuper\back_end\utils.py", line 59, in wrapper
+    1/0
+    ~^~
+ZeroDivisionError: division by zero
+21-10-2024 11:42:25 - Function return_settings finished with result "status": "ok", "data": {'API': '', 'chats': [''], 'time': None, 'frequency': {'every_day': True, 'week_days': []}}
+21-10-2024 11:42:47 - Function return_settings finished with result {'status': 'ok', 'data': '{\n    "API": "",\n    "chats": [\n        ""\n    ],\n    "time": null,\n    "frequency": {\n        "every_day": true,\n        "week_days": []\n    }\n}'}
+21-10-2024 11:43:39 - Function return_settings finished with error 404: Item not found
+Traceback (most recent call last):
+  File "c:\Users\NVME_1TB\Desktop\tg_backuper\back_end\utils.py", line 55, in wrapper
+    1/0
+    ~^~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\NVME_1TB\Desktop\tg_backuper\back_end\utils.py", line 28, in wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\NVME_1TB\Desktop\tg_backuper\back_end\utils.py", line 63, in wrapper
+    raise HTTPException(status_code=404, detail="Item not found")
+fastapi.exceptions.HTTPException: 404: Item not found
+21-10-2024 11:43:40 - Function return_settings finished with error 404: Item not found
+Traceback (most recent call last):
+  File "c:\Users\NVME_1TB\Desktop\tg_backuper\back_end\utils.py", line 55, in wrapper
+    1/0
+    ~^~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\NVME_1TB\Desktop\tg_backuper\back_end\utils.py", line 28, in wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\NVME_1TB\Desktop\tg_backuper\back_end\utils.py", line 63, in wrapper
+    raise HTTPException(status_code=404, detail="Item not found")
+fastapi.exceptions.HTTPException: 404: Item not found
+21-10-2024 11:45:33 - Function return_settings finished with error 500: Something went wrong: {e}
+Traceback (most recent call last):
+  File "c:\Users\NVME_1TB\Desktop\tg_backuper\back_end\utils.py", line 54, in wrapper
+    1/0
+    ~^~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\NVME_1TB\Desktop\tg_backuper\back_end\utils.py", line 28, in wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\NVME_1TB\Desktop\tg_backuper\back_end\utils.py", line 59, in wrapper
+    raise HTTPException(status_code=500, detail="Something went wrong: {e}")
+fastapi.exceptions.HTTPException: 500: Something went wrong: {e}
+21-10-2024 11:45:43 - Function return_settings finished with error 500: Something went wrong: division by zero
+Traceback (most recent call last):
+  File "c:\Users\NVME_1TB\Desktop\tg_backuper\back_end\utils.py", line 54, in wrapper
+    1/0
+    ~^~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\NVME_1TB\Desktop\tg_backuper\back_end\utils.py", line 28, in wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\NVME_1TB\Desktop\tg_backuper\back_end\utils.py", line 59, in wrapper
+    raise HTTPException(status_code=500, detail=f"Something went wrong: {e}")
+fastapi.exceptions.HTTPException: 500: Something went wrong: division by zero
+21-10-2024 11:46:02 - Function return_settings finished with result {'status': 'ok', 'data': '{\n    "API": "",\n    "chats": [\n        ""\n    ],\n    "time": null,\n    "frequency": {\n        "every_day": true,\n        "week_days": []\n    }\n}'}
+21-10-2024 11:46:41 - Function return_settings finished with result '{\n    "API": "",\n    "chats": [\n        ""\n    ],\n    "time": null,\n    "frequency": {\n        "every_day": true,\n        "week_days": []\n    }\n}'
+21-10-2024 11:48:05 - Function return_settings finished with result '{\n    "API": "",\n    "chats": [\n        ""\n    ],\n    "time": null,\n    "frequency": {\n        "every_day": true,\n        "week_days": []\n    }\n}'
+21-10-2024 11:48:12 - Function return_settings finished with error 500: Something went wrong: division by zero
+Traceback (most recent call last):
+  File "c:\Users\NVME_1TB\Desktop\tg_backuper\back_end\utils.py", line 53, in wrapper
+    1/0
+    ~^~
+ZeroDivisionError: division by zero
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\NVME_1TB\Desktop\tg_backuper\back_end\utils.py", line 28, in wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\NVME_1TB\Desktop\tg_backuper\back_end\utils.py", line 56, in wrapper
+    raise HTTPException(status_code=500, detail=f"Something went wrong: {e}") from e
+fastapi.exceptions.HTTPException: 500: Something went wrong: division by zero
+21-10-2024 11:48:13 - Function return_settings finished with error 500: Something went wrong: division by zero
+Traceback (most recent call last):
+  File "c:\Users\NVME_1TB\Desktop\tg_backuper\back_end\utils.py", line 53, in wrapper
+    1/0
+    ~^~
+ZeroDivisionError: division by zero
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\NVME_1TB\Desktop\tg_backuper\back_end\utils.py", line 28, in wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\NVME_1TB\Desktop\tg_backuper\back_end\utils.py", line 56, in wrapper
+    raise HTTPException(status_code=500, detail=f"Something went wrong: {e}") from e
+fastapi.exceptions.HTTPException: 500: Something went wrong: division by zero
+
+
+
+
+
+
+
+
+
+21-10-2024 11:48:43 - Function return_settings finished with error 500: Something went wrong: division by zero
+Traceback (most recent call last):
+  File "c:\Users\NVME_1TB\Desktop\tg_backuper\back_end\utils.py", line 53, in wrapper
+    1/0
+    ~^~
+ZeroDivisionError: division by zero
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\NVME_1TB\Desktop\tg_backuper\back_end\utils.py", line 28, in wrapper
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\NVME_1TB\Desktop\tg_backuper\back_end\utils.py", line 56, in wrapper
+    raise HTTPException(status_code=500, detail=f"Something went wrong: {e}") from e
+fastapi.exceptions.HTTPException: 500: Something went wrong: division by zero
