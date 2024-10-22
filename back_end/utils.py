@@ -7,40 +7,43 @@ import sys
 
 from fastapi.responses import Response
 
-logging.basicConfig(
-level=logging.INFO,
-format='%(asctime)s - %(message)s',
-datefmt='%d-%m-%Y %H:%M:%S',
-handlers=[
-    logging.FileHandler('all_logs.log', encoding='utf-8', mode='a'),
-    logging.StreamHandler(sys.stdout)
-    ]
-)
 
-def log_this(func):
-    """Logs message with time and level"""
-    if asyncio.iscoroutinefunction(func):
+
+def log_this(level=logging.INFO):
+    """Decorator for leveled logging"""
+    def decorator(func):
         @wraps(func)
-        async def wrapper(*args, **kwargs):
+        async def async_wrapper(*args, **kwargs):
+            logger = logging.getLogger(func.__module__)
+            extra = {'function': func.__name__, 'args': args, 'kwargs': kwargs}
             try:
                 result = await func(*args, **kwargs)
-                logging.info("Function %s finished with result %r", func.__name__, result)
+                logger.log(level, "Function finished successfully", extra=extra)
                 return result
             except Exception as e:
-                logging.exception("Function %s finished with error %s", func.__name__, e)
+                extra.update({'error': str(e)})
+                logger.exception("Function raised an exception", extra=extra)
                 raise
-        return wrapper
 
-    @wraps(func)
-    def wrapper_non_as(*args, **kwargs):
-        try:
-            result = func(*args, **kwargs)
-            logging.info("Function %s finished with result %r", func.__name__, result)
-            return result
-        except Exception as e:
-            logging.exception("Function %s finished with error %s", func.__name__, e)
-            raise
-    return wrapper_non_as
+        @wraps(func)
+        def sync_wrapper(*args, **kwargs):
+            logger = logging.getLogger(func.__module__)
+            extra = {'function': func.__name__, 'args': args, 'kwargs': kwargs}
+            try:
+                result = func(*args, **kwargs)
+                logger.log(level, "Function finished successfully", extra=extra)
+                return result
+            except Exception as e:
+                extra.update({'error': str(e)})
+                logger.exception("Function raised an exception", extra=extra)
+                raise
+
+        if asyncio.iscoroutinefunction(func):
+            return async_wrapper
+        else:
+            return sync_wrapper
+    return decorator
+
 
 
 def backend_answer(func): # TODO rework to industry standard 
