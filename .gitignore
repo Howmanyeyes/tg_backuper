@@ -2,3 +2,6 @@
 /tg_backuper_venv
 /back_end/__pycache__
 /back_end/__pycache__
+/back_end/changable_data
+/back_end/changable_data
+back_end/changable_data/settings.json

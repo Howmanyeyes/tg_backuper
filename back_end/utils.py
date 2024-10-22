@@ -4,10 +4,8 @@ import logging
 from functools import wraps
 import asyncio
 import sys
-import json
 
-from pydantic import BaseModel
-from fastapi import FastAPI, HTTPException
+from fastapi.responses import Response
 
 logging.basicConfig(
 level=logging.INFO,
@@ -50,9 +48,28 @@ def backend_answer(func): # TODO rework to industry standard
     @wraps(func)
     async def wrapper(*args, **kwargs):
         try:
-            1/0
             return await func(*args, **kwargs)
         except Exception as e:
-            raise HTTPException(status_code=500, detail=f"Something went wrong: {e}") from e
-
+            return Response(status_code=500, content=f"Something went wrong during excecution of\
+decorator backend_answer while wrapping function {func.__name__}. Exception: {e}")
     return wrapper
+
+def filter_settings(func):
+    @wraps(func)
+    async def wrapper(*args, **kwargs):
+        try:
+            try:
+                links = (await kwargs['request'].json())['files']
+            except Exception as e:
+                logging.exception("Something went wrong during excecution of filter_settings while wrapping function %s. Exception: %s", func.__name__, e)
+                return Response(status_code=500, content=f"Something went wrong during excecution of\
+filter_settings while wrapping function {func.__name__}. Exception: {e}")
+            
+            return await func(*args, **kwargs)
+        except Exception as e:
+            return Response(status_code=500, content=f"Something went wrong during excecution of\
+decorator backend_answer while wrapping function {func.__name__}. Exception: {e}")
+    return wrapper
+
+def smart_compress(link):
+    """Compreses file provided by it's link into (multiple part) 7z archive"""

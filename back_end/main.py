@@ -5,7 +5,7 @@ from fastapi.templating import Jinja2Templates
 import uvicorn
 
 from config import config
-from utils import backend_answer, log_this
+from utils import backend_answer, log_this, filter_settings
 app = FastAPI()
 app.mount("/static", StaticFiles(directory="front_end"), name="static")
 templates = Jinja2Templates(directory=".")
@@ -26,6 +26,9 @@ async def return_settings():
     return config.export('json')
 
 @app.post("/api/save_settings/")
+@log_this
+@backend_answer
+@filter_settings
 async def save_settings(request : Request):
     """Saves settings to file"""
     data = await request.json()

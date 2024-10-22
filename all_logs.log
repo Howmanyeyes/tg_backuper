@@ -232,3 +232,10 @@ Traceback (most recent call last):
   File "c:\Users\NVME_1TB\Desktop\tg_backuper\back_end\utils.py", line 56, in wrapper
     raise HTTPException(status_code=500, detail=f"Something went wrong: {e}") from e
 fastapi.exceptions.HTTPException: 500: Something went wrong: division by zero
+21-10-2024 14:51:14 - Function return_settings finished with result <starlette.responses.Response object at 0x00000125561D2390>
+21-10-2024 14:53:16 - Function return_settings finished with result <starlette.responses.Response object at 0x00000223A5BC1FD0>
+21-10-2024 14:56:02 - Function save_settings finished with result None
+21-10-2024 14:56:14 - Function save_settings finished with result None
+21-10-2024 15:29:28 - Function save_settings finished with result None
+21-10-2024 15:34:18 - Function save_settings finished with result None
+21-10-2024 15:44:54 - Function save_settings finished with result None
