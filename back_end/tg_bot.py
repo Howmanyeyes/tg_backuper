@@ -44,4 +44,19 @@ def setup_logger():
 
 
 if __name__ == '__main__':
-    asyncio.run(main())
+    logger = setup_logger()
+    n = 0
+    import random
+    while True:
+        try:
+            n += 1
+            logger.info(f"Starting iteration {n}")
+            time.sleep(2)
+            logger.info(f"Iteration {n} finished")
+            if random.randint(0, 10) > 7:
+                c = 1 / 0
+            elif random.randint(0, 10) > 7:
+                raise Exception("Random error")
+        except Exception as e:
+            logger.exception(f"Error: {e}")
+        time.sleep(3)

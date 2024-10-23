@@ -1,0 +1,22 @@
+{"taskName": null, "message": "Starting iteration 2", "time": "2024-10-23T15:02:26.849295+00:00"}
+{"taskName": null, "message": "Iteration 2 finished", "time": "2024-10-23T15:02:28.850754+00:00"}
+{"taskName": null, "message": "Starting iteration 3", "time": "2024-10-23T15:02:31.853072+00:00"}
+{"taskName": null, "message": "Iteration 3 finished", "time": "2024-10-23T15:02:33.853661+00:00"}
+{"taskName": null, "message": "Error: division by zero", "time": "2024-10-23T15:02:33.853661+00:00", "exc_info": "Traceback (most recent call last):\n  File \"c:\\Users\\NVME_1TB\\Desktop\\tg_backuper\\back_end\\tg_bot.py\", line 57, in <module>\n    c = 1 / 0\n        ~~^~~\nZeroDivisionError: division by zero"}
+{"taskName": null, "message": "Starting iteration 4", "time": "2024-10-23T15:02:36.856342+00:00"}
+{"taskName": null, "message": "Iteration 4 finished", "time": "2024-10-23T15:02:38.857676+00:00"}
+{"taskName": null, "message": "Error: Random error", "time": "2024-10-23T15:02:38.857676+00:00", "exc_info": "Traceback (most recent call last):\n  File \"c:\\Users\\NVME_1TB\\Desktop\\tg_backuper\\back_end\\tg_bot.py\", line 59, in <module>\n    raise Exception(\"Random error\")\nException: Random error"}
+{"taskName": null, "message": "Starting iteration 5", "time": "2024-10-23T15:02:41.860070+00:00"}
+{"taskName": null, "message": "Iteration 5 finished", "time": "2024-10-23T15:02:43.861442+00:00"}
+{"taskName": null, "message": "Error: division by zero", "time": "2024-10-23T15:02:43.861442+00:00", "exc_info": "Traceback (most recent call last):\n  File \"c:\\Users\\NVME_1TB\\Desktop\\tg_backuper\\back_end\\tg_bot.py\", line 57, in <module>\n    c = 1 / 0\n        ~~^~~\nZeroDivisionError: division by zero"}
+{"taskName": null, "message": "Starting iteration 6", "time": "2024-10-23T15:02:46.863416+00:00"}
+{"taskName": null, "message": "Iteration 6 finished", "time": "2024-10-23T15:02:48.864589+00:00"}
+{"taskName": null, "message": "Starting iteration 7", "time": "2024-10-23T15:02:51.865702+00:00"}
+{"taskName": null, "message": "Iteration 7 finished", "time": "2024-10-23T15:02:53.866529+00:00"}
+{"taskName": null, "message": "Error: division by zero", "time": "2024-10-23T15:02:53.866529+00:00", "exc_info": "Traceback (most recent call last):\n  File \"c:\\Users\\NVME_1TB\\Desktop\\tg_backuper\\back_end\\tg_bot.py\", line 57, in <module>\n    c = 1 / 0\n        ~~^~~\nZeroDivisionError: division by zero"}
+{"taskName": null, "message": "Starting iteration 8", "time": "2024-10-23T15:02:56.868036+00:00"}
+{"taskName": null, "message": "Iteration 8 finished", "time": "2024-10-23T15:02:58.869431+00:00"}
+{"taskName": null, "message": "Starting iteration 9", "time": "2024-10-23T15:03:01.870894+00:00"}
+{"taskName": null, "message": "Iteration 9 finished", "time": "2024-10-23T15:03:03.872569+00:00"}
+{"taskName": null, "message": "Error: division by zero", "time": "2024-10-23T15:03:03.873568+00:00", "exc_info": "Traceback (most recent call last):\n  File \"c:\\Users\\NVME_1TB\\Desktop\\tg_backuper\\back_end\\tg_bot.py\", line 57, in <module>\n    c = 1 / 0\n        ~~^~~\nZeroDivisionError: division by zero"}
+{"taskName": null, "message": "Starting iteration 10", "time": "2024-10-23T15:03:06.876089+00:00"}
