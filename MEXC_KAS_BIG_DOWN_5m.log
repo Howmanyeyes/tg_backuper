@@ -1,0 +1,1567 @@
+21-11-2024 09:51:17 | EASY_prep_Big_down | INFO | Starting EASY_prep_Big_down
+21-11-2024 09:51:17 | EASY_prep_Big_down | INFO | Loading configuration
+21-11-2024 09:51:17 | EASY_prep_Big_down | INFO | Filling configuration with API keys and funds
+21-11-2024 09:51:17 | EASY_prep_Big_down | INFO | Configuring client with symbol: KAS,interval: 5m
+21-11-2024 09:51:17 | EASY_prep_Big_down | INFO | Client initialized successfully
+21-11-2024 09:51:17 | EASY_prep_Big_down | INFO | Начинаем торговать
+21-11-2024 09:51:17 | EASY_prep_Big_down | INFO | Fetching initial USDT balance
+21-11-2024 09:51:18 | EASY_prep_Big_down | INFO | Initial money: 103.742390183128, money_old: 51.0
+21-11-2024 09:51:18 | EASY_prep_Big_down | ERROR | Error during preparation || error: [Errno 2] No such file or directory: 'back_end/strategies/bets/MEXC_KAS_BIG_DOWN_5m.json'
+21-11-2024 09:51:18 | start_EASY_Big_down | ERROR | Error in start_EASY_Big_down: [Errno 2] No such file or directory: 'back_end/strategies/bets/MEXC_KAS_BIG_DOWN_5m.json'
+21-11-2024 15:11:52 | EASY_prep_Big_down | INFO | Starting EASY_prep_Big_down
+21-11-2024 15:11:52 | EASY_prep_Big_down | INFO | Loading configuration
+21-11-2024 15:11:52 | EASY_prep_Big_down | INFO | Filling configuration with API keys and funds
+21-11-2024 15:11:52 | EASY_prep_Big_down | INFO | Configuring client with symbol: KAS,interval: 5m
+21-11-2024 15:11:52 | EASY_prep_Big_down | INFO | Client initialized successfully
+21-11-2024 15:11:52 | EASY_prep_Big_down | INFO | Начинаем торговать
+21-11-2024 15:11:52 | EASY_prep_Big_down | INFO | Fetching initial USDT balance
+21-11-2024 15:11:52 | EASY_prep_Big_down | INFO | Initial money: 103.742390183128, money_old: 51.0
+21-11-2024 15:11:52 | EASY_prep_Big_down | INFO | Preparation complete
+21-11-2024 15:11:52 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 15:12:36 | EASY_prep_Big_down | INFO | Starting EASY_prep_Big_down
+21-11-2024 15:12:36 | EASY_prep_Big_down | INFO | Loading configuration
+21-11-2024 15:12:36 | EASY_prep_Big_down | INFO | Filling configuration with API keys and funds
+21-11-2024 15:12:36 | EASY_prep_Big_down | INFO | Configuring client with symbol: KAS,interval: 5m
+21-11-2024 15:12:36 | EASY_prep_Big_down | INFO | Client initialized successfully
+21-11-2024 15:12:36 | EASY_prep_Big_down | INFO | Начинаем торговать
+21-11-2024 15:12:36 | EASY_prep_Big_down | INFO | Fetching initial USDT balance
+21-11-2024 15:12:37 | EASY_prep_Big_down | INFO | Initial money: 103.742390183128, money_old: 51.0
+21-11-2024 15:12:37 | EASY_prep_Big_down | INFO | Preparation complete
+21-11-2024 15:12:37 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 15:15:05 | EASY_Big_down_loop | INFO | На состояние 15:15:05 активных ставок: 0, денег: 51.0$
+21-11-2024 15:15:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 15:15:05 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 15:15:05 | EASY_Big_down_loop | INFO | На состояние 15:15:05 активных ставок: 0, денег: 51.0$
+21-11-2024 15:15:06 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 15:15:06 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 15:20:05 | EASY_Big_down_loop | INFO | На состояние 15:20:05 активных ставок: 0, денег: 51.0$
+21-11-2024 15:20:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 15:20:05 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 15:20:05 | EASY_Big_down_loop | INFO | На состояние 15:20:05 активных ставок: 0, денег: 51.0$
+21-11-2024 15:20:06 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 15:20:06 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 15:25:05 | EASY_Big_down_loop | INFO | На состояние 15:25:05 активных ставок: 0, денег: 51.0$
+21-11-2024 15:25:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 15:25:05 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 15:25:05 | EASY_Big_down_loop | INFO | На состояние 15:25:05 активных ставок: 0, денег: 51.0$
+21-11-2024 15:25:06 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 15:25:06 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 15:30:05 | EASY_Big_down_loop | INFO | На состояние 15:30:05 активных ставок: 0, денег: 51.0$
+21-11-2024 15:30:05 | EASY_Big_down_loop | INFO | На состояние 15:30:05 активных ставок: 0, денег: 51.0$
+21-11-2024 15:30:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 15:30:05 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 15:30:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 15:30:05 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 15:35:05 | EASY_Big_down_loop | INFO | На состояние 15:35:05 активных ставок: 0, денег: 51.0$
+21-11-2024 15:35:05 | EASY_Big_down_loop | INFO | Price change detected: 0.5155390594154596%
+21-11-2024 15:35:05 | EASY_Big_down_loop | INFO | На состояние 15:35:05 активных ставок: 0, денег: 51.0$
+21-11-2024 15:35:06 | EASY_Big_down_loop | INFO | Price change detected: 0.5155390594154596%
+21-11-2024 15:35:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488260063585206272038
+21-11-2024 15:35:07 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488260065225146386038
+21-11-2024 15:35:10 | EASY_Big_down_loop | INFO | Bought KAS: 11.0
+21-11-2024 15:35:10 | EASY_Big_down_loop | INFO | Bought KAS: 11.0
+21-11-2024 15:35:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488260082706997250038
+21-11-2024 15:35:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488260084103708672038
+21-11-2024 15:35:11 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 15:35:12 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 15:40:05 | EASY_Big_down_loop | INFO | На состояние 15:40:05 активных ставок: 1, денег: 51.0$
+21-11-2024 15:40:05 | EASY_Big_down_loop | INFO | На состояние 15:40:05 активных ставок: 1, денег: 51.0$
+21-11-2024 15:40:06 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 15:40:06 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 15:45:05 | EASY_Big_down_loop | INFO | На состояние 15:45:05 активных ставок: 1, денег: 51.0$
+21-11-2024 15:45:05 | EASY_Big_down_loop | INFO | На состояние 15:45:05 активных ставок: 1, денег: 51.0$
+21-11-2024 15:45:06 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 15:45:06 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 15:50:05 | EASY_Big_down_loop | INFO | На состояние 15:50:05 активных ставок: 1, денег: 51.0$
+21-11-2024 15:50:05 | EASY_Big_down_loop | INFO | На состояние 15:50:05 активных ставок: 1, денег: 51.0$
+21-11-2024 15:50:07 | EASY_Big_down_loop | INFO | Success! Got 0.006979999999999986usdt intrade C02__488260084103708672038
+21-11-2024 15:50:07 | EASY_Big_down_loop | INFO | Bet C02__488260065225146386038 completed and removed.
+21-11-2024 15:50:07 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 15:50:07 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 15:50:07 | EASY_Big_down_loop | INFO | Success! Got 0.006979999999999986usdt intrade C02__488260082706997250038
+21-11-2024 15:50:07 | EASY_Big_down_loop | INFO | Bet C02__488260063585206272038 completed and removed.
+21-11-2024 15:50:07 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 15:50:07 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 15:55:05 | EASY_Big_down_loop | INFO | На состояние 15:55:05 активных ставок: 0, денег: 51.007$
+21-11-2024 15:55:05 | EASY_Big_down_loop | INFO | На состояние 15:55:05 активных ставок: 0, денег: 51.007$
+21-11-2024 15:55:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 15:55:05 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 15:55:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 15:55:05 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 16:00:05 | EASY_Big_down_loop | INFO | На состояние 16:00:05 активных ставок: 0, денег: 51.007$
+21-11-2024 16:00:05 | EASY_Big_down_loop | INFO | На состояние 16:00:05 активных ставок: 0, денег: 51.007$
+21-11-2024 16:00:05 | EASY_Big_down_loop | INFO | Price change detected: 1.3329524546861649%
+21-11-2024 16:00:06 | EASY_Big_down_loop | INFO | Price change detected: 1.3329524546861649%
+21-11-2024 16:00:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488266354584006657038
+21-11-2024 16:00:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488266355640950785038
+21-11-2024 16:00:10 | EASY_Big_down_loop | INFO | Bought KAS: 11.03
+21-11-2024 16:00:10 | EASY_Big_down_loop | INFO | Bought KAS: 11.03
+21-11-2024 16:00:10 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488266372455931904038
+21-11-2024 16:00:10 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488266373408051200038
+21-11-2024 16:00:11 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 16:00:11 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 16:05:05 | EASY_Big_down_loop | INFO | На состояние 16:05:05 активных ставок: 1, денег: 51.007$
+21-11-2024 16:05:05 | EASY_Big_down_loop | INFO | На состояние 16:05:05 активных ставок: 1, денег: 51.007$
+21-11-2024 16:05:06 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 16:05:06 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 16:10:05 | EASY_Big_down_loop | INFO | На состояние 16:10:05 активных ставок: 1, денег: 51.007$
+21-11-2024 16:10:05 | EASY_Big_down_loop | INFO | На состояние 16:10:05 активных ставок: 1, денег: 51.007$
+21-11-2024 16:10:07 | EASY_Big_down_loop | INFO | Success! Got 0.02283085000000007usdt intrade C02__488266372455931904038
+21-11-2024 16:10:07 | EASY_Big_down_loop | INFO | Bet C02__488266354584006657038 completed and removed.
+21-11-2024 16:10:07 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 16:10:07 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 16:10:07 | EASY_Big_down_loop | INFO | Success! Got 0.02283085000000007usdt intrade C02__488266373408051200038
+21-11-2024 16:10:07 | EASY_Big_down_loop | INFO | Bet C02__488266355640950785038 completed and removed.
+21-11-2024 16:10:07 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 16:10:07 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 16:15:05 | EASY_Big_down_loop | INFO | На состояние 16:15:05 активных ставок: 0, денег: 51.03$
+21-11-2024 16:15:05 | EASY_Big_down_loop | INFO | На состояние 16:15:05 активных ставок: 0, денег: 51.03$
+21-11-2024 16:15:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 16:15:05 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 16:15:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 16:15:05 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 16:20:05 | EASY_Big_down_loop | INFO | На состояние 16:20:05 активных ставок: 0, денег: 51.03$
+21-11-2024 16:20:05 | EASY_Big_down_loop | INFO | На состояние 16:20:05 активных ставок: 0, денег: 51.03$
+21-11-2024 16:20:06 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 16:20:06 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 16:20:06 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 16:20:06 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 16:25:05 | EASY_Big_down_loop | INFO | На состояние 16:25:05 активных ставок: 0, денег: 51.03$
+21-11-2024 16:25:05 | EASY_Big_down_loop | INFO | На состояние 16:25:05 активных ставок: 0, денег: 51.03$
+21-11-2024 16:25:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 16:25:05 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 16:25:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 16:25:05 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 16:30:05 | EASY_Big_down_loop | INFO | На состояние 16:30:05 активных ставок: 0, денег: 51.03$
+21-11-2024 16:30:05 | EASY_Big_down_loop | INFO | На состояние 16:30:05 активных ставок: 0, денег: 51.03$
+21-11-2024 16:30:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 16:30:05 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 16:30:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 16:30:05 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 16:35:05 | EASY_Big_down_loop | INFO | На состояние 16:35:05 активных ставок: 0, денег: 51.03$
+21-11-2024 16:35:05 | EASY_Big_down_loop | INFO | На состояние 16:35:05 активных ставок: 0, денег: 51.03$
+21-11-2024 16:35:05 | EASY_Big_down_loop | INFO | Price change detected: 0.4918698687106371%
+21-11-2024 16:35:06 | EASY_Big_down_loop | INFO | Price change detected: 0.4918698687106371%
+21-11-2024 16:35:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488275162848911360038
+21-11-2024 16:35:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488275163150888960038
+21-11-2024 16:35:10 | EASY_Big_down_loop | INFO | Bought KAS: 10.91
+21-11-2024 16:35:10 | EASY_Big_down_loop | INFO | Bought KAS: 10.91
+21-11-2024 16:35:10 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488275181354168324038
+21-11-2024 16:35:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488275181626814464038
+21-11-2024 16:35:11 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 16:35:11 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 16:40:05 | EASY_Big_down_loop | INFO | На состояние 16:40:05 активных ставок: 1, денег: 51.03$
+21-11-2024 16:40:05 | EASY_Big_down_loop | INFO | На состояние 16:40:05 активных ставок: 1, денег: 51.03$
+21-11-2024 16:40:07 | EASY_Big_down_loop | INFO | Success! Got 0.007916860000000137usdt intrade C02__488275181626814464038
+21-11-2024 16:40:07 | EASY_Big_down_loop | INFO | Bet C02__488275163150888960038 completed and removed.
+21-11-2024 16:40:07 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 16:40:07 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 16:40:07 | EASY_Big_down_loop | INFO | Success! Got 0.007916860000000137usdt intrade C02__488275181354168324038
+21-11-2024 16:40:07 | EASY_Big_down_loop | INFO | Bet C02__488275162848911360038 completed and removed.
+21-11-2024 16:40:07 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 16:40:07 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 16:45:05 | EASY_Big_down_loop | INFO | На состояние 16:45:05 активных ставок: 0, денег: 51.038$
+21-11-2024 16:45:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 16:45:05 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 16:45:05 | EASY_Big_down_loop | INFO | На состояние 16:45:05 активных ставок: 0, денег: 51.038$
+21-11-2024 16:45:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 16:45:05 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 16:50:05 | EASY_Big_down_loop | INFO | На состояние 16:50:05 активных ставок: 0, денег: 51.038$
+21-11-2024 16:50:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 16:50:05 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 16:50:05 | EASY_Big_down_loop | INFO | На состояние 16:50:05 активных ставок: 0, денег: 51.038$
+21-11-2024 16:50:06 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 16:50:06 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 16:55:05 | EASY_Big_down_loop | INFO | На состояние 16:55:05 активных ставок: 0, денег: 51.038$
+21-11-2024 16:55:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 16:55:05 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 16:55:05 | EASY_Big_down_loop | INFO | На состояние 16:55:05 активных ставок: 0, денег: 51.038$
+21-11-2024 16:55:06 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 16:55:06 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 17:00:05 | EASY_Big_down_loop | INFO | На состояние 17:00:05 активных ставок: 0, денег: 51.038$
+21-11-2024 17:00:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 17:00:05 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 17:00:05 | EASY_Big_down_loop | INFO | На состояние 17:00:05 активных ставок: 0, денег: 51.038$
+21-11-2024 17:00:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 17:00:05 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 17:05:05 | EASY_Big_down_loop | INFO | На состояние 17:05:05 активных ставок: 0, денег: 51.038$
+21-11-2024 17:05:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 17:05:05 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 17:05:05 | EASY_Big_down_loop | INFO | На состояние 17:05:05 активных ставок: 0, денег: 51.038$
+21-11-2024 17:05:06 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.7
+21-11-2024 17:05:06 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 17:10:05 | EASY_Big_down_loop | INFO | На состояние 17:10:05 активных ставок: 0, денег: 51.038$
+21-11-2024 17:10:05 | EASY_Big_down_loop | INFO | Price change detected: 0.5724338348954916%
+21-11-2024 17:10:05 | EASY_Big_down_loop | INFO | На состояние 17:10:05 активных ставок: 0, денег: 51.038$
+21-11-2024 17:10:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488283968802729985038
+21-11-2024 17:10:06 | EASY_Big_down_loop | INFO | Price change detected: 0.5724338348954916%
+21-11-2024 17:10:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488283971499679744038
+21-11-2024 17:10:09 | EASY_Big_down_loop | INFO | Bought KAS: 10.96
+21-11-2024 17:10:10 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488283987349946370038
+21-11-2024 17:10:10 | EASY_Big_down_loop | INFO | Bought KAS: 10.96
+21-11-2024 17:10:11 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 17:10:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488283989837172736038
+21-11-2024 17:10:11 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 17:15:05 | EASY_Big_down_loop | INFO | На состояние 17:15:05 активных ставок: 1, денег: 51.038$
+21-11-2024 17:15:05 | EASY_Big_down_loop | INFO | На состояние 17:15:05 активных ставок: 1, денег: 51.038$
+21-11-2024 17:15:05 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 17:15:06 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 17:20:05 | EASY_Big_down_loop | INFO | На состояние 17:20:05 активных ставок: 1, денег: 51.038$
+21-11-2024 17:20:05 | EASY_Big_down_loop | INFO | На состояние 17:20:05 активных ставок: 1, денег: 51.038$
+21-11-2024 17:20:06 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 17:20:07 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 17:25:05 | EASY_Big_down_loop | INFO | На состояние 17:25:05 активных ставок: 1, денег: 51.038$
+21-11-2024 17:25:05 | EASY_Big_down_loop | INFO | Price change detected: 0.9696872904896736%
+21-11-2024 17:25:05 | EASY_Big_down_loop | INFO | На состояние 17:25:05 активных ставок: 1, денег: 51.038$
+21-11-2024 17:25:06 | EASY_Big_down_loop | INFO | Price change detected: 0.9696872904896736%
+21-11-2024 17:25:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488287745035304960038
+21-11-2024 17:25:07 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488287748495589376038
+21-11-2024 17:25:10 | EASY_Big_down_loop | INFO | Bought KAS: 11.07
+21-11-2024 17:25:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488287764895330304038
+21-11-2024 17:25:11 | EASY_Big_down_loop | INFO | Bought KAS: 11.07
+21-11-2024 17:25:12 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488287768460464128038
+21-11-2024 17:25:13 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 17:25:13 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 17:30:05 | EASY_Big_down_loop | INFO | На состояние 17:30:05 активных ставок: 2, денег: 51.038$
+21-11-2024 17:30:05 | EASY_Big_down_loop | INFO | Price change detected: 0.7733079139143229%
+21-11-2024 17:30:05 | EASY_Big_down_loop | INFO | На состояние 17:30:05 активных ставок: 2, денег: 51.038$
+21-11-2024 17:30:05 | EASY_Big_down_loop | INFO | Price change detected: 0.7733079139143229%
+21-11-2024 17:30:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488289003037073438038
+21-11-2024 17:30:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488289004903526400038
+21-11-2024 17:30:10 | EASY_Big_down_loop | INFO | Bought KAS: 11.15
+21-11-2024 17:30:10 | EASY_Big_down_loop | INFO | Bought KAS: 11.15
+21-11-2024 17:30:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488289023740170240038
+21-11-2024 17:30:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488289024520290304038
+21-11-2024 17:30:13 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 17:30:13 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 17:35:05 | EASY_Big_down_loop | INFO | На состояние 17:35:05 активных ставок: 3, денег: 51.038$
+21-11-2024 17:35:05 | EASY_Big_down_loop | INFO | На состояние 17:35:05 активных ставок: 3, денег: 51.038$
+21-11-2024 17:35:06 | EASY_Big_down_loop | INFO | Price change detected: 0.7675161119550467%
+21-11-2024 17:35:06 | EASY_Big_down_loop | INFO | Price change detected: 0.7675161119550467%
+21-11-2024 17:35:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488290263467356160038
+21-11-2024 17:35:07 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488290265551945728038
+21-11-2024 17:35:10 | EASY_Big_down_loop | INFO | Bought KAS: 11.24
+21-11-2024 17:35:11 | EASY_Big_down_loop | INFO | Bought KAS: 11.24
+21-11-2024 17:35:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488290284300480513038
+21-11-2024 17:35:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488290284766031876038
+21-11-2024 17:35:15 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 17:35:15 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 17:40:05 | EASY_Big_down_loop | INFO | На состояние 17:40:05 активных ставок: 4, денег: 51.038$
+21-11-2024 17:40:05 | EASY_Big_down_loop | INFO | На состояние 17:40:05 активных ставок: 4, денег: 51.038$
+21-11-2024 17:40:05 | EASY_Big_down_loop | INFO | Price change detected: 0.6186338141560555%
+21-11-2024 17:40:05 | EASY_Big_down_loop | INFO | Price change detected: 0.6186338141560555%
+21-11-2024 17:40:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488291520030498816038
+21-11-2024 17:40:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488291521037131777038
+21-11-2024 17:40:10 | EASY_Big_down_loop | INFO | Bought KAS: 11.3
+21-11-2024 17:40:10 | EASY_Big_down_loop | INFO | Bought KAS: 11.3
+21-11-2024 17:40:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488291540351922176038
+21-11-2024 17:40:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488291540779720705038
+21-11-2024 17:40:15 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 17:40:15 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 17:45:05 | EASY_Big_down_loop | INFO | На состояние 17:45:05 активных ставок: 5, денег: 51.038$
+21-11-2024 17:45:05 | EASY_Big_down_loop | INFO | На состояние 17:45:05 активных ставок: 5, денег: 51.038$
+21-11-2024 17:45:11 | EASY_Big_down_loop | INFO | Success! Got 0.007881999999999945usdt intrade C02__488291540779720705038
+21-11-2024 17:45:11 | EASY_Big_down_loop | INFO | Bet C02__488291520030498816038 completed and removed.
+21-11-2024 17:45:11 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 17:45:11 | EASY_Big_down_loop | INFO | Success! Got 0.007881999999999945usdt intrade C02__488291540351922176038
+21-11-2024 17:45:11 | EASY_Big_down_loop | INFO | Bet C02__488291521037131777038 completed and removed.
+21-11-2024 17:45:11 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 17:50:05 | EASY_Big_down_loop | INFO | На состояние 17:50:05 активных ставок: 4, денег: 51.046$
+21-11-2024 17:50:05 | EASY_Big_down_loop | INFO | На состояние 17:50:05 активных ставок: 4, денег: 51.046$
+21-11-2024 17:50:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 17:50:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 17:55:05 | EASY_Big_down_loop | INFO | На состояние 17:55:05 активных ставок: 4, денег: 51.046$
+21-11-2024 17:55:05 | EASY_Big_down_loop | INFO | На состояние 17:55:05 активных ставок: 4, денег: 51.046$
+21-11-2024 17:55:05 | EASY_Big_down_loop | INFO | Price change detected: 0.7177457213401794%
+21-11-2024 17:55:06 | EASY_Big_down_loop | INFO | Price change detected: 0.7177457213401794%
+21-11-2024 17:55:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488295296137228288038
+21-11-2024 17:55:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488295296363753472038
+21-11-2024 17:55:10 | EASY_Big_down_loop | INFO | Bought KAS: 11.28
+21-11-2024 17:55:10 | EASY_Big_down_loop | INFO | Bought KAS: 11.28
+21-11-2024 17:55:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488295315699503104038
+21-11-2024 17:55:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488295316030832640038
+21-11-2024 17:55:15 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 17:55:15 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 18:00:05 | EASY_Big_down_loop | INFO | На состояние 18:00:05 активных ставок: 5, денег: 51.046$
+21-11-2024 18:00:05 | EASY_Big_down_loop | INFO | На состояние 18:00:05 активных ставок: 5, денег: 51.046$
+21-11-2024 18:00:10 | EASY_Big_down_loop | INFO | Success! Got 0.013014639999999966usdt intrade C02__488295316030832640038
+21-11-2024 18:00:10 | EASY_Big_down_loop | INFO | Bet C02__488295296137228288038 completed and removed.
+21-11-2024 18:00:10 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 18:00:11 | EASY_Big_down_loop | INFO | Success! Got 0.013014639999999966usdt intrade C02__488295315699503104038
+21-11-2024 18:00:11 | EASY_Big_down_loop | INFO | Bet C02__488295296363753472038 completed and removed.
+21-11-2024 18:00:11 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 18:05:05 | EASY_Big_down_loop | INFO | На состояние 18:05:05 активных ставок: 4, денег: 51.059$
+21-11-2024 18:05:05 | EASY_Big_down_loop | INFO | На состояние 18:05:05 активных ставок: 4, денег: 51.059$
+21-11-2024 18:05:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 18:05:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 18:10:05 | EASY_Big_down_loop | INFO | На состояние 18:10:05 активных ставок: 4, денег: 51.059$
+21-11-2024 18:10:05 | EASY_Big_down_loop | INFO | На состояние 18:10:05 активных ставок: 4, денег: 51.059$
+21-11-2024 18:10:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 18:10:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 18:15:05 | EASY_Big_down_loop | INFO | На состояние 18:15:05 активных ставок: 4, денег: 51.059$
+21-11-2024 18:15:05 | EASY_Big_down_loop | INFO | На состояние 18:15:05 активных ставок: 4, денег: 51.059$
+21-11-2024 18:15:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 18:15:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 18:20:05 | EASY_Big_down_loop | INFO | На состояние 18:20:05 активных ставок: 4, денег: 51.059$
+21-11-2024 18:20:05 | EASY_Big_down_loop | INFO | На состояние 18:20:05 активных ставок: 4, денег: 51.059$
+21-11-2024 18:20:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 18:20:10 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 18:25:05 | EASY_Big_down_loop | INFO | На состояние 18:25:05 активных ставок: 4, денег: 51.059$
+21-11-2024 18:25:05 | EASY_Big_down_loop | INFO | На состояние 18:25:05 активных ставок: 4, денег: 51.059$
+21-11-2024 18:25:05 | EASY_Big_down_loop | INFO | Price change detected: 0.952068530023098%
+21-11-2024 18:25:05 | EASY_Big_down_loop | INFO | Price change detected: 0.952068530023098%
+21-11-2024 18:25:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488302844542246913038
+21-11-2024 18:25:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488302845322403858038
+21-11-2024 18:25:10 | EASY_Big_down_loop | INFO | Bought KAS: 11.3
+21-11-2024 18:25:10 | EASY_Big_down_loop | INFO | Bought KAS: 11.3
+21-11-2024 18:25:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488302864259694593038
+21-11-2024 18:25:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488302865270521856038
+21-11-2024 18:25:15 | EASY_Big_down_loop | INFO | Success! Got 0.011953160000000018usdt intrade C02__488290284766031876038
+21-11-2024 18:25:15 | EASY_Big_down_loop | INFO | Bet C02__488290265551945728038 completed and removed.
+21-11-2024 18:25:15 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 18:25:16 | EASY_Big_down_loop | INFO | Success! Got 0.011953160000000018usdt intrade C02__488290284300480513038
+21-11-2024 18:25:16 | EASY_Big_down_loop | INFO | Bet C02__488290263467356160038 completed and removed.
+21-11-2024 18:25:17 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 18:30:05 | EASY_Big_down_loop | INFO | На состояние 18:30:05 активных ставок: 4, денег: 51.071$
+21-11-2024 18:30:05 | EASY_Big_down_loop | INFO | Price change detected: 0.983845442533493%
+21-11-2024 18:30:05 | EASY_Big_down_loop | INFO | На состояние 18:30:05 активных ставок: 4, денег: 51.071$
+21-11-2024 18:30:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488304101831049216038
+21-11-2024 18:30:06 | EASY_Big_down_loop | INFO | Price change detected: 0.983845442533493%
+21-11-2024 18:30:07 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488304106339909638038
+21-11-2024 18:30:10 | EASY_Big_down_loop | INFO | Bought KAS: 11.41
+21-11-2024 18:30:11 | EASY_Big_down_loop | INFO | Bought KAS: 11.41
+21-11-2024 18:30:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488304124899696642038
+21-11-2024 18:30:12 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488304126766178325038
+21-11-2024 18:30:16 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 18:30:16 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 18:35:05 | EASY_Big_down_loop | INFO | На состояние 18:35:05 активных ставок: 5, денег: 51.071$
+21-11-2024 18:35:05 | EASY_Big_down_loop | INFO | На состояние 18:35:05 активных ставок: 5, денег: 51.071$
+21-11-2024 18:35:10 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 18:35:10 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 18:40:05 | EASY_Big_down_loop | INFO | На состояние 18:40:05 активных ставок: 5, денег: 51.071$
+21-11-2024 18:40:05 | EASY_Big_down_loop | INFO | На состояние 18:40:05 активных ставок: 5, денег: 51.071$
+21-11-2024 18:40:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 18:40:12 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 18:45:05 | EASY_Big_down_loop | INFO | На состояние 18:45:05 активных ставок: 5, денег: 51.071$
+21-11-2024 18:45:05 | EASY_Big_down_loop | INFO | На состояние 18:45:05 активных ставок: 5, денег: 51.071$
+21-11-2024 18:45:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 18:45:10 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 18:50:05 | EASY_Big_down_loop | INFO | На состояние 18:50:05 активных ставок: 5, денег: 51.071$
+21-11-2024 18:50:05 | EASY_Big_down_loop | INFO | На состояние 18:50:05 активных ставок: 5, денег: 51.071$
+21-11-2024 18:50:12 | EASY_Big_down_loop | INFO | Success! Got 0.014090069999999955usdt intrade C02__488304126766178325038
+21-11-2024 18:50:12 | EASY_Big_down_loop | INFO | Bet C02__488304106339909638038 completed and removed.
+21-11-2024 18:50:12 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 18:50:12 | EASY_Big_down_loop | INFO | Success! Got 0.014090069999999955usdt intrade C02__488304124899696642038
+21-11-2024 18:50:12 | EASY_Big_down_loop | INFO | Bet C02__488304101831049216038 completed and removed.
+21-11-2024 18:50:12 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 18:55:05 | EASY_Big_down_loop | INFO | На состояние 18:55:05 активных ставок: 4, денег: 51.085$
+21-11-2024 18:55:05 | EASY_Big_down_loop | INFO | На состояние 18:55:05 активных ставок: 4, денег: 51.085$
+21-11-2024 18:55:05 | EASY_Big_down_loop | INFO | Price change detected: 0.4159452859312296%
+21-11-2024 18:55:05 | EASY_Big_down_loop | INFO | Price change detected: 0.4159452859312296%
+21-11-2024 18:55:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488310394788593664038
+21-11-2024 18:55:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488310395245789185038
+21-11-2024 18:55:10 | EASY_Big_down_loop | INFO | Bought KAS: 11.35
+21-11-2024 18:55:11 | EASY_Big_down_loop | INFO | Bought KAS: 11.35
+21-11-2024 18:55:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488310415047069696038
+21-11-2024 18:55:12 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488310417869844482038
+21-11-2024 18:55:15 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 18:55:16 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 19:00:05 | EASY_Big_down_loop | INFO | На состояние 19:00:05 активных ставок: 5, денег: 51.085$
+21-11-2024 19:00:05 | EASY_Big_down_loop | INFO | На состояние 19:00:05 активных ставок: 5, денег: 51.085$
+21-11-2024 19:00:10 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 19:00:10 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 19:05:05 | EASY_Big_down_loop | INFO | На состояние 19:05:05 активных ставок: 5, денег: 51.085$
+21-11-2024 19:05:05 | EASY_Big_down_loop | INFO | На состояние 19:05:05 активных ставок: 5, денег: 51.085$
+21-11-2024 19:05:11 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 19:05:11 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 19:10:05 | EASY_Big_down_loop | INFO | На состояние 19:10:05 активных ставок: 5, денег: 51.085$
+21-11-2024 19:10:05 | EASY_Big_down_loop | INFO | На состояние 19:10:05 активных ставок: 5, денег: 51.085$
+21-11-2024 19:10:10 | EASY_Big_down_loop | INFO | Success! Got 0.005451000000000095usdt intrade C02__488310415047069696038
+21-11-2024 19:10:10 | EASY_Big_down_loop | INFO | Bet C02__488310395245789185038 completed and removed.
+21-11-2024 19:10:10 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 19:10:11 | EASY_Big_down_loop | INFO | Success! Got 0.005451000000000095usdt intrade C02__488310417869844482038
+21-11-2024 19:10:11 | EASY_Big_down_loop | INFO | Bet C02__488310394788593664038 completed and removed.
+21-11-2024 19:10:11 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 19:15:05 | EASY_Big_down_loop | INFO | На состояние 19:15:05 активных ставок: 4, денег: 51.09$
+21-11-2024 19:15:05 | EASY_Big_down_loop | INFO | На состояние 19:15:05 активных ставок: 4, денег: 51.09$
+21-11-2024 19:15:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 19:15:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 19:20:05 | EASY_Big_down_loop | INFO | На состояние 19:20:05 активных ставок: 4, денег: 51.09$
+21-11-2024 19:20:05 | EASY_Big_down_loop | INFO | На состояние 19:20:05 активных ставок: 4, денег: 51.09$
+21-11-2024 19:20:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 19:20:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 19:25:05 | EASY_Big_down_loop | INFO | На состояние 19:25:05 активных ставок: 4, денег: 51.09$
+21-11-2024 19:25:05 | EASY_Big_down_loop | INFO | На состояние 19:25:05 активных ставок: 4, денег: 51.09$
+21-11-2024 19:25:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 19:25:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 19:30:05 | EASY_Big_down_loop | INFO | На состояние 19:30:05 активных ставок: 4, денег: 51.09$
+21-11-2024 19:30:05 | EASY_Big_down_loop | INFO | На состояние 19:30:05 активных ставок: 4, денег: 51.09$
+21-11-2024 19:30:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 19:30:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 19:35:05 | EASY_Big_down_loop | INFO | На состояние 19:35:05 активных ставок: 4, денег: 51.09$
+21-11-2024 19:35:05 | EASY_Big_down_loop | INFO | На состояние 19:35:05 активных ставок: 4, денег: 51.09$
+21-11-2024 19:35:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 19:35:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 19:40:05 | EASY_Big_down_loop | INFO | На состояние 19:40:05 активных ставок: 4, денег: 51.09$
+21-11-2024 19:40:05 | EASY_Big_down_loop | INFO | На состояние 19:40:05 активных ставок: 4, денег: 51.09$
+21-11-2024 19:40:06 | EASY_Big_down_loop | INFO | Price change detected: 0.7253635209053755%
+21-11-2024 19:40:06 | EASY_Big_down_loop | INFO | Price change detected: 0.7253635209053755%
+21-11-2024 19:40:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488321720755773440038
+21-11-2024 19:40:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488321721498152961038
+21-11-2024 19:40:10 | EASY_Big_down_loop | INFO | Bought KAS: 11.33
+21-11-2024 19:40:10 | EASY_Big_down_loop | INFO | Bought KAS: 11.33
+21-11-2024 19:40:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488321739017764864038
+21-11-2024 19:40:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488321739948879872038
+21-11-2024 19:40:15 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 19:40:15 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 19:45:05 | EASY_Big_down_loop | INFO | На состояние 19:45:05 активных ставок: 5, денег: 51.09$
+21-11-2024 19:45:05 | EASY_Big_down_loop | INFO | На состояние 19:45:05 активных ставок: 5, денег: 51.09$
+21-11-2024 19:45:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 19:45:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 19:50:05 | EASY_Big_down_loop | INFO | На состояние 19:50:05 активных ставок: 5, денег: 51.09$
+21-11-2024 19:50:05 | EASY_Big_down_loop | INFO | На состояние 19:50:05 активных ставок: 5, денег: 51.09$
+21-11-2024 19:50:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 19:50:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 19:55:05 | EASY_Big_down_loop | INFO | На состояние 19:55:05 активных ставок: 5, денег: 51.09$
+21-11-2024 19:55:05 | EASY_Big_down_loop | INFO | На состояние 19:55:05 активных ставок: 5, денег: 51.09$
+21-11-2024 19:55:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 19:55:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 20:00:05 | EASY_Big_down_loop | INFO | На состояние 20:00:05 активных ставок: 5, денег: 51.09$
+21-11-2024 20:00:05 | EASY_Big_down_loop | INFO | На состояние 20:00:05 активных ставок: 5, денег: 51.09$
+21-11-2024 20:00:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 20:00:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 20:05:05 | EASY_Big_down_loop | INFO | На состояние 20:05:05 активных ставок: 5, денег: 51.09$
+21-11-2024 20:05:05 | EASY_Big_down_loop | INFO | На состояние 20:05:05 активных ставок: 5, денег: 51.09$
+21-11-2024 20:05:10 | EASY_Big_down_loop | INFO | Success! Got 0.011917680000000042usdt intrade C02__488321739948879872038
+21-11-2024 20:05:10 | EASY_Big_down_loop | INFO | Bet C02__488321721498152961038 completed and removed.
+21-11-2024 20:05:10 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 20:05:10 | EASY_Big_down_loop | INFO | Success! Got 0.011917680000000042usdt intrade C02__488321739017764864038
+21-11-2024 20:05:10 | EASY_Big_down_loop | INFO | Bet C02__488321720755773440038 completed and removed.
+21-11-2024 20:05:10 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 20:10:05 | EASY_Big_down_loop | INFO | На состояние 20:10:05 активных ставок: 4, денег: 51.102$
+21-11-2024 20:10:05 | EASY_Big_down_loop | INFO | На состояние 20:10:05 активных ставок: 4, денег: 51.102$
+21-11-2024 20:10:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 20:10:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 20:15:05 | EASY_Big_down_loop | INFO | На состояние 20:15:05 активных ставок: 4, денег: 51.102$
+21-11-2024 20:15:05 | EASY_Big_down_loop | INFO | На состояние 20:15:05 активных ставок: 4, денег: 51.102$
+21-11-2024 20:15:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 20:15:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 20:20:05 | EASY_Big_down_loop | INFO | На состояние 20:20:05 активных ставок: 4, денег: 51.102$
+21-11-2024 20:20:05 | EASY_Big_down_loop | INFO | На состояние 20:20:05 активных ставок: 4, денег: 51.102$
+21-11-2024 20:20:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 20:20:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 20:25:05 | EASY_Big_down_loop | INFO | На состояние 20:25:05 активных ставок: 4, денег: 51.102$
+21-11-2024 20:25:05 | EASY_Big_down_loop | INFO | На состояние 20:25:05 активных ставок: 4, денег: 51.102$
+21-11-2024 20:25:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 20:25:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 20:30:05 | EASY_Big_down_loop | INFO | На состояние 20:30:05 активных ставок: 4, денег: 51.102$
+21-11-2024 20:30:05 | EASY_Big_down_loop | INFO | На состояние 20:30:05 активных ставок: 4, денег: 51.102$
+21-11-2024 20:30:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 20:30:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 20:35:05 | EASY_Big_down_loop | INFO | На состояние 20:35:05 активных ставок: 4, денег: 51.102$
+21-11-2024 20:35:05 | EASY_Big_down_loop | INFO | На состояние 20:35:05 активных ставок: 4, денег: 51.102$
+21-11-2024 20:35:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 20:35:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 20:40:05 | EASY_Big_down_loop | INFO | На состояние 20:40:05 активных ставок: 4, денег: 51.102$
+21-11-2024 20:40:05 | EASY_Big_down_loop | INFO | На состояние 20:40:05 активных ставок: 4, денег: 51.102$
+21-11-2024 20:40:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 20:40:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 20:45:05 | EASY_Big_down_loop | INFO | На состояние 20:45:05 активных ставок: 4, денег: 51.102$
+21-11-2024 20:45:05 | EASY_Big_down_loop | INFO | На состояние 20:45:05 активных ставок: 4, денег: 51.102$
+21-11-2024 20:45:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 20:45:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 20:50:05 | EASY_Big_down_loop | INFO | На состояние 20:50:05 активных ставок: 4, денег: 51.102$
+21-11-2024 20:50:05 | EASY_Big_down_loop | INFO | На состояние 20:50:05 активных ставок: 4, денег: 51.102$
+21-11-2024 20:50:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 20:50:10 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 20:55:05 | EASY_Big_down_loop | INFO | На состояние 20:55:05 активных ставок: 4, денег: 51.102$
+21-11-2024 20:55:05 | EASY_Big_down_loop | INFO | На состояние 20:55:05 активных ставок: 4, денег: 51.102$
+21-11-2024 20:55:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 20:55:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 21:00:05 | EASY_Big_down_loop | INFO | На состояние 21:00:05 активных ставок: 4, денег: 51.102$
+21-11-2024 21:00:05 | EASY_Big_down_loop | INFO | На состояние 21:00:05 активных ставок: 4, денег: 51.102$
+21-11-2024 21:00:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 21:00:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 21:05:05 | EASY_Big_down_loop | INFO | На состояние 21:05:05 активных ставок: 4, денег: 51.102$
+21-11-2024 21:05:05 | EASY_Big_down_loop | INFO | На состояние 21:05:05 активных ставок: 4, денег: 51.102$
+21-11-2024 21:05:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 21:05:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 21:10:05 | EASY_Big_down_loop | INFO | На состояние 21:10:05 активных ставок: 4, денег: 51.102$
+21-11-2024 21:10:05 | EASY_Big_down_loop | INFO | На состояние 21:10:05 активных ставок: 4, денег: 51.102$
+21-11-2024 21:10:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 21:10:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 21:15:05 | EASY_Big_down_loop | INFO | На состояние 21:15:05 активных ставок: 4, денег: 51.102$
+21-11-2024 21:15:05 | EASY_Big_down_loop | INFO | На состояние 21:15:05 активных ставок: 4, денег: 51.102$
+21-11-2024 21:15:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 21:15:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 21:20:05 | EASY_Big_down_loop | INFO | На состояние 21:20:05 активных ставок: 4, денег: 51.102$
+21-11-2024 21:20:05 | EASY_Big_down_loop | INFO | На состояние 21:20:05 активных ставок: 4, денег: 51.102$
+21-11-2024 21:20:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 21:20:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 21:25:05 | EASY_Big_down_loop | INFO | На состояние 21:25:05 активных ставок: 4, денег: 51.102$
+21-11-2024 21:25:05 | EASY_Big_down_loop | INFO | На состояние 21:25:05 активных ставок: 4, денег: 51.102$
+21-11-2024 21:25:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 21:25:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 21:30:05 | EASY_Big_down_loop | INFO | На состояние 21:30:05 активных ставок: 4, денег: 51.102$
+21-11-2024 21:30:05 | EASY_Big_down_loop | INFO | На состояние 21:30:05 активных ставок: 4, денег: 51.102$
+21-11-2024 21:30:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 21:30:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 21:35:05 | EASY_Big_down_loop | INFO | На состояние 21:35:05 активных ставок: 4, денег: 51.102$
+21-11-2024 21:35:05 | EASY_Big_down_loop | INFO | На состояние 21:35:05 активных ставок: 4, денег: 51.102$
+21-11-2024 21:35:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 21:35:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 21:40:05 | EASY_Big_down_loop | INFO | На состояние 21:40:05 активных ставок: 4, денег: 51.102$
+21-11-2024 21:40:05 | EASY_Big_down_loop | INFO | На состояние 21:40:05 активных ставок: 4, денег: 51.102$
+21-11-2024 21:40:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 21:40:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 21:45:05 | EASY_Big_down_loop | INFO | На состояние 21:45:05 активных ставок: 4, денег: 51.102$
+21-11-2024 21:45:05 | EASY_Big_down_loop | INFO | На состояние 21:45:05 активных ставок: 4, денег: 51.102$
+21-11-2024 21:45:06 | EASY_Big_down_loop | INFO | Price change detected: 0.6088281981647015%
+21-11-2024 21:45:06 | EASY_Big_down_loop | INFO | Price change detected: 0.6088281981647015%
+21-11-2024 21:45:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488353178220298240038
+21-11-2024 21:45:07 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488353178883006464038
+21-11-2024 21:45:11 | EASY_Big_down_loop | INFO | Bought KAS: 11.3
+21-11-2024 21:45:11 | EASY_Big_down_loop | INFO | Bought KAS: 11.3
+21-11-2024 21:45:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488353199586086912038
+21-11-2024 21:45:12 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488353201322516480038
+21-11-2024 21:45:15 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 21:45:16 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 21:50:05 | EASY_Big_down_loop | INFO | На состояние 21:50:05 активных ставок: 5, денег: 51.102$
+21-11-2024 21:50:05 | EASY_Big_down_loop | INFO | На состояние 21:50:05 активных ставок: 5, денег: 51.102$
+21-11-2024 21:50:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 21:50:10 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 21:55:05 | EASY_Big_down_loop | INFO | На состояние 21:55:05 активных ставок: 5, денег: 51.102$
+21-11-2024 21:55:05 | EASY_Big_down_loop | INFO | На состояние 21:55:05 активных ставок: 5, денег: 51.102$
+21-11-2024 21:55:28 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 21:55:28 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 22:00:05 | EASY_Big_down_loop | INFO | На состояние 22:00:05 активных ставок: 5, денег: 51.102$
+21-11-2024 22:00:05 | EASY_Big_down_loop | INFO | На состояние 22:00:05 активных ставок: 5, денег: 51.102$
+21-11-2024 22:00:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 22:00:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 22:05:05 | EASY_Big_down_loop | INFO | На состояние 22:05:05 активных ставок: 5, денег: 51.102$
+21-11-2024 22:05:05 | EASY_Big_down_loop | INFO | На состояние 22:05:05 активных ставок: 5, денег: 51.102$
+21-11-2024 22:05:10 | EASY_Big_down_loop | INFO | Success! Got 0.013882300000000125usdt intrade C02__488302864259694593038
+21-11-2024 22:05:10 | EASY_Big_down_loop | INFO | Success! Got 0.013882300000000125usdt intrade C02__488302865270521856038
+21-11-2024 22:05:12 | EASY_Big_down_loop | INFO | Success! Got 0.00941879999999995usdt intrade C02__488353199586086912038
+21-11-2024 22:05:12 | EASY_Big_down_loop | INFO | Bet C02__488302844542246913038 completed and removed.
+21-11-2024 22:05:12 | EASY_Big_down_loop | INFO | Bet C02__488353178220298240038 completed and removed.
+21-11-2024 22:05:12 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 22:05:12 | EASY_Big_down_loop | INFO | Success! Got 0.00941879999999995usdt intrade C02__488353201322516480038
+21-11-2024 22:05:12 | EASY_Big_down_loop | INFO | Bet C02__488302845322403858038 completed and removed.
+21-11-2024 22:05:12 | EASY_Big_down_loop | INFO | Bet C02__488353178883006464038 completed and removed.
+21-11-2024 22:05:12 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 22:10:05 | EASY_Big_down_loop | INFO | На состояние 22:10:05 активных ставок: 3, денег: 51.125$
+21-11-2024 22:10:05 | EASY_Big_down_loop | INFO | На состояние 22:10:05 активных ставок: 3, денег: 51.125$
+21-11-2024 22:10:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 22:10:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 22:15:05 | EASY_Big_down_loop | INFO | На состояние 22:15:05 активных ставок: 3, денег: 51.125$
+21-11-2024 22:15:05 | EASY_Big_down_loop | INFO | На состояние 22:15:05 активных ставок: 3, денег: 51.125$
+21-11-2024 22:15:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 22:15:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 22:20:05 | EASY_Big_down_loop | INFO | На состояние 22:20:05 активных ставок: 3, денег: 51.125$
+21-11-2024 22:20:05 | EASY_Big_down_loop | INFO | На состояние 22:20:05 активных ставок: 3, денег: 51.125$
+21-11-2024 22:20:05 | EASY_Big_down_loop | INFO | Price change detected: 0.5169209558516741%
+21-11-2024 22:20:05 | EASY_Big_down_loop | INFO | Price change detected: 0.5169209558516741%
+21-11-2024 22:20:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488361984232873988038
+21-11-2024 22:20:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488361984467726338038
+21-11-2024 22:20:10 | EASY_Big_down_loop | INFO | Bought KAS: 11.29
+21-11-2024 22:20:10 | EASY_Big_down_loop | INFO | Bought KAS: 11.29
+21-11-2024 22:20:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488362005409882112038
+21-11-2024 22:20:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488362005795766286038
+21-11-2024 22:20:14 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 22:20:14 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 22:25:05 | EASY_Big_down_loop | INFO | На состояние 22:25:05 активных ставок: 4, денег: 51.125$
+21-11-2024 22:25:05 | EASY_Big_down_loop | INFO | На состояние 22:25:05 активных ставок: 4, денег: 51.125$
+21-11-2024 22:25:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 22:25:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 22:30:05 | EASY_Big_down_loop | INFO | На состояние 22:30:05 активных ставок: 4, денег: 51.125$
+21-11-2024 22:30:05 | EASY_Big_down_loop | INFO | На состояние 22:30:05 активных ставок: 4, денег: 51.125$
+21-11-2024 22:30:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 22:30:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 22:35:05 | EASY_Big_down_loop | INFO | На состояние 22:35:05 активных ставок: 4, денег: 51.125$
+21-11-2024 22:35:05 | EASY_Big_down_loop | INFO | На состояние 22:35:05 активных ставок: 4, денег: 51.125$
+21-11-2024 22:35:10 | EASY_Big_down_loop | INFO | Success! Got 0.007951199999999936usdt intrade C02__488362005795766286038
+21-11-2024 22:35:10 | EASY_Big_down_loop | INFO | Bet C02__488361984467726338038 completed and removed.
+21-11-2024 22:35:10 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 22:35:10 | EASY_Big_down_loop | INFO | Success! Got 0.007951199999999936usdt intrade C02__488362005409882112038
+21-11-2024 22:35:10 | EASY_Big_down_loop | INFO | Bet C02__488361984232873988038 completed and removed.
+21-11-2024 22:35:10 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 22:40:05 | EASY_Big_down_loop | INFO | На состояние 22:40:05 активных ставок: 3, денег: 51.133$
+21-11-2024 22:40:05 | EASY_Big_down_loop | INFO | На состояние 22:40:05 активных ставок: 3, денег: 51.133$
+21-11-2024 22:40:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 22:40:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 22:45:05 | EASY_Big_down_loop | INFO | На состояние 22:45:05 активных ставок: 3, денег: 51.133$
+21-11-2024 22:45:05 | EASY_Big_down_loop | INFO | На состояние 22:45:05 активных ставок: 3, денег: 51.133$
+21-11-2024 22:45:07 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 22:45:07 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 22:50:05 | EASY_Big_down_loop | INFO | На состояние 22:50:05 активных ставок: 3, денег: 51.133$
+21-11-2024 22:50:05 | EASY_Big_down_loop | INFO | На состояние 22:50:05 активных ставок: 3, денег: 51.133$
+21-11-2024 22:50:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 22:50:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 22:55:05 | EASY_Big_down_loop | INFO | На состояние 22:55:05 активных ставок: 3, денег: 51.133$
+21-11-2024 22:55:05 | EASY_Big_down_loop | INFO | На состояние 22:55:05 активных ставок: 3, денег: 51.133$
+21-11-2024 22:55:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 22:55:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 23:00:05 | EASY_Big_down_loop | INFO | На состояние 23:00:05 активных ставок: 3, денег: 51.133$
+21-11-2024 23:00:05 | EASY_Big_down_loop | INFO | На состояние 23:00:05 активных ставок: 3, денег: 51.133$
+21-11-2024 23:00:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 23:00:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 23:05:05 | EASY_Big_down_loop | INFO | На состояние 23:05:05 активных ставок: 3, денег: 51.133$
+21-11-2024 23:05:05 | EASY_Big_down_loop | INFO | На состояние 23:05:05 активных ставок: 3, денег: 51.133$
+21-11-2024 23:05:07 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 23:05:07 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 23:10:05 | EASY_Big_down_loop | INFO | На состояние 23:10:05 активных ставок: 3, денег: 51.133$
+21-11-2024 23:10:05 | EASY_Big_down_loop | INFO | На состояние 23:10:05 активных ставок: 3, денег: 51.133$
+21-11-2024 23:10:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 23:10:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 23:15:05 | EASY_Big_down_loop | INFO | На состояние 23:15:05 активных ставок: 3, денег: 51.133$
+21-11-2024 23:15:05 | EASY_Big_down_loop | INFO | На состояние 23:15:05 активных ставок: 3, денег: 51.133$
+21-11-2024 23:15:07 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 23:15:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 23:20:05 | EASY_Big_down_loop | INFO | На состояние 23:20:05 активных ставок: 3, денег: 51.133$
+21-11-2024 23:20:05 | EASY_Big_down_loop | INFO | На состояние 23:20:05 активных ставок: 3, денег: 51.133$
+21-11-2024 23:20:07 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 23:20:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 23:25:05 | EASY_Big_down_loop | INFO | На состояние 23:25:05 активных ставок: 3, денег: 51.133$
+21-11-2024 23:25:05 | EASY_Big_down_loop | INFO | На состояние 23:25:05 активных ставок: 3, денег: 51.133$
+21-11-2024 23:25:07 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 23:25:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 23:30:05 | EASY_Big_down_loop | INFO | На состояние 23:30:05 активных ставок: 3, денег: 51.133$
+21-11-2024 23:30:05 | EASY_Big_down_loop | INFO | На состояние 23:30:05 активных ставок: 3, денег: 51.133$
+21-11-2024 23:30:07 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 23:30:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 23:35:05 | EASY_Big_down_loop | INFO | На состояние 23:35:05 активных ставок: 3, денег: 51.133$
+21-11-2024 23:35:05 | EASY_Big_down_loop | INFO | На состояние 23:35:05 активных ставок: 3, денег: 51.133$
+21-11-2024 23:35:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 23:35:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 23:40:05 | EASY_Big_down_loop | INFO | На состояние 23:40:05 активных ставок: 3, денег: 51.133$
+21-11-2024 23:40:05 | EASY_Big_down_loop | INFO | Price change detected: 0.7552343886345625%
+21-11-2024 23:40:05 | EASY_Big_down_loop | INFO | На состояние 23:40:05 активных ставок: 3, денег: 51.133$
+21-11-2024 23:40:05 | EASY_Big_down_loop | INFO | Price change detected: 0.7552343886345625%
+21-11-2024 23:40:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488382116409737217038
+21-11-2024 23:40:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488382118070644736038
+21-11-2024 23:40:10 | EASY_Big_down_loop | INFO | Bought KAS: 11.25
+21-11-2024 23:40:10 | EASY_Big_down_loop | INFO | Bought KAS: 11.25
+21-11-2024 23:40:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488382137305726976038
+21-11-2024 23:40:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488382139298025472038
+21-11-2024 23:40:14 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 23:40:14 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 23:45:05 | EASY_Big_down_loop | INFO | На состояние 23:45:05 активных ставок: 4, денег: 51.133$
+21-11-2024 23:45:05 | EASY_Big_down_loop | INFO | На состояние 23:45:05 активных ставок: 4, денег: 51.133$
+21-11-2024 23:45:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 23:45:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 23:50:05 | EASY_Big_down_loop | INFO | На состояние 23:50:05 активных ставок: 4, денег: 51.133$
+21-11-2024 23:50:05 | EASY_Big_down_loop | INFO | На состояние 23:50:05 активных ставок: 4, денег: 51.133$
+21-11-2024 23:50:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 23:50:09 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 23:55:05 | EASY_Big_down_loop | INFO | На состояние 23:55:05 активных ставок: 4, денег: 51.133$
+21-11-2024 23:55:05 | EASY_Big_down_loop | INFO | На состояние 23:55:05 активных ставок: 4, денег: 51.133$
+21-11-2024 23:55:08 | EASY_Big_down_loop | INFO | Starting iteration
+21-11-2024 23:55:08 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 00:00:05 | EASY_Big_down_loop | INFO | На состояние 00:00:05 активных ставок: 4, денег: 51.133$
+22-11-2024 00:00:05 | EASY_Big_down_loop | INFO | На состояние 00:00:05 активных ставок: 4, денег: 51.133$
+22-11-2024 00:00:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 00:00:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 00:05:05 | EASY_Big_down_loop | INFO | На состояние 00:05:05 активных ставок: 4, денег: 51.133$
+22-11-2024 00:05:05 | EASY_Big_down_loop | INFO | На состояние 00:05:05 активных ставок: 4, денег: 51.133$
+22-11-2024 00:05:08 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 00:05:08 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 00:10:05 | EASY_Big_down_loop | INFO | На состояние 00:10:05 активных ставок: 4, денег: 51.133$
+22-11-2024 00:10:05 | EASY_Big_down_loop | INFO | На состояние 00:10:05 активных ставок: 4, денег: 51.133$
+22-11-2024 00:10:05 | EASY_Big_down_loop | INFO | Price change detected: 0.42070685885846615%
+22-11-2024 00:10:06 | EASY_Big_down_loop | INFO | Price change detected: 0.42070685885846615%
+22-11-2024 00:10:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488389667658489856038
+22-11-2024 00:10:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488389669201993728038
+22-11-2024 00:10:10 | EASY_Big_down_loop | INFO | Bought KAS: 11.29
+22-11-2024 00:10:10 | EASY_Big_down_loop | INFO | Bought KAS: 11.29
+22-11-2024 00:10:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488389686474137600038
+22-11-2024 00:10:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488389688030236672038
+22-11-2024 00:10:14 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 00:10:15 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 00:15:05 | EASY_Big_down_loop | INFO | На состояние 00:15:05 активных ставок: 5, денег: 51.133$
+22-11-2024 00:15:05 | EASY_Big_down_loop | INFO | На состояние 00:15:05 активных ставок: 5, денег: 51.133$
+22-11-2024 00:15:08 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 00:15:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 00:20:05 | EASY_Big_down_loop | INFO | На состояние 00:20:05 активных ставок: 5, денег: 51.133$
+22-11-2024 00:20:05 | EASY_Big_down_loop | INFO | На состояние 00:20:05 активных ставок: 5, денег: 51.133$
+22-11-2024 00:20:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 00:20:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 00:25:05 | EASY_Big_down_loop | INFO | На состояние 00:25:05 активных ставок: 5, денег: 51.133$
+22-11-2024 00:25:05 | EASY_Big_down_loop | INFO | На состояние 00:25:05 активных ставок: 5, денег: 51.133$
+22-11-2024 00:25:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 00:25:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 00:30:05 | EASY_Big_down_loop | INFO | На состояние 00:30:05 активных ставок: 5, денег: 51.133$
+22-11-2024 00:30:05 | EASY_Big_down_loop | INFO | На состояние 00:30:05 активных ставок: 5, денег: 51.133$
+22-11-2024 00:30:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 00:30:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 00:35:05 | EASY_Big_down_loop | INFO | На состояние 00:35:05 активных ставок: 5, денег: 51.133$
+22-11-2024 00:35:05 | EASY_Big_down_loop | INFO | На состояние 00:35:05 активных ставок: 5, денег: 51.133$
+22-11-2024 00:35:09 | EASY_Big_down_loop | INFO | Success! Got 0.004067440000000033usdt intrade C02__488389686474137600038
+22-11-2024 00:35:09 | EASY_Big_down_loop | INFO | Bet C02__488389667658489856038 completed and removed.
+22-11-2024 00:35:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 00:35:10 | EASY_Big_down_loop | INFO | Success! Got 0.004067440000000033usdt intrade C02__488389688030236672038
+22-11-2024 00:35:10 | EASY_Big_down_loop | INFO | Bet C02__488389669201993728038 completed and removed.
+22-11-2024 00:35:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 00:40:05 | EASY_Big_down_loop | INFO | На состояние 00:40:05 активных ставок: 4, денег: 51.137$
+22-11-2024 00:40:05 | EASY_Big_down_loop | INFO | Price change detected: 0.42973929084837437%
+22-11-2024 00:40:05 | EASY_Big_down_loop | INFO | На состояние 00:40:05 активных ставок: 4, денег: 51.137$
+22-11-2024 00:40:06 | EASY_Big_down_loop | INFO | Price change detected: 0.42973929084837437%
+22-11-2024 00:40:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488397216193531904038
+22-11-2024 00:40:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488397218433265664038
+22-11-2024 00:40:10 | EASY_Big_down_loop | INFO | Bought KAS: 11.3
+22-11-2024 00:40:10 | EASY_Big_down_loop | INFO | Bought KAS: 11.3
+22-11-2024 00:40:10 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488397234728161282038
+22-11-2024 00:40:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488397236917587969038
+22-11-2024 00:40:14 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 00:40:14 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 00:45:05 | EASY_Big_down_loop | INFO | На состояние 00:45:05 активных ставок: 5, денег: 51.137$
+22-11-2024 00:45:05 | EASY_Big_down_loop | INFO | На состояние 00:45:05 активных ставок: 5, денег: 51.137$
+22-11-2024 00:45:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 00:45:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 00:50:05 | EASY_Big_down_loop | INFO | На состояние 00:50:05 активных ставок: 5, денег: 51.137$
+22-11-2024 00:50:05 | EASY_Big_down_loop | INFO | На состояние 00:50:05 активных ставок: 5, денег: 51.137$
+22-11-2024 00:50:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 00:50:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 00:55:05 | EASY_Big_down_loop | INFO | На состояние 00:55:05 активных ставок: 5, денег: 51.137$
+22-11-2024 00:55:05 | EASY_Big_down_loop | INFO | На состояние 00:55:05 активных ставок: 5, денег: 51.137$
+22-11-2024 00:55:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 00:55:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 01:00:05 | EASY_Big_down_loop | INFO | На состояние 01:00:05 активных ставок: 5, денег: 51.137$
+22-11-2024 01:00:05 | EASY_Big_down_loop | INFO | На состояние 01:00:05 активных ставок: 5, денег: 51.137$
+22-11-2024 01:00:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 01:00:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 01:05:05 | EASY_Big_down_loop | INFO | На состояние 01:05:05 активных ставок: 5, денег: 51.137$
+22-11-2024 01:05:05 | EASY_Big_down_loop | INFO | На состояние 01:05:05 активных ставок: 5, денег: 51.137$
+22-11-2024 01:05:09 | EASY_Big_down_loop | INFO | Success! Got 0.006559900000000063usdt intrade C02__488397234728161282038
+22-11-2024 01:05:09 | EASY_Big_down_loop | INFO | Bet C02__488397216193531904038 completed and removed.
+22-11-2024 01:05:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 01:05:11 | EASY_Big_down_loop | INFO | Success! Got 0.006559900000000063usdt intrade C02__488397236917587969038
+22-11-2024 01:05:11 | EASY_Big_down_loop | INFO | Bet C02__488397218433265664038 completed and removed.
+22-11-2024 01:05:11 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 01:10:05 | EASY_Big_down_loop | INFO | На состояние 01:10:05 активных ставок: 4, денег: 51.144$
+22-11-2024 01:10:05 | EASY_Big_down_loop | INFO | На состояние 01:10:05 активных ставок: 4, денег: 51.144$
+22-11-2024 01:10:08 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 01:10:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 01:15:05 | EASY_Big_down_loop | INFO | На состояние 01:15:05 активных ставок: 4, денег: 51.144$
+22-11-2024 01:15:05 | EASY_Big_down_loop | INFO | На состояние 01:15:05 активных ставок: 4, денег: 51.144$
+22-11-2024 01:15:08 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 01:15:08 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 01:20:05 | EASY_Big_down_loop | INFO | На состояние 01:20:05 активных ставок: 4, денег: 51.144$
+22-11-2024 01:20:05 | EASY_Big_down_loop | INFO | На состояние 01:20:05 активных ставок: 4, денег: 51.144$
+22-11-2024 01:20:10 | EASY_Big_down_loop | INFO | Success! Got 0.011575000000000113usdt intrade C02__488382137305726976038
+22-11-2024 01:20:10 | EASY_Big_down_loop | INFO | Bet C02__488382116409737217038 completed and removed.
+22-11-2024 01:20:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 01:20:10 | EASY_Big_down_loop | INFO | Success! Got 0.011575000000000113usdt intrade C02__488382139298025472038
+22-11-2024 01:20:10 | EASY_Big_down_loop | INFO | Bet C02__488382118070644736038 completed and removed.
+22-11-2024 01:20:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 01:25:05 | EASY_Big_down_loop | INFO | На состояние 01:25:05 активных ставок: 3, денег: 51.155$
+22-11-2024 01:25:05 | EASY_Big_down_loop | INFO | На состояние 01:25:05 активных ставок: 3, денег: 51.155$
+22-11-2024 01:25:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 01:25:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 01:30:05 | EASY_Big_down_loop | INFO | На состояние 01:30:05 активных ставок: 3, денег: 51.155$
+22-11-2024 01:30:05 | EASY_Big_down_loop | INFO | На состояние 01:30:05 активных ставок: 3, денег: 51.155$
+22-11-2024 01:30:09 | EASY_Big_down_loop | INFO | Failure! Got-1.7 usdt in tradeC02__488283989837172736038
+22-11-2024 01:30:10 | EASY_Big_down_loop | INFO | Failure! Got-0.028589039999999954 usdt in tradeC02__488283987349946370038
+22-11-2024 01:30:10 | EASY_Big_down_loop | INFO | Bet C02__488283971499679744038 completed and removed.
+22-11-2024 01:30:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 01:30:11 | EASY_Big_down_loop | INFO | Bet C02__488283968802729985038 completed and removed.
+22-11-2024 01:30:11 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 01:35:05 | EASY_Big_down_loop | INFO | На состояние 01:35:05 активных ставок: 2, денег: 49.455$
+22-11-2024 01:35:05 | EASY_Big_down_loop | INFO | На состояние 01:35:05 активных ставок: 2, денег: 51.127$
+22-11-2024 01:35:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 01:35:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 01:40:05 | EASY_Big_down_loop | INFO | На состояние 01:40:05 активных ставок: 2, денег: 49.455$
+22-11-2024 01:40:05 | EASY_Big_down_loop | INFO | На состояние 01:40:05 активных ставок: 2, денег: 51.127$
+22-11-2024 01:40:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 01:40:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 01:45:05 | EASY_Big_down_loop | INFO | На состояние 01:45:05 активных ставок: 2, денег: 49.455$
+22-11-2024 01:45:05 | EASY_Big_down_loop | INFO | На состояние 01:45:05 активных ставок: 2, денег: 51.127$
+22-11-2024 01:45:09 | EASY_Big_down_loop | INFO | Failure! Got-0.010729070000000007 usdt in tradeC02__488287764895330304038
+22-11-2024 01:45:10 | EASY_Big_down_loop | INFO | Failure! Got-0.010729070000000007 usdt in tradeC02__488287768460464128038
+22-11-2024 01:45:10 | EASY_Big_down_loop | INFO | Bet C02__488287745035304960038 completed and removed.
+22-11-2024 01:45:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 01:45:10 | EASY_Big_down_loop | INFO | Bet C02__488287748495589376038 completed and removed.
+22-11-2024 01:45:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 01:50:05 | EASY_Big_down_loop | INFO | На состояние 01:50:05 активных ставок: 1, денег: 51.116$
+22-11-2024 01:50:06 | EASY_Big_down_loop | INFO | На состояние 01:50:06 активных ставок: 1, денег: 49.445$
+22-11-2024 01:50:10 | EASY_Big_down_loop | INFO | Failure! Got-1.7 usdt in tradeC02__488289023740170240038
+22-11-2024 01:50:10 | EASY_Big_down_loop | INFO | Bet C02__488289003037073438038 completed and removed.
+22-11-2024 01:50:10 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.65
+22-11-2024 01:50:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 01:50:10 | EASY_Big_down_loop | INFO | Failure! Got-1.7 usdt in tradeC02__488289024520290304038
+22-11-2024 01:50:10 | EASY_Big_down_loop | INFO | Bet C02__488289004903526400038 completed and removed.
+22-11-2024 01:50:10 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.59
+22-11-2024 01:50:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 01:55:05 | EASY_Big_down_loop | INFO | На состояние 01:55:05 активных ставок: 0, денег: 49.416$
+22-11-2024 01:55:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.65
+22-11-2024 01:55:05 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 01:55:05 | EASY_Big_down_loop | INFO | На состояние 01:55:05 активных ставок: 0, денег: 47.745$
+22-11-2024 01:55:06 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.59
+22-11-2024 01:55:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 02:00:05 | EASY_Big_down_loop | INFO | На состояние 02:00:05 активных ставок: 0, денег: 47.745$
+22-11-2024 02:00:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.59
+22-11-2024 02:00:05 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 02:00:05 | EASY_Big_down_loop | INFO | На состояние 02:00:05 активных ставок: 0, денег: 49.416$
+22-11-2024 02:00:06 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.65
+22-11-2024 02:00:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 02:05:05 | EASY_Big_down_loop | INFO | На состояние 02:05:05 активных ставок: 0, денег: 49.416$
+22-11-2024 02:05:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.65
+22-11-2024 02:05:05 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 02:05:05 | EASY_Big_down_loop | INFO | На состояние 02:05:05 активных ставок: 0, денег: 47.745$
+22-11-2024 02:05:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.59
+22-11-2024 02:05:05 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 02:10:05 | EASY_Big_down_loop | INFO | На состояние 02:10:05 активных ставок: 0, денег: 49.416$
+22-11-2024 02:10:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.65
+22-11-2024 02:10:05 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 02:10:05 | EASY_Big_down_loop | INFO | На состояние 02:10:05 активных ставок: 0, денег: 47.745$
+22-11-2024 02:10:06 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.59
+22-11-2024 02:10:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 02:15:05 | EASY_Big_down_loop | INFO | На состояние 02:15:05 активных ставок: 0, денег: 47.745$
+22-11-2024 02:15:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.59
+22-11-2024 02:15:05 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 02:15:05 | EASY_Big_down_loop | INFO | На состояние 02:15:05 активных ставок: 0, денег: 49.416$
+22-11-2024 02:15:06 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.65
+22-11-2024 02:15:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 02:20:05 | EASY_Big_down_loop | INFO | На состояние 02:20:05 активных ставок: 0, денег: 49.416$
+22-11-2024 02:20:05 | EASY_Big_down_loop | INFO | На состояние 02:20:05 активных ставок: 0, денег: 47.745$
+22-11-2024 02:20:05 | EASY_Big_down_loop | INFO | Price change detected: 0.4965562839061022%
+22-11-2024 02:20:05 | EASY_Big_down_loop | INFO | Price change detected: 0.4965562839061022%
+22-11-2024 02:20:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488422382021709824038
+22-11-2024 02:20:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488422383523278850038
+22-11-2024 02:20:10 | EASY_Big_down_loop | INFO | Bought KAS: 10.82
+22-11-2024 02:20:10 | EASY_Big_down_loop | INFO | Bought KAS: 10.42
+22-11-2024 02:20:10 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488422401130946560038
+22-11-2024 02:20:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488422403253301252038
+22-11-2024 02:20:11 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 02:20:12 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 02:25:05 | EASY_Big_down_loop | INFO | На состояние 02:25:05 активных ставок: 1, денег: 47.745$
+22-11-2024 02:25:05 | EASY_Big_down_loop | INFO | На состояние 02:25:05 активных ставок: 1, денег: 49.416$
+22-11-2024 02:25:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 02:25:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 02:30:05 | EASY_Big_down_loop | INFO | На состояние 02:30:05 активных ставок: 1, денег: 47.745$
+22-11-2024 02:30:05 | EASY_Big_down_loop | INFO | На состояние 02:30:05 активных ставок: 1, денег: 49.416$
+22-11-2024 02:30:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 02:30:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 02:35:05 | EASY_Big_down_loop | INFO | На состояние 02:35:05 активных ставок: 1, денег: 47.745$
+22-11-2024 02:35:05 | EASY_Big_down_loop | INFO | На состояние 02:35:05 активных ставок: 1, денег: 49.416$
+22-11-2024 02:35:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 02:35:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 02:40:05 | EASY_Big_down_loop | INFO | На состояние 02:40:05 активных ставок: 1, денег: 47.745$
+22-11-2024 02:40:05 | EASY_Big_down_loop | INFO | На состояние 02:40:05 активных ставок: 1, денег: 49.416$
+22-11-2024 02:40:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 02:40:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 02:45:05 | EASY_Big_down_loop | INFO | На состояние 02:45:05 активных ставок: 1, денег: 47.745$
+22-11-2024 02:45:05 | EASY_Big_down_loop | INFO | На состояние 02:45:05 активных ставок: 1, денег: 49.416$
+22-11-2024 02:45:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 02:45:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 02:50:05 | EASY_Big_down_loop | INFO | На состояние 02:50:05 активных ставок: 1, денег: 47.745$
+22-11-2024 02:50:05 | EASY_Big_down_loop | INFO | На состояние 02:50:05 активных ставок: 1, денег: 49.416$
+22-11-2024 02:50:07 | EASY_Big_down_loop | INFO | Success! Got 0.006927519999999854usdt intrade C02__488422403253301252038
+22-11-2024 02:50:07 | EASY_Big_down_loop | INFO | Bet C02__488422383523278850038 completed and removed.
+22-11-2024 02:50:07 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.59
+22-11-2024 02:50:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 02:50:07 | EASY_Big_down_loop | INFO | Success! Got 0.008229920000000002usdt intrade C02__488422401130946560038
+22-11-2024 02:50:07 | EASY_Big_down_loop | INFO | Bet C02__488422382021709824038 completed and removed.
+22-11-2024 02:50:07 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.65
+22-11-2024 02:50:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 02:55:05 | EASY_Big_down_loop | INFO | На состояние 02:55:05 активных ставок: 0, денег: 47.752$
+22-11-2024 02:55:05 | EASY_Big_down_loop | INFO | На состояние 02:55:05 активных ставок: 0, денег: 49.424$
+22-11-2024 02:55:06 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.59
+22-11-2024 02:55:06 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.65
+22-11-2024 02:55:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 02:55:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 03:00:05 | EASY_Big_down_loop | INFO | На состояние 03:00:05 активных ставок: 0, денег: 47.752$
+22-11-2024 03:00:05 | EASY_Big_down_loop | INFO | На состояние 03:00:05 активных ставок: 0, денег: 49.424$
+22-11-2024 03:00:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.65
+22-11-2024 03:00:05 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 03:00:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.59
+22-11-2024 03:00:05 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 03:05:05 | EASY_Big_down_loop | INFO | На состояние 03:05:05 активных ставок: 0, денег: 49.424$
+22-11-2024 03:05:05 | EASY_Big_down_loop | INFO | На состояние 03:05:05 активных ставок: 0, денег: 47.752$
+22-11-2024 03:05:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.65
+22-11-2024 03:05:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.59
+22-11-2024 03:05:05 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 03:05:05 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 03:10:05 | EASY_Big_down_loop | INFO | На состояние 03:10:05 активных ставок: 0, денег: 49.424$
+22-11-2024 03:10:05 | EASY_Big_down_loop | INFO | На состояние 03:10:05 активных ставок: 0, денег: 47.752$
+22-11-2024 03:10:06 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.65
+22-11-2024 03:10:06 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.59
+22-11-2024 03:10:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 03:10:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 03:15:05 | EASY_Big_down_loop | INFO | На состояние 03:15:05 активных ставок: 0, денег: 47.752$
+22-11-2024 03:15:05 | EASY_Big_down_loop | INFO | На состояние 03:15:05 активных ставок: 0, денег: 49.424$
+22-11-2024 03:15:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.59
+22-11-2024 03:15:05 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 03:15:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.65
+22-11-2024 03:15:05 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 03:20:05 | EASY_Big_down_loop | INFO | На состояние 03:20:05 активных ставок: 0, денег: 47.752$
+22-11-2024 03:20:05 | EASY_Big_down_loop | INFO | На состояние 03:20:05 активных ставок: 0, денег: 49.424$
+22-11-2024 03:20:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.59
+22-11-2024 03:20:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.65
+22-11-2024 03:20:05 | EASY_Big_down_loop | ERROR | Error loading bets file: 1 validation error for Bets
+  Invalid JSON: EOF while parsing a value at line 1 column 0 [type=json_invalid, input_value=b'', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.9/v/json_invalid
+22-11-2024 03:20:05 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 03:20:35 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 03:25:05 | EASY_Big_down_loop | INFO | На состояние 03:25:05 активных ставок: 0, денег: 49.424$
+22-11-2024 03:25:05 | EASY_Big_down_loop | INFO | На состояние 03:25:05 активных ставок: 0, денег: 47.752$
+22-11-2024 03:25:06 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.59
+22-11-2024 03:25:06 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.65
+22-11-2024 03:25:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 03:25:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 03:30:05 | EASY_Big_down_loop | INFO | На состояние 03:30:05 активных ставок: 0, денег: 47.752$
+22-11-2024 03:30:05 | EASY_Big_down_loop | INFO | На состояние 03:30:05 активных ставок: 0, денег: 49.424$
+22-11-2024 03:30:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.59
+22-11-2024 03:30:05 | EASY_Big_down_loop | INFO | No active bets. New bet size: 1.65
+22-11-2024 03:30:05 | EASY_Big_down_loop | ERROR | Error loading bets file: 1 validation error for Bets
+  Invalid JSON: EOF while parsing a value at line 1 column 0 [type=json_invalid, input_value=b'', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.9/v/json_invalid
+22-11-2024 03:30:05 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 03:30:35 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 03:35:05 | EASY_Big_down_loop | INFO | На состояние 03:35:05 активных ставок: 0, денег: 49.424$
+22-11-2024 03:35:05 | EASY_Big_down_loop | INFO | На состояние 03:35:05 активных ставок: 0, денег: 47.752$
+22-11-2024 03:35:05 | EASY_Big_down_loop | INFO | Price change detected: 0.45560221187770367%
+22-11-2024 03:35:05 | EASY_Big_down_loop | INFO | Price change detected: 0.45560221187770367%
+22-11-2024 03:35:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488441257484451840038
+22-11-2024 03:35:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488441257522167808038
+22-11-2024 03:35:10 | EASY_Big_down_loop | INFO | Bought KAS: 10.79
+22-11-2024 03:35:10 | EASY_Big_down_loop | INFO | Bought KAS: 10.79
+22-11-2024 03:35:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488441277210230786038
+22-11-2024 03:35:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488441277805813760038
+22-11-2024 03:35:11 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 03:35:12 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 03:40:05 | EASY_Big_down_loop | INFO | На состояние 03:40:05 активных ставок: 1, денег: 49.424$
+22-11-2024 03:40:05 | EASY_Big_down_loop | INFO | На состояние 03:40:05 активных ставок: 1, денег: 47.752$
+22-11-2024 03:40:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 03:40:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 03:45:05 | EASY_Big_down_loop | INFO | На состояние 03:45:05 активных ставок: 1, денег: 47.752$
+22-11-2024 03:45:05 | EASY_Big_down_loop | INFO | На состояние 03:45:05 активных ставок: 1, денег: 49.424$
+22-11-2024 03:45:05 | EASY_Big_down_loop | INFO | Price change detected: 0.49568088725209236%
+22-11-2024 03:45:05 | EASY_Big_down_loop | INFO | Price change detected: 0.49568088725209236%
+22-11-2024 03:45:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488443771709648896038
+22-11-2024 03:45:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488443772154208256038
+22-11-2024 03:45:09 | EASY_Big_down_loop | INFO | Bought KAS: 10.85
+22-11-2024 03:45:10 | EASY_Big_down_loop | INFO | Bought KAS: 10.85
+22-11-2024 03:45:10 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488443790466576384038
+22-11-2024 03:45:10 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488443791464800256038
+22-11-2024 03:45:11 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 03:45:12 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 03:50:05 | EASY_Big_down_loop | INFO | На состояние 03:50:05 активных ставок: 2, денег: 47.752$
+22-11-2024 03:50:05 | EASY_Big_down_loop | INFO | На состояние 03:50:05 активных ставок: 2, денег: 49.424$
+22-11-2024 03:50:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 03:50:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 03:55:05 | EASY_Big_down_loop | INFO | На состояние 03:55:05 активных ставок: 2, денег: 49.424$
+22-11-2024 03:55:05 | EASY_Big_down_loop | INFO | На состояние 03:55:05 активных ставок: 2, денег: 47.752$
+22-11-2024 03:55:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 03:55:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 04:00:05 | EASY_Big_down_loop | INFO | На состояние 04:00:05 активных ставок: 2, денег: 49.424$
+22-11-2024 04:00:05 | EASY_Big_down_loop | INFO | На состояние 04:00:05 активных ставок: 2, денег: 47.752$
+22-11-2024 04:00:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 04:00:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 04:05:05 | EASY_Big_down_loop | INFO | На состояние 04:05:05 активных ставок: 2, денег: 47.752$
+22-11-2024 04:05:05 | EASY_Big_down_loop | INFO | Price change detected: 0.4821822512894869%
+22-11-2024 04:05:05 | EASY_Big_down_loop | INFO | На состояние 04:05:05 активных ставок: 2, денег: 49.424$
+22-11-2024 04:05:06 | EASY_Big_down_loop | INFO | Price change detected: 0.4821822512894869%
+22-11-2024 04:05:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488448805461651456038
+22-11-2024 04:05:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488448808015974400038
+22-11-2024 04:05:09 | EASY_Big_down_loop | INFO | Bought KAS: 10.85
+22-11-2024 04:05:10 | EASY_Big_down_loop | INFO | Bought KAS: 10.85
+22-11-2024 04:05:10 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488448823807504387038
+22-11-2024 04:05:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488448826244411392038
+22-11-2024 04:05:12 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 04:05:13 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 04:10:05 | EASY_Big_down_loop | INFO | На состояние 04:10:05 активных ставок: 3, денег: 49.424$
+22-11-2024 04:10:05 | EASY_Big_down_loop | INFO | На состояние 04:10:05 активных ставок: 3, денег: 47.752$
+22-11-2024 04:10:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 04:10:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 04:15:05 | EASY_Big_down_loop | INFO | На состояние 04:15:05 активных ставок: 3, денег: 49.424$
+22-11-2024 04:15:05 | EASY_Big_down_loop | INFO | На состояние 04:15:05 активных ставок: 3, денег: 47.752$
+22-11-2024 04:15:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 04:15:08 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 04:20:05 | EASY_Big_down_loop | INFO | На состояние 04:20:05 активных ставок: 3, денег: 47.752$
+22-11-2024 04:20:05 | EASY_Big_down_loop | INFO | Price change detected: 0.494250375777483%
+22-11-2024 04:20:05 | EASY_Big_down_loop | INFO | На состояние 04:20:05 активных ставок: 3, денег: 49.424$
+22-11-2024 04:20:06 | EASY_Big_down_loop | INFO | Price change detected: 0.494250375777483%
+22-11-2024 04:20:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488452579961966594038
+22-11-2024 04:20:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488452582784716801038
+22-11-2024 04:20:09 | EASY_Big_down_loop | INFO | Bought KAS: 10.86
+22-11-2024 04:20:10 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488452598324625408038
+22-11-2024 04:20:10 | EASY_Big_down_loop | INFO | Bought KAS: 10.86
+22-11-2024 04:20:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488452601180925954038
+22-11-2024 04:20:13 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 04:20:13 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 04:25:05 | EASY_Big_down_loop | INFO | На состояние 04:25:05 активных ставок: 4, денег: 47.752$
+22-11-2024 04:25:05 | EASY_Big_down_loop | INFO | Price change detected: 0.5665386095643044%
+22-11-2024 04:25:05 | EASY_Big_down_loop | INFO | На состояние 04:25:05 активных ставок: 4, денег: 49.424$
+22-11-2024 04:25:06 | EASY_Big_down_loop | INFO | Price change detected: 0.5665386095643044%
+22-11-2024 04:25:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488453838232158208038
+22-11-2024 04:25:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488453840828456960038
+22-11-2024 04:25:09 | EASY_Big_down_loop | INFO | Bought KAS: 10.93
+22-11-2024 04:25:10 | EASY_Big_down_loop | INFO | Bought KAS: 10.93
+22-11-2024 04:25:10 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488453856489992192038
+22-11-2024 04:25:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488453859165921280038
+22-11-2024 04:25:13 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 04:25:14 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 04:30:05 | EASY_Big_down_loop | INFO | На состояние 04:30:05 активных ставок: 5, денег: 49.424$
+22-11-2024 04:30:05 | EASY_Big_down_loop | INFO | На состояние 04:30:05 активных ставок: 5, денег: 47.752$
+22-11-2024 04:30:08 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 04:30:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 04:35:05 | EASY_Big_down_loop | INFO | На состояние 04:35:05 активных ставок: 5, денег: 47.752$
+22-11-2024 04:35:05 | EASY_Big_down_loop | INFO | На состояние 04:35:05 активных ставок: 5, денег: 49.424$
+22-11-2024 04:35:08 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 04:35:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 04:40:05 | EASY_Big_down_loop | INFO | На состояние 04:40:05 активных ставок: 5, денег: 49.424$
+22-11-2024 04:40:05 | EASY_Big_down_loop | INFO | На состояние 04:40:05 активных ставок: 5, денег: 47.752$
+22-11-2024 04:40:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 04:40:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 04:45:05 | EASY_Big_down_loop | INFO | На состояние 04:45:05 активных ставок: 5, денег: 49.424$
+22-11-2024 04:45:05 | EASY_Big_down_loop | INFO | На состояние 04:45:05 активных ставок: 5, денег: 47.752$
+22-11-2024 04:45:08 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 04:45:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 04:50:05 | EASY_Big_down_loop | INFO | На состояние 04:50:05 активных ставок: 5, денег: 47.752$
+22-11-2024 04:50:05 | EASY_Big_down_loop | INFO | На состояние 04:50:05 активных ставок: 5, денег: 49.424$
+22-11-2024 04:50:08 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 04:50:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 04:55:05 | EASY_Big_down_loop | INFO | На состояние 04:55:05 активных ставок: 5, денег: 49.424$
+22-11-2024 04:55:05 | EASY_Big_down_loop | INFO | На состояние 04:55:05 активных ставок: 5, денег: 47.752$
+22-11-2024 04:55:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 04:55:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 05:00:05 | EASY_Big_down_loop | INFO | На состояние 05:00:05 активных ставок: 5, денег: 47.752$
+22-11-2024 05:00:05 | EASY_Big_down_loop | INFO | На состояние 05:00:05 активных ставок: 5, денег: 49.424$
+22-11-2024 05:00:05 | EASY_Big_down_loop | INFO | Price change detected: 0.6665395572781563%
+22-11-2024 05:00:05 | EASY_Big_down_loop | INFO | Price change detected: 0.6665395572781563%
+22-11-2024 05:00:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488462647176523776038
+22-11-2024 05:00:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488462648099311616038
+22-11-2024 05:00:10 | EASY_Big_down_loop | INFO | Bought KAS: 10.96
+22-11-2024 05:00:10 | EASY_Big_down_loop | INFO | Bought KAS: 10.96
+22-11-2024 05:00:10 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488462666931732480038
+22-11-2024 05:00:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488462667896389632038
+22-11-2024 05:00:14 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 05:00:15 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 05:05:05 | EASY_Big_down_loop | INFO | На состояние 05:05:05 активных ставок: 6, денег: 49.424$
+22-11-2024 05:05:05 | EASY_Big_down_loop | INFO | На состояние 05:05:05 активных ставок: 6, денег: 47.752$
+22-11-2024 05:05:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 05:05:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 05:10:05 | EASY_Big_down_loop | INFO | На состояние 05:10:05 активных ставок: 6, денег: 47.752$
+22-11-2024 05:10:05 | EASY_Big_down_loop | INFO | На состояние 05:10:05 активных ставок: 6, денег: 49.424$
+22-11-2024 05:10:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 05:10:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 05:15:05 | EASY_Big_down_loop | INFO | На состояние 05:15:05 активных ставок: 6, денег: 47.752$
+22-11-2024 05:15:05 | EASY_Big_down_loop | INFO | На состояние 05:15:05 активных ставок: 6, денег: 49.424$
+22-11-2024 05:15:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 05:15:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 05:20:05 | EASY_Big_down_loop | INFO | На состояние 05:20:05 активных ставок: 6, денег: 47.752$
+22-11-2024 05:20:05 | EASY_Big_down_loop | INFO | На состояние 05:20:05 активных ставок: 6, денег: 49.424$
+22-11-2024 05:20:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 05:20:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 05:25:05 | EASY_Big_down_loop | INFO | На состояние 05:25:05 активных ставок: 6, денег: 47.752$
+22-11-2024 05:25:05 | EASY_Big_down_loop | INFO | На состояние 05:25:05 активных ставок: 6, денег: 49.424$
+22-11-2024 05:25:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 05:25:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 05:30:05 | EASY_Big_down_loop | INFO | На состояние 05:30:05 активных ставок: 6, денег: 49.424$
+22-11-2024 05:30:05 | EASY_Big_down_loop | INFO | На состояние 05:30:05 активных ставок: 6, денег: 47.752$
+22-11-2024 05:30:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 05:30:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 05:35:05 | EASY_Big_down_loop | INFO | На состояние 05:35:05 активных ставок: 6, денег: 49.424$
+22-11-2024 05:35:05 | EASY_Big_down_loop | INFO | На состояние 05:35:05 активных ставок: 6, денег: 47.752$
+22-11-2024 05:35:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 05:35:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 05:40:05 | EASY_Big_down_loop | INFO | На состояние 05:40:05 активных ставок: 6, денег: 49.424$
+22-11-2024 05:40:05 | EASY_Big_down_loop | INFO | На состояние 05:40:05 активных ставок: 6, денег: 47.752$
+22-11-2024 05:40:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 05:40:11 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 05:45:05 | EASY_Big_down_loop | INFO | На состояние 05:45:05 активных ставок: 6, денег: 49.424$
+22-11-2024 05:45:05 | EASY_Big_down_loop | INFO | На состояние 05:45:05 активных ставок: 6, денег: 47.752$
+22-11-2024 05:45:05 | EASY_Big_down_loop | INFO | Price change detected: 0.9034548886120319%
+22-11-2024 05:45:05 | EASY_Big_down_loop | INFO | Price change detected: 0.9034548886120319%
+22-11-2024 05:45:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488473971600203776038
+22-11-2024 05:45:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488473972447440901038
+22-11-2024 05:45:09 | EASY_Big_down_loop | INFO | Bought KAS: 11.08
+22-11-2024 05:45:10 | EASY_Big_down_loop | INFO | Bought KAS: 11.08
+22-11-2024 05:45:10 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488473989853822976038
+22-11-2024 05:45:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488473992726929409038
+22-11-2024 05:45:15 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 05:45:16 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 05:50:05 | EASY_Big_down_loop | INFO | На состояние 05:50:05 активных ставок: 7, денег: 47.752$
+22-11-2024 05:50:05 | EASY_Big_down_loop | INFO | На состояние 05:50:05 активных ставок: 7, денег: 49.424$
+22-11-2024 05:50:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 05:50:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 05:55:05 | EASY_Big_down_loop | INFO | На состояние 05:55:05 активных ставок: 7, денег: 49.424$
+22-11-2024 05:55:05 | EASY_Big_down_loop | INFO | На состояние 05:55:05 активных ставок: 7, денег: 47.752$
+22-11-2024 05:55:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 05:55:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 06:00:05 | EASY_Big_down_loop | INFO | На состояние 06:00:05 активных ставок: 7, денег: 49.424$
+22-11-2024 06:00:05 | EASY_Big_down_loop | INFO | На состояние 06:00:05 активных ставок: 7, денег: 47.752$
+22-11-2024 06:00:05 | EASY_Big_down_loop | INFO | Price change detected: 0.4092077724635601%
+22-11-2024 06:00:05 | EASY_Big_down_loop | INFO | Price change detected: 0.4092077724635601%
+22-11-2024 06:00:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488477745525907457038
+22-11-2024 06:00:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488477746855485441038
+22-11-2024 06:00:09 | EASY_Big_down_loop | INFO | Bought KAS: 11.08
+22-11-2024 06:00:09 | EASY_Big_down_loop | INFO | Bought KAS: 11.08
+22-11-2024 06:00:10 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488477763880165376038
+22-11-2024 06:00:10 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488477765104914432038
+22-11-2024 06:00:15 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 06:00:15 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 06:05:05 | EASY_Big_down_loop | INFO | На состояние 06:05:05 активных ставок: 8, денег: 49.424$
+22-11-2024 06:05:05 | EASY_Big_down_loop | INFO | На состояние 06:05:05 активных ставок: 8, денег: 47.752$
+22-11-2024 06:05:11 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 06:05:11 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 06:10:05 | EASY_Big_down_loop | INFO | На состояние 06:10:05 активных ставок: 8, денег: 49.424$
+22-11-2024 06:10:05 | EASY_Big_down_loop | INFO | На состояние 06:10:05 активных ставок: 8, денег: 47.752$
+22-11-2024 06:10:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 06:10:11 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 06:15:05 | EASY_Big_down_loop | INFO | На состояние 06:15:05 активных ставок: 8, денег: 47.752$
+22-11-2024 06:15:05 | EASY_Big_down_loop | INFO | На состояние 06:15:05 активных ставок: 8, денег: 49.424$
+22-11-2024 06:15:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 06:15:11 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 06:20:05 | EASY_Big_down_loop | INFO | На состояние 06:20:05 активных ставок: 8, денег: 49.424$
+22-11-2024 06:20:05 | EASY_Big_down_loop | INFO | На состояние 06:20:05 активных ставок: 8, денег: 47.752$
+22-11-2024 06:20:12 | EASY_Big_down_loop | INFO | Success! Got 0.0070694000000000035usdt intrade C02__488477765104914432038
+22-11-2024 06:20:12 | EASY_Big_down_loop | INFO | Bet C02__488477746855485441038 completed and removed.
+22-11-2024 06:20:12 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 06:20:12 | EASY_Big_down_loop | INFO | Success! Got 0.0070694000000000035usdt intrade C02__488477763880165376038
+22-11-2024 06:20:12 | EASY_Big_down_loop | INFO | Bet C02__488477745525907457038 completed and removed.
+22-11-2024 06:20:12 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 06:25:05 | EASY_Big_down_loop | INFO | На состояние 06:25:05 активных ставок: 7, денег: 47.759$
+22-11-2024 06:25:05 | EASY_Big_down_loop | INFO | На состояние 06:25:05 активных ставок: 7, денег: 49.431$
+22-11-2024 06:25:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 06:25:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 06:30:05 | EASY_Big_down_loop | INFO | На состояние 06:30:05 активных ставок: 7, денег: 47.759$
+22-11-2024 06:30:05 | EASY_Big_down_loop | INFO | На состояние 06:30:05 активных ставок: 7, денег: 49.431$
+22-11-2024 06:30:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 06:30:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 06:35:05 | EASY_Big_down_loop | INFO | На состояние 06:35:05 активных ставок: 7, денег: 49.431$
+22-11-2024 06:35:05 | EASY_Big_down_loop | INFO | На состояние 06:35:05 активных ставок: 7, денег: 47.759$
+22-11-2024 06:35:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 06:35:11 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 06:40:05 | EASY_Big_down_loop | INFO | На состояние 06:40:05 активных ставок: 7, денег: 47.759$
+22-11-2024 06:40:05 | EASY_Big_down_loop | INFO | На состояние 06:40:05 активных ставок: 7, денег: 49.431$
+22-11-2024 06:40:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 06:40:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 06:45:05 | EASY_Big_down_loop | INFO | На состояние 06:45:05 активных ставок: 7, денег: 47.759$
+22-11-2024 06:45:05 | EASY_Big_down_loop | INFO | На состояние 06:45:05 активных ставок: 7, денег: 49.431$
+22-11-2024 06:45:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 06:45:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 06:50:05 | EASY_Big_down_loop | INFO | На состояние 06:50:05 активных ставок: 7, денег: 47.759$
+22-11-2024 06:50:05 | EASY_Big_down_loop | INFO | На состояние 06:50:05 активных ставок: 7, денег: 49.431$
+22-11-2024 06:50:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 06:50:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 06:55:05 | EASY_Big_down_loop | INFO | На состояние 06:55:05 активных ставок: 7, денег: 49.431$
+22-11-2024 06:55:05 | EASY_Big_down_loop | INFO | На состояние 06:55:05 активных ставок: 7, денег: 47.759$
+22-11-2024 06:55:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 06:55:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 07:00:05 | EASY_Big_down_loop | INFO | На состояние 07:00:05 активных ставок: 7, денег: 49.431$
+22-11-2024 07:00:05 | EASY_Big_down_loop | INFO | На состояние 07:00:05 активных ставок: 7, денег: 47.759$
+22-11-2024 07:00:10 | EASY_Big_down_loop | INFO | Success! Got 0.014216000000000006usdt intrade C02__488473989853822976038
+22-11-2024 07:00:10 | EASY_Big_down_loop | INFO | Bet C02__488473971600203776038 completed and removed.
+22-11-2024 07:00:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 07:00:11 | EASY_Big_down_loop | INFO | Success! Got 0.014216000000000006usdt intrade C02__488473992726929409038
+22-11-2024 07:00:11 | EASY_Big_down_loop | INFO | Bet C02__488473972447440901038 completed and removed.
+22-11-2024 07:00:11 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 07:05:05 | EASY_Big_down_loop | INFO | На состояние 07:05:05 активных ставок: 6, денег: 47.773$
+22-11-2024 07:05:05 | EASY_Big_down_loop | INFO | На состояние 07:05:05 активных ставок: 6, денег: 49.446$
+22-11-2024 07:05:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 07:05:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 07:10:05 | EASY_Big_down_loop | INFO | На состояние 07:10:05 активных ставок: 6, денег: 49.446$
+22-11-2024 07:10:05 | EASY_Big_down_loop | INFO | На состояние 07:10:05 активных ставок: 6, денег: 47.773$
+22-11-2024 07:10:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 07:10:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 07:15:05 | EASY_Big_down_loop | INFO | На состояние 07:15:05 активных ставок: 6, денег: 49.446$
+22-11-2024 07:15:05 | EASY_Big_down_loop | INFO | На состояние 07:15:05 активных ставок: 6, денег: 47.773$
+22-11-2024 07:15:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 07:15:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 07:20:05 | EASY_Big_down_loop | INFO | На состояние 07:20:05 активных ставок: 6, денег: 47.773$
+22-11-2024 07:20:05 | EASY_Big_down_loop | INFO | На состояние 07:20:05 активных ставок: 6, денег: 49.446$
+22-11-2024 07:20:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 07:20:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 07:25:05 | EASY_Big_down_loop | INFO | На состояние 07:25:05 активных ставок: 6, денег: 47.773$
+22-11-2024 07:25:05 | EASY_Big_down_loop | INFO | На состояние 07:25:05 активных ставок: 6, денег: 49.446$
+22-11-2024 07:25:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 07:25:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 07:30:05 | EASY_Big_down_loop | INFO | На состояние 07:30:05 активных ставок: 6, денег: 47.773$
+22-11-2024 07:30:05 | EASY_Big_down_loop | INFO | На состояние 07:30:05 активных ставок: 6, денег: 49.446$
+22-11-2024 07:30:10 | EASY_Big_down_loop | INFO | Success! Got 0.01075784000000013usdt intrade C02__488462667896389632038
+22-11-2024 07:30:10 | EASY_Big_down_loop | INFO | Bet C02__488462648099311616038 completed and removed.
+22-11-2024 07:30:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 07:30:10 | EASY_Big_down_loop | INFO | Success! Got 0.01075784000000013usdt intrade C02__488462667896389632038
+22-11-2024 07:30:10 | EASY_Big_down_loop | INFO | Bet C02__488462648099311616038 completed and removed.
+22-11-2024 07:30:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 07:35:05 | EASY_Big_down_loop | INFO | На состояние 07:35:05 активных ставок: 5, денег: 47.784$
+22-11-2024 07:35:05 | EASY_Big_down_loop | INFO | На состояние 07:35:05 активных ставок: 5, денег: 49.456$
+22-11-2024 07:35:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 07:35:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 07:40:05 | EASY_Big_down_loop | INFO | На состояние 07:40:05 активных ставок: 5, денег: 47.784$
+22-11-2024 07:40:05 | EASY_Big_down_loop | INFO | На состояние 07:40:05 активных ставок: 5, денег: 49.456$
+22-11-2024 07:40:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 07:40:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 07:45:05 | EASY_Big_down_loop | INFO | На состояние 07:45:05 активных ставок: 5, денег: 47.784$
+22-11-2024 07:45:05 | EASY_Big_down_loop | INFO | На состояние 07:45:05 активных ставок: 5, денег: 49.456$
+22-11-2024 07:45:08 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 07:45:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 07:50:05 | EASY_Big_down_loop | INFO | На состояние 07:50:05 активных ставок: 5, денег: 49.456$
+22-11-2024 07:50:05 | EASY_Big_down_loop | INFO | На состояние 07:50:05 активных ставок: 5, денег: 47.784$
+22-11-2024 07:50:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 07:50:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 07:55:05 | EASY_Big_down_loop | INFO | На состояние 07:55:05 активных ставок: 5, денег: 49.456$
+22-11-2024 07:55:05 | EASY_Big_down_loop | INFO | На состояние 07:55:05 активных ставок: 5, денег: 47.784$
+22-11-2024 07:55:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 07:55:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 08:00:05 | EASY_Big_down_loop | INFO | На состояние 08:00:05 активных ставок: 5, денег: 49.456$
+22-11-2024 08:00:05 | EASY_Big_down_loop | INFO | На состояние 08:00:05 активных ставок: 5, денег: 47.784$
+22-11-2024 08:00:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 08:00:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 08:05:05 | EASY_Big_down_loop | INFO | На состояние 08:05:05 активных ставок: 5, денег: 49.456$
+22-11-2024 08:05:05 | EASY_Big_down_loop | INFO | Price change detected: 0.6950730923563242%
+22-11-2024 08:05:05 | EASY_Big_down_loop | INFO | На состояние 08:05:05 активных ставок: 5, денег: 47.784$
+22-11-2024 08:05:06 | EASY_Big_down_loop | INFO | Price change detected: 0.6950730923563242%
+22-11-2024 08:05:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488509204051628032038
+22-11-2024 08:05:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488509205821612032038
+22-11-2024 08:05:10 | EASY_Big_down_loop | INFO | Bought KAS: 10.97
+22-11-2024 08:05:10 | EASY_Big_down_loop | INFO | Bought KAS: 10.97
+22-11-2024 08:05:10 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488509223014068225038
+22-11-2024 08:05:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488509225924915201038
+22-11-2024 08:05:15 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 08:05:15 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 08:10:05 | EASY_Big_down_loop | INFO | На состояние 08:10:05 активных ставок: 6, денег: 49.456$
+22-11-2024 08:10:05 | EASY_Big_down_loop | INFO | На состояние 08:10:05 активных ставок: 6, денег: 47.784$
+22-11-2024 08:10:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 08:10:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 08:15:05 | EASY_Big_down_loop | INFO | На состояние 08:15:05 активных ставок: 6, денег: 47.784$
+22-11-2024 08:15:05 | EASY_Big_down_loop | INFO | На состояние 08:15:05 активных ставок: 6, денег: 49.456$
+22-11-2024 08:15:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 08:15:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 08:20:05 | EASY_Big_down_loop | INFO | На состояние 08:20:05 активных ставок: 6, денег: 47.784$
+22-11-2024 08:20:05 | EASY_Big_down_loop | INFO | На состояние 08:20:05 активных ставок: 6, денег: 49.456$
+22-11-2024 08:20:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 08:20:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 08:25:05 | EASY_Big_down_loop | INFO | На состояние 08:25:05 активных ставок: 6, денег: 49.456$
+22-11-2024 08:25:05 | EASY_Big_down_loop | INFO | На состояние 08:25:05 активных ставок: 6, денег: 47.784$
+22-11-2024 08:25:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 08:25:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 08:30:05 | EASY_Big_down_loop | INFO | На состояние 08:30:05 активных ставок: 6, денег: 47.784$
+22-11-2024 08:30:05 | EASY_Big_down_loop | INFO | На состояние 08:30:05 активных ставок: 6, денег: 49.456$
+22-11-2024 08:30:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 08:30:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 08:35:05 | EASY_Big_down_loop | INFO | На состояние 08:35:05 активных ставок: 6, денег: 49.456$
+22-11-2024 08:35:05 | EASY_Big_down_loop | INFO | На состояние 08:35:05 активных ставок: 6, денег: 47.784$
+22-11-2024 08:35:10 | EASY_Big_down_loop | INFO | Success! Got 0.01033144000000008usdt intrade C02__488509223014068225038
+22-11-2024 08:35:10 | EASY_Big_down_loop | INFO | Bet C02__488509204051628032038 completed and removed.
+22-11-2024 08:35:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 08:35:11 | EASY_Big_down_loop | INFO | Success! Got 0.01033144000000008usdt intrade C02__488509225924915201038
+22-11-2024 08:35:11 | EASY_Big_down_loop | INFO | Bet C02__488509205821612032038 completed and removed.
+22-11-2024 08:35:11 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 08:40:05 | EASY_Big_down_loop | INFO | На состояние 08:40:05 активных ставок: 5, денег: 47.794$
+22-11-2024 08:40:05 | EASY_Big_down_loop | INFO | На состояние 08:40:05 активных ставок: 5, денег: 49.467$
+22-11-2024 08:40:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 08:40:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 08:45:05 | EASY_Big_down_loop | INFO | На состояние 08:45:05 активных ставок: 5, денег: 47.794$
+22-11-2024 08:45:05 | EASY_Big_down_loop | INFO | На состояние 08:45:05 активных ставок: 5, денег: 49.467$
+22-11-2024 08:45:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 08:45:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 08:50:05 | EASY_Big_down_loop | INFO | На состояние 08:50:05 активных ставок: 5, денег: 49.467$
+22-11-2024 08:50:05 | EASY_Big_down_loop | INFO | На состояние 08:50:05 активных ставок: 5, денег: 47.794$
+22-11-2024 08:50:09 | EASY_Big_down_loop | INFO | Success! Got 0.009174000000000015usdt intrade C02__488453859165921280038
+22-11-2024 08:50:09 | EASY_Big_down_loop | INFO | Bet C02__488453840828456960038 completed and removed.
+22-11-2024 08:50:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 08:50:10 | EASY_Big_down_loop | INFO | Success! Got 0.009174000000000015usdt intrade C02__488453859165921280038
+22-11-2024 08:50:10 | EASY_Big_down_loop | INFO | Bet C02__488453840828456960038 completed and removed.
+22-11-2024 08:50:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 08:55:05 | EASY_Big_down_loop | INFO | На состояние 08:55:05 активных ставок: 4, денег: 47.803$
+22-11-2024 08:55:05 | EASY_Big_down_loop | INFO | На состояние 08:55:05 активных ставок: 4, денег: 49.476$
+22-11-2024 08:55:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 08:55:09 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 09:00:05 | EASY_Big_down_loop | INFO | На состояние 09:00:05 активных ставок: 4, денег: 49.476$
+22-11-2024 09:00:05 | EASY_Big_down_loop | INFO | На состояние 09:00:05 активных ставок: 4, денег: 47.803$
+22-11-2024 09:00:08 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 09:00:08 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 09:05:05 | EASY_Big_down_loop | INFO | На состояние 09:05:05 активных ставок: 4, денег: 49.476$
+22-11-2024 09:05:05 | EASY_Big_down_loop | INFO | На состояние 09:05:05 активных ставок: 4, денег: 47.803$
+22-11-2024 09:05:08 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 09:05:08 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 09:10:05 | EASY_Big_down_loop | INFO | На состояние 09:10:05 активных ставок: 4, денег: 49.476$
+22-11-2024 09:10:05 | EASY_Big_down_loop | INFO | На состояние 09:10:05 активных ставок: 4, денег: 47.803$
+22-11-2024 09:10:08 | EASY_Big_down_loop | INFO | Success! Got 0.006133150000000143usdt intrade C02__488448826244411392038
+22-11-2024 09:10:09 | EASY_Big_down_loop | INFO | Success! Got 0.006133150000000143usdt intrade C02__488448826244411392038
+22-11-2024 09:10:10 | EASY_Big_down_loop | INFO | Success! Got 0.006736440000000066usdt intrade C02__488452601180925954038
+22-11-2024 09:10:10 | EASY_Big_down_loop | INFO | Bet C02__488448808015974400038 completed and removed.
+22-11-2024 09:10:10 | EASY_Big_down_loop | INFO | Bet C02__488452582784716801038 completed and removed.
+22-11-2024 09:10:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 09:10:10 | EASY_Big_down_loop | INFO | Success! Got 0.006736440000000066usdt intrade C02__488452601180925954038
+22-11-2024 09:10:10 | EASY_Big_down_loop | INFO | Bet C02__488448808015974400038 completed and removed.
+22-11-2024 09:10:10 | EASY_Big_down_loop | INFO | Bet C02__488452582784716801038 completed and removed.
+22-11-2024 09:10:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 09:15:05 | EASY_Big_down_loop | INFO | На состояние 09:15:05 активных ставок: 2, денег: 47.816$
+22-11-2024 09:15:05 | EASY_Big_down_loop | INFO | На состояние 09:15:05 активных ставок: 2, денег: 49.489$
+22-11-2024 09:15:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 09:15:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 09:20:05 | EASY_Big_down_loop | INFO | На состояние 09:20:05 активных ставок: 2, денег: 49.489$
+22-11-2024 09:20:05 | EASY_Big_down_loop | INFO | На состояние 09:20:05 активных ставок: 2, денег: 47.816$
+22-11-2024 09:20:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 09:20:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 09:25:05 | EASY_Big_down_loop | INFO | На состояние 09:25:05 активных ставок: 2, денег: 49.489$
+22-11-2024 09:25:05 | EASY_Big_down_loop | INFO | На состояние 09:25:05 активных ставок: 2, денег: 47.816$
+22-11-2024 09:25:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 09:25:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 09:30:05 | EASY_Big_down_loop | INFO | На состояние 09:30:05 активных ставок: 2, денег: 47.816$
+22-11-2024 09:30:05 | EASY_Big_down_loop | INFO | На состояние 09:30:05 активных ставок: 2, денег: 49.489$
+22-11-2024 09:30:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 09:30:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 09:35:05 | EASY_Big_down_loop | INFO | На состояние 09:35:05 активных ставок: 2, денег: 49.489$
+22-11-2024 09:35:05 | EASY_Big_down_loop | INFO | На состояние 09:35:05 активных ставок: 2, денег: 47.816$
+22-11-2024 09:35:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 09:35:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 09:40:05 | EASY_Big_down_loop | INFO | На состояние 09:40:05 активных ставок: 2, денег: 49.489$
+22-11-2024 09:40:05 | EASY_Big_down_loop | INFO | Price change detected: 0.4518562462180853%
+22-11-2024 09:40:05 | EASY_Big_down_loop | INFO | На состояние 09:40:05 активных ставок: 2, денег: 47.816$
+22-11-2024 09:40:05 | EASY_Big_down_loop | INFO | Price change detected: 0.4518562462180853%
+22-11-2024 09:40:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488533110640685056038
+22-11-2024 09:40:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488533112238739456038
+22-11-2024 09:40:09 | EASY_Big_down_loop | INFO | Bought KAS: 10.94
+22-11-2024 09:40:10 | EASY_Big_down_loop | INFO | Bought KAS: 10.94
+22-11-2024 09:40:10 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488533129431175168038
+22-11-2024 09:40:10 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488533130538471424038
+22-11-2024 09:40:12 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 09:40:12 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 09:45:05 | EASY_Big_down_loop | INFO | На состояние 09:45:05 активных ставок: 3, денег: 49.489$
+22-11-2024 09:45:05 | EASY_Big_down_loop | INFO | На состояние 09:45:05 активных ставок: 3, денег: 47.816$
+22-11-2024 09:45:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 09:45:08 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 09:50:05 | EASY_Big_down_loop | INFO | На состояние 09:50:05 активных ставок: 3, денег: 47.816$
+22-11-2024 09:50:05 | EASY_Big_down_loop | INFO | На состояние 09:50:05 активных ставок: 3, денег: 49.489$
+22-11-2024 09:50:08 | EASY_Big_down_loop | INFO | Success! Got 0.008449300000000104usdt intrade C02__488533130538471424038
+22-11-2024 09:50:08 | EASY_Big_down_loop | INFO | Bet C02__488533112238739456038 completed and removed.
+22-11-2024 09:50:08 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 09:50:08 | EASY_Big_down_loop | INFO | Success! Got 0.008449300000000104usdt intrade C02__488533129431175168038
+22-11-2024 09:50:08 | EASY_Big_down_loop | INFO | Bet C02__488533110640685056038 completed and removed.
+22-11-2024 09:50:08 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 09:55:05 | EASY_Big_down_loop | INFO | На состояние 09:55:05 активных ставок: 2, денег: 47.825$
+22-11-2024 09:55:05 | EASY_Big_down_loop | INFO | На состояние 09:55:05 активных ставок: 2, денег: 49.497$
+22-11-2024 09:55:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 09:55:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 10:00:05 | EASY_Big_down_loop | INFO | На состояние 10:00:05 активных ставок: 2, денег: 47.825$
+22-11-2024 10:00:05 | EASY_Big_down_loop | INFO | На состояние 10:00:05 активных ставок: 2, денег: 49.497$
+22-11-2024 10:00:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 10:00:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 10:05:05 | EASY_Big_down_loop | INFO | На состояние 10:05:05 активных ставок: 2, денег: 47.825$
+22-11-2024 10:05:05 | EASY_Big_down_loop | INFO | На состояние 10:05:05 активных ставок: 2, денег: 49.497$
+22-11-2024 10:05:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 10:05:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 10:10:05 | EASY_Big_down_loop | INFO | На состояние 10:10:05 активных ставок: 2, денег: 47.825$
+22-11-2024 10:10:05 | EASY_Big_down_loop | INFO | На состояние 10:10:05 активных ставок: 2, денег: 49.497$
+22-11-2024 10:10:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 10:10:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 10:15:05 | EASY_Big_down_loop | INFO | На состояние 10:15:05 активных ставок: 2, денег: 47.825$
+22-11-2024 10:15:05 | EASY_Big_down_loop | INFO | На состояние 10:15:05 активных ставок: 2, денег: 49.497$
+22-11-2024 10:15:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 10:15:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 10:20:05 | EASY_Big_down_loop | INFO | На состояние 10:20:05 активных ставок: 2, денег: 47.825$
+22-11-2024 10:20:05 | EASY_Big_down_loop | INFO | На состояние 10:20:05 активных ставок: 2, денег: 49.497$
+22-11-2024 10:20:06 | EASY_Big_down_loop | ERROR | Error loading bets file: 1 validation error for Bets
+  Invalid JSON: EOF while parsing a value at line 1 column 0 [type=json_invalid, input_value=b'', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.9/v/json_invalid
+22-11-2024 10:20:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 10:20:36 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 10:25:05 | EASY_Big_down_loop | INFO | На состояние 10:25:05 активных ставок: 2, денег: 49.497$
+22-11-2024 10:25:05 | EASY_Big_down_loop | INFO | На состояние 10:25:05 активных ставок: 2, денег: 47.825$
+22-11-2024 10:25:06 | EASY_Big_down_loop | INFO | Price change detected: 0.4045290872454643%
+22-11-2024 10:25:06 | EASY_Big_down_loop | INFO | Price change detected: 0.4045290872454643%
+22-11-2024 10:25:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488544438105219074038
+22-11-2024 10:25:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488544438138769408038
+22-11-2024 10:25:10 | EASY_Big_down_loop | INFO | Bought KAS: 10.9
+22-11-2024 10:25:10 | EASY_Big_down_loop | INFO | Bought KAS: 10.9
+22-11-2024 10:25:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488544456350425088038
+22-11-2024 10:25:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488544458271449088038
+22-11-2024 10:25:13 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 10:25:13 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 10:30:05 | EASY_Big_down_loop | INFO | На состояние 10:30:05 активных ставок: 3, денег: 49.497$
+22-11-2024 10:30:05 | EASY_Big_down_loop | INFO | На состояние 10:30:05 активных ставок: 3, денег: 47.825$
+22-11-2024 10:30:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 10:30:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 10:35:05 | EASY_Big_down_loop | INFO | На состояние 10:35:05 активных ставок: 3, денег: 49.497$
+22-11-2024 10:35:05 | EASY_Big_down_loop | INFO | На состояние 10:35:05 активных ставок: 3, денег: 47.825$
+22-11-2024 10:35:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 10:35:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 10:40:05 | EASY_Big_down_loop | INFO | На состояние 10:40:05 активных ставок: 3, денег: 49.497$
+22-11-2024 10:40:05 | EASY_Big_down_loop | INFO | На состояние 10:40:05 активных ставок: 3, денег: 47.825$
+22-11-2024 10:40:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 10:40:08 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 10:45:05 | EASY_Big_down_loop | INFO | На состояние 10:45:05 активных ставок: 3, денег: 47.825$
+22-11-2024 10:45:05 | EASY_Big_down_loop | INFO | На состояние 10:45:05 активных ставок: 3, денег: 49.497$
+22-11-2024 10:45:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 10:45:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 10:50:05 | EASY_Big_down_loop | INFO | На состояние 10:50:05 активных ставок: 3, денег: 47.825$
+22-11-2024 10:50:05 | EASY_Big_down_loop | INFO | На состояние 10:50:05 активных ставок: 3, денег: 49.497$
+22-11-2024 10:50:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 10:50:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 10:55:05 | EASY_Big_down_loop | INFO | На состояние 10:55:05 активных ставок: 3, денег: 47.825$
+22-11-2024 10:55:05 | EASY_Big_down_loop | INFO | На состояние 10:55:05 активных ставок: 3, денег: 49.497$
+22-11-2024 10:55:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 10:55:08 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 11:00:05 | EASY_Big_down_loop | INFO | На состояние 11:00:05 активных ставок: 3, денег: 49.497$
+22-11-2024 11:00:05 | EASY_Big_down_loop | INFO | На состояние 11:00:05 активных ставок: 3, денег: 47.825$
+22-11-2024 11:00:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 11:00:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 11:05:05 | EASY_Big_down_loop | INFO | На состояние 11:05:05 активных ставок: 3, денег: 49.497$
+22-11-2024 11:05:05 | EASY_Big_down_loop | INFO | На состояние 11:05:05 активных ставок: 3, денег: 47.825$
+22-11-2024 11:05:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 11:05:08 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 11:10:05 | EASY_Big_down_loop | INFO | На состояние 11:10:05 активных ставок: 3, денег: 47.825$
+22-11-2024 11:10:05 | EASY_Big_down_loop | INFO | На состояние 11:10:05 активных ставок: 3, денег: 49.497$
+22-11-2024 11:10:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 11:10:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 11:15:05 | EASY_Big_down_loop | INFO | На состояние 11:15:05 активных ставок: 3, денег: 49.497$
+22-11-2024 11:15:05 | EASY_Big_down_loop | INFO | На состояние 11:15:05 активных ставок: 3, денег: 47.825$
+22-11-2024 11:15:08 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 11:15:08 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 11:20:05 | EASY_Big_down_loop | INFO | На состояние 11:20:05 активных ставок: 3, денег: 49.497$
+22-11-2024 11:20:05 | EASY_Big_down_loop | INFO | На состояние 11:20:05 активных ставок: 3, денег: 47.825$
+22-11-2024 11:20:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 11:20:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 11:25:05 | EASY_Big_down_loop | INFO | На состояние 11:25:05 активных ставок: 3, денег: 49.497$
+22-11-2024 11:25:05 | EASY_Big_down_loop | INFO | На состояние 11:25:05 активных ставок: 3, денег: 47.825$
+22-11-2024 11:25:07 | EASY_Big_down_loop | ERROR | Error loading bets file: 1 validation error for Bets
+  Invalid JSON: EOF while parsing a value at line 1 column 0 [type=json_invalid, input_value=b'', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.9/v/json_invalid
+22-11-2024 11:25:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 11:25:37 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 11:30:05 | EASY_Big_down_loop | INFO | На состояние 11:30:05 активных ставок: 3, денег: 47.825$
+22-11-2024 11:30:05 | EASY_Big_down_loop | INFO | На состояние 11:30:05 активных ставок: 3, денег: 49.497$
+22-11-2024 11:30:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 11:30:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 11:35:05 | EASY_Big_down_loop | INFO | На состояние 11:35:05 активных ставок: 3, денег: 49.497$
+22-11-2024 11:35:05 | EASY_Big_down_loop | INFO | На состояние 11:35:05 активных ставок: 3, денег: 47.825$
+22-11-2024 11:35:08 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 11:35:08 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 11:40:05 | EASY_Big_down_loop | INFO | На состояние 11:40:05 активных ставок: 3, денег: 49.497$
+22-11-2024 11:40:05 | EASY_Big_down_loop | INFO | На состояние 11:40:05 активных ставок: 3, денег: 47.825$
+22-11-2024 11:40:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 11:40:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 11:40:46 | EASY_prep_Big_down | INFO | Starting EASY_prep_Big_down
+22-11-2024 11:40:46 | EASY_prep_Big_down | INFO | Loading configuration
+22-11-2024 11:40:46 | EASY_prep_Big_down | INFO | Filling configuration with API keys and funds
+22-11-2024 11:40:46 | EASY_prep_Big_down | INFO | Configuring client with symbol: KAS,interval: 5m
+22-11-2024 11:40:46 | EASY_prep_Big_down | INFO | Client initialized successfully
+22-11-2024 11:40:46 | EASY_prep_Big_down | INFO | Начинаем торговать
+22-11-2024 11:40:46 | EASY_prep_Big_down | INFO | Fetching initial USDT balance
+22-11-2024 11:40:47 | EASY_prep_Big_down | INFO | Initial money: 47.793430424113, money_old: 51.0
+22-11-2024 11:40:47 | EASY_prep_Big_down | INFO | Preparation complete
+22-11-2024 11:40:47 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 11:45:05 | EASY_Big_down_loop | INFO | На состояние 11:45:05 активных ставок: 3, денег: 47.825$
+22-11-2024 11:45:05 | EASY_Big_down_loop | INFO | На состояние 11:45:05 активных ставок: 3, денег: 49.497$
+22-11-2024 11:45:05 | EASY_Big_down_loop | INFO | На состояние 11:45:05 активных ставок: 3, денег: 51.0$
+22-11-2024 11:45:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 11:45:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 11:45:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 11:50:05 | EASY_Big_down_loop | INFO | На состояние 11:50:05 активных ставок: 3, денег: 49.497$
+22-11-2024 11:50:05 | EASY_Big_down_loop | INFO | На состояние 11:50:05 активных ставок: 3, денег: 47.825$
+22-11-2024 11:50:05 | EASY_Big_down_loop | INFO | На состояние 11:50:05 активных ставок: 3, денег: 51.0$
+22-11-2024 11:50:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 11:50:08 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 11:50:08 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 11:55:05 | EASY_Big_down_loop | INFO | На состояние 11:55:05 активных ставок: 3, денег: 47.825$
+22-11-2024 11:55:05 | EASY_Big_down_loop | INFO | На состояние 11:55:05 активных ставок: 3, денег: 51.0$
+22-11-2024 11:55:05 | EASY_Big_down_loop | INFO | На состояние 11:55:05 активных ставок: 3, денег: 49.497$
+22-11-2024 11:55:10 | EASY_Big_down_loop | INFO | Failure! Got-1.65 usdt in tradeC02__488441277805813760038
+22-11-2024 11:55:11 | EASY_Big_down_loop | INFO | Bet C02__488441257522167808038 completed and removed.
+22-11-2024 11:55:11 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 11:55:15 | EASY_Big_down_loop | ERROR | Error in client! Restarting iteration 161
+22-11-2024 11:55:16 | EASY_Big_down_loop | ERROR | Error in client! Restarting iteration 161
+22-11-2024 11:55:45 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 11:55:46 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 12:00:05 | EASY_Big_down_loop | INFO | На состояние 12:00:05 активных ставок: 2, денег: 49.497$
+22-11-2024 12:00:05 | EASY_Big_down_loop | INFO | На состояние 12:00:05 активных ставок: 2, денег: 46.175$
+22-11-2024 12:00:05 | EASY_Big_down_loop | INFO | На состояние 12:00:05 активных ставок: 2, денег: 51.0$
+22-11-2024 12:00:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 12:00:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 12:00:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 12:05:05 | EASY_Big_down_loop | INFO | На состояние 12:05:05 активных ставок: 2, денег: 51.0$
+22-11-2024 12:05:05 | EASY_Big_down_loop | INFO | На состояние 12:05:05 активных ставок: 2, денег: 49.497$
+22-11-2024 12:05:05 | EASY_Big_down_loop | INFO | На состояние 12:05:05 активных ставок: 2, денег: 46.175$
+22-11-2024 12:05:10 | EASY_Big_down_loop | INFO | Failure! Got-1.65 usdt in tradeC02__488443790466576384038
+22-11-2024 12:05:10 | EASY_Big_down_loop | INFO | Bet C02__488443772154208256038 completed and removed.
+22-11-2024 12:05:10 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 12:05:15 | EASY_Big_down_loop | ERROR | Error in client! Restarting iteration 161
+22-11-2024 12:05:16 | EASY_Big_down_loop | ERROR | Error in client! Restarting iteration 161
+22-11-2024 12:05:45 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 12:05:46 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 12:10:05 | EASY_Big_down_loop | INFO | На состояние 12:10:05 активных ставок: 1, денег: 46.175$
+22-11-2024 12:10:05 | EASY_Big_down_loop | INFO | На состояние 12:10:05 активных ставок: 1, денег: 49.35$
+22-11-2024 12:10:05 | EASY_Big_down_loop | INFO | На состояние 12:10:05 активных ставок: 1, денег: 49.497$
+22-11-2024 12:10:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 12:10:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 12:10:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 12:15:05 | EASY_Big_down_loop | INFO | На состояние 12:15:05 активных ставок: 1, денег: 46.175$
+22-11-2024 12:15:05 | EASY_Big_down_loop | INFO | На состояние 12:15:05 активных ставок: 1, денег: 49.35$
+22-11-2024 12:15:05 | EASY_Big_down_loop | INFO | На состояние 12:15:05 активных ставок: 1, денег: 49.497$
+22-11-2024 12:15:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 12:15:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 12:15:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 12:20:05 | EASY_Big_down_loop | INFO | На состояние 12:20:05 активных ставок: 1, денег: 46.175$
+22-11-2024 12:20:05 | EASY_Big_down_loop | INFO | На состояние 12:20:05 активных ставок: 1, денег: 49.35$
+22-11-2024 12:20:05 | EASY_Big_down_loop | INFO | На состояние 12:20:05 активных ставок: 1, денег: 49.497$
+22-11-2024 12:20:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 12:20:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 12:20:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 12:25:05 | EASY_Big_down_loop | INFO | На состояние 12:25:05 активных ставок: 1, денег: 46.175$
+22-11-2024 12:25:05 | EASY_Big_down_loop | INFO | На состояние 12:25:05 активных ставок: 1, денег: 49.35$
+22-11-2024 12:25:05 | EASY_Big_down_loop | INFO | На состояние 12:25:05 активных ставок: 1, денег: 49.497$
+22-11-2024 12:25:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 12:25:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 12:25:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 12:30:05 | EASY_Big_down_loop | INFO | На состояние 12:30:05 активных ставок: 1, денег: 46.175$
+22-11-2024 12:30:05 | EASY_Big_down_loop | INFO | На состояние 12:30:05 активных ставок: 1, денег: 49.35$
+22-11-2024 12:30:05 | EASY_Big_down_loop | INFO | Price change detected: 0.43148319236934185%
+22-11-2024 12:30:05 | EASY_Big_down_loop | INFO | На состояние 12:30:05 активных ставок: 1, денег: 49.497$
+22-11-2024 12:30:05 | EASY_Big_down_loop | INFO | Price change detected: 0.43148319236934185%
+22-11-2024 12:30:06 | EASY_Big_down_loop | INFO | Price change detected: 0.43148319236934185%
+22-11-2024 12:30:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488575894235975680038
+22-11-2024 12:30:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488575894227607553038
+22-11-2024 12:30:06 | EASY_Big_down_loop | INFO | Market buy order placed, ID: C02__488575895745953792038
+22-11-2024 12:30:10 | EASY_Big_down_loop | INFO | Bought KAS: 11.0
+22-11-2024 12:30:10 | EASY_Big_down_loop | INFO | Bought KAS: 11.0
+22-11-2024 12:30:11 | EASY_Big_down_loop | INFO | Bought KAS: 11.0
+22-11-2024 12:30:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488575915001978881038
+22-11-2024 12:30:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488575915383644161038
+22-11-2024 12:30:11 | EASY_Big_down_loop | INFO | Limit sell order placed, ID: C02__488575916126060547038
+22-11-2024 12:30:12 | EASY_Big_down | INFO | EASY Big Down (MEXC_KAS_BIG_DOWN_5m) is down due to user actions
+22-11-2024 12:30:12 | start_EASY_Big_down | WARNING | EASY_Big_down (MEXC_KAS_BIG_DOWN_5m) stopped for some reason
+22-11-2024 12:30:13 | EASY_Big_down | INFO | EASY Big Down (MEXC_KAS_BIG_DOWN_5m) is down due to user actions
+22-11-2024 12:30:13 | start_EASY_Big_down | WARNING | EASY_Big_down (MEXC_KAS_BIG_DOWN_5m) stopped for some reason
+22-11-2024 12:30:13 | EASY_Big_down | INFO | EASY Big Down (MEXC_KAS_BIG_DOWN_5m) is down due to user actions
+22-11-2024 12:30:13 | start_EASY_Big_down | WARNING | EASY_Big_down (MEXC_KAS_BIG_DOWN_5m) stopped for some reason
+22-11-2024 14:01:01 | EASY_prep_Big_down | INFO | Starting EASY_prep_Big_down
+22-11-2024 14:01:01 | EASY_prep_Big_down | INFO | Loading configuration
+22-11-2024 14:01:01 | EASY_prep_Big_down | INFO | Filling configuration with API keys and funds
+22-11-2024 14:01:01 | EASY_prep_Big_down | INFO | Configuring client with symbol: KAS,interval: 5m
+22-11-2024 14:01:01 | EASY_prep_Big_down | INFO | Client initialized successfully
+22-11-2024 14:01:01 | EASY_prep_Big_down | INFO | Начинаем торговать
+22-11-2024 14:01:01 | EASY_prep_Big_down | INFO | Fetching initial USDT balance
+22-11-2024 14:01:02 | EASY_prep_Big_down | INFO | Initial money: 54.345983133998, money_old: 51.0
+22-11-2024 14:01:02 | EASY_prep_Big_down | INFO | Preparation complete
+22-11-2024 14:01:02 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 14:05:05 | EASY_Big_down_loop | INFO | На состояние 14:05:05 активных ставок: 2, денег: 51.0$
+22-11-2024 14:05:07 | EASY_Big_down_loop | INFO | Success! Got 0.00708400000000009usdt intrade C02__488575915383644161038
+22-11-2024 14:05:07 | EASY_Big_down_loop | INFO | Bet C02__488575894235975680038 completed and removed.
+22-11-2024 14:05:07 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 14:10:05 | EASY_Big_down_loop | INFO | На состояние 14:10:05 активных ставок: 1, денег: 51.007$
+22-11-2024 14:10:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 14:15:05 | EASY_Big_down_loop | INFO | На состояние 14:15:05 активных ставок: 1, денег: 51.007$
+22-11-2024 14:15:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 14:20:05 | EASY_Big_down_loop | INFO | На состояние 14:20:05 активных ставок: 1, денег: 51.007$
+22-11-2024 14:20:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 14:25:05 | EASY_Big_down_loop | INFO | На состояние 14:25:05 активных ставок: 1, денег: 51.007$
+22-11-2024 14:25:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 14:28:54 | EASY_prep_Big_down | INFO | Starting EASY_prep_Big_down
+22-11-2024 14:28:54 | EASY_prep_Big_down | INFO | Loading configuration
+22-11-2024 14:28:54 | EASY_prep_Big_down | INFO | Filling configuration with API keys and funds
+22-11-2024 14:28:54 | EASY_prep_Big_down | INFO | Configuring client with symbol: KAS,interval: 5m
+22-11-2024 14:28:54 | EASY_prep_Big_down | INFO | Client initialized successfully
+22-11-2024 14:28:54 | EASY_prep_Big_down | INFO | Начинаем торговать
+22-11-2024 14:28:54 | EASY_prep_Big_down | INFO | Fetching initial USDT balance
+22-11-2024 14:28:55 | EASY_prep_Big_down | INFO | Initial money: 54.346951927563, money_old: 51.0
+22-11-2024 14:28:55 | EASY_prep_Big_down | INFO | Preparation complete
+22-11-2024 14:28:55 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 14:30:05 | EASY_Big_down_loop | INFO | На состояние 14:30:05 активных ставок: 1, денег: 51.0$
+22-11-2024 14:30:06 | EASY_Big_down_loop | INFO | Starting iteration
+22-11-2024 14:35:05 | EASY_Big_down_loop | INFO | На состояние 14:35:05 активных ставок: 1, денег: 51.0$
+22-11-2024 14:35:06 | EASY_Big_down_loop | INFO | Starting iteration

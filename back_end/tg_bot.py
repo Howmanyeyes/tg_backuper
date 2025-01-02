@@ -1,62 +1,44 @@
-"""Module for tg bot"""
-import time
-import asyncio
-from aiogram import Bot
-from aiogram.types import BufferedInputFile
-from config import config
+from logstash_async.handler import AsynchronousLogstashHandler
 import logging
+import socket
 import sys
-import asyncio
-from functools import wraps
-from json_log_formatter import JSONFormatter
-
-async def send_document(chat_id, document):
-    await bot.send_document(chat_id=chat_id, document=document)
-
-bot = Bot(config.api) # 417766628 my id
-
-
-async def main():
-    with open('back_end/im.png', 'rb') as f:
-        file_data = f.read()
-    doc = BufferedInputFile(filename='back_end/el.png', file = file_data)
-    await send_document(417766628, doc)
+from typing import Optional
 
 def setup_logger():
-    logger = logging.getLogger()
+    """Sets up a logger that logs to a file, console, and logstash"""
+    logger = logging.getLogger('python-logstash-logger')
     logger.setLevel(logging.INFO)
 
-    file_handler = logging.FileHandler('app_logs.json', mode='a', encoding='utf-8')
+    # Set up handlers for file, console, and Logstash (with modified host field)
+    file_handler = logging.FileHandler('bot_logs.log', mode='a', encoding='utf-8')
     console_handler = logging.StreamHandler(sys.stdout)
+    
+    # Asynchronous handler for Logstash
+    async_handler = AsynchronousLogstashHandler(
+        host="localhost",
+        port=5000,
+        database_path=None
+    )
 
-    formatter = JSONFormatter()
+    # Format for the log messages
+    formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s',
+                                  datefmt='%Y-%m-%d %H:%M:%S')
     file_handler.setFormatter(formatter)
     console_handler.setFormatter(formatter)
 
+    # Add handlers to logger
     logger.addHandler(file_handler)
     logger.addHandler(console_handler)
+    logger.addHandler(async_handler)
     return logger
 
+def logmsg(message="No message", **kwargs):
+    # Form the log message with the specified fields
+    return f'{message} • ' + ', '.join(f'{k}: {v}' for k, v in kwargs.items() if v is not None)
 
-
-
-
-
-
-if __name__ == '__main__':
+if __name__ == "__main__":
+    # Initialize the logger
     logger = setup_logger()
-    n = 0
-    import random
-    while True:
-        try:
-            n += 1
-            logger.info(f"Starting iteration {n}")
-            time.sleep(2)
-            logger.info(f"Iteration {n} finished")
-            if random.randint(0, 10) > 7:
-                c = 1 / 0
-            elif random.randint(0, 10) > 7:
-                raise Exception("Random error")
-        except Exception as e:
-            logger.exception(f"Error: {e}")
-        time.sleep(3)
+    
+    # Send a sample log with a custom message structure
+    logger.info(extra = logmsg(message="test", data=1, beta=2))

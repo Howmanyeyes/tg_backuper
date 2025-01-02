@@ -1,0 +1,690 @@
+21-11-2024 15:20:05 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: 1 validation error for Bets
+  Invalid JSON: EOF while parsing a value at line 1 column 0 [type=json_invalid, input_value=b'', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.9/v/json_invalid
+21-11-2024 15:23:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488257043094888449038; orderListId: -1; price: 0.162004; origQty: 0; type: MARKET; side: BUY; transactTime: 1732191786317
+21-11-2024 15:23:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488257043266871296038; orderListId: -1; price: 0.161928; origQty: 0; type: MARKET; side: BUY; transactTime: 1732191786358
+21-11-2024 15:34:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488259812732264448038; orderListId: -1; price: 0.162671; origQty: 0; type: MARKET; side: BUY; transactTime: 1732192446650
+21-11-2024 15:34:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488259813214609408038; orderListId: -1; price: 0.162671; origQty: 0; type: MARKET; side: BUY; transactTime: 1732192446765
+21-11-2024 15:35:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488260062360432642038; orderListId: -1; price: 0.162122; origQty: 0; type: MARKET; side: BUY; transactTime: 1732192506166
+21-11-2024 15:35:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488260062746341414038; orderListId: -1; price: 0.162046; origQty: 0; type: MARKET; side: BUY; transactTime: 1732192506258
+21-11-2024 15:35:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488260063585206272038; orderListId: -1; price: 0.16219; origQty: 0; type: MARKET; side: BUY; transactTime: 1732192506458
+21-11-2024 15:35:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488260065225146386038; orderListId: -1; price: 0.16219; origQty: 0; type: MARKET; side: BUY; transactTime: 1732192506849
+21-11-2024 15:38:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488260817305792518038; orderListId: -1; price: 0.162092; origQty: 0; type: MARKET; side: BUY; transactTime: 1732192686159
+21-11-2024 15:38:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488260820078260224038; orderListId: -1; price: 0.162195; origQty: 0; type: MARKET; side: BUY; transactTime: 1732192686820
+21-11-2024 15:44:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488262327817293824038; orderListId: -1; price: 0.161805; origQty: 0; type: MARKET; side: BUY; transactTime: 1732193046293
+21-11-2024 15:44:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488262328278675456038; orderListId: -1; price: 0.161805; origQty: 0; type: MARKET; side: BUY; transactTime: 1732193046403
+21-11-2024 15:46:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488262830219399169038; orderListId: -1; price: 0.162201; origQty: 0; type: MARKET; side: BUY; transactTime: 1732193166075
+21-11-2024 15:46:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488262832769568782038; orderListId: -1; price: 0.162202; origQty: 0; type: MARKET; side: BUY; transactTime: 1732193166683
+21-11-2024 15:52:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488264340110110722038; orderListId: -1; price: 0.163718; origQty: 0; type: MARKET; side: BUY; transactTime: 1732193526061
+21-11-2024 15:52:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488264341120950272038; orderListId: -1; price: 0.163714; origQty: 0; type: MARKET; side: BUY; transactTime: 1732193526302
+21-11-2024 15:58:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488265850084728832038; orderListId: -1; price: 0.162931; origQty: 0; type: MARKET; side: BUY; transactTime: 1732193886067
+21-11-2024 15:58:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488265850348998663038; orderListId: -1; price: 0.163033; origQty: 0; type: MARKET; side: BUY; transactTime: 1732193886130
+21-11-2024 15:59:05 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488266100803432449038; orderListId: -1; price: 0.162167; origQty: 0; type: MARKET; side: BUY; transactTime: 1732193945843
+21-11-2024 15:59:05 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488266100824440833038; orderListId: -1; price: 0.16234; origQty: 0; type: MARKET; side: BUY; transactTime: 1732193945848
+21-11-2024 16:00:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488266353799671810038; orderListId: -1; price: 0.161955; origQty: 0; type: MARKET; side: BUY; transactTime: 1732194006162
+21-11-2024 16:00:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488266353879371776038; orderListId: -1; price: 0.161955; origQty: 0; type: MARKET; side: BUY; transactTime: 1732194006181
+21-11-2024 16:00:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488266354584006657038; orderListId: -1; price: 0.1617; origQty: 0; type: MARKET; side: BUY; transactTime: 1732194006349
+21-11-2024 16:00:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488266355640950785038; orderListId: -1; price: 0.161655; origQty: 0; type: MARKET; side: BUY; transactTime: 1732194006601
+21-11-2024 16:03:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488267107583201280038; orderListId: -1; price: 0.162839; origQty: 0; type: MARKET; side: BUY; transactTime: 1732194185878
+21-11-2024 16:03:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488267109218988034038; orderListId: -1; price: 0.162786; origQty: 0; type: MARKET; side: BUY; transactTime: 1732194186268
+21-11-2024 16:05:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488267612040552448038; orderListId: -1; price: 0.162569; origQty: 0; type: MARKET; side: BUY; transactTime: 1732194306150
+21-11-2024 16:05:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488267616163532800038; orderListId: -1; price: 0.162638; origQty: 0; type: MARKET; side: BUY; transactTime: 1732194307133
+21-11-2024 16:08:49 | sync_wrapper | WARNING | _fetch_candles failure || params: {'symbol': 'KAS_USDT', 'interval': '1m', 'limit': 2}; url: https://www.mexc.com/open/api/v2/market/kline; exception: HTTPSConnectionPool(host='www.mexc.com', port=443): Max retries exceeded with url: /open/api/v2/market/kline?symbol=KAS_USDT&interval=1m&limit=2 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1006)')))
+21-11-2024 16:08:51 | sync_wrapper | WARNING | _fetch_candles failure || params: {'symbol': 'KAS_USDT', 'interval': '1m', 'limit': 2}; url: https://www.mexc.com/open/api/v2/market/kline; exception: HTTPSConnectionPool(host='www.mexc.com', port=443): Max retries exceeded with url: /open/api/v2/market/kline?symbol=KAS_USDT&interval=1m&limit=2 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1006)')))
+21-11-2024 16:09:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488268619164213269038; orderListId: -1; price: 0.163391; origQty: 0; type: MARKET; side: BUY; transactTime: 1732194546267
+21-11-2024 16:09:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488268620393168898038; orderListId: -1; price: 0.163276; origQty: 0; type: MARKET; side: BUY; transactTime: 1732194546560
+21-11-2024 16:14:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488269877484793856038; orderListId: -1; price: 0.163822; origQty: 0; type: MARKET; side: BUY; transactTime: 1732194846274
+21-11-2024 16:14:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488269877912612864038; orderListId: -1; price: 0.163822; origQty: 0; type: MARKET; side: BUY; transactTime: 1732194846376
+21-11-2024 16:17:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488270632803467265038; orderListId: -1; price: 0.16341; origQty: 0; type: MARKET; side: BUY; transactTime: 1732195026356
+21-11-2024 16:17:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488270632816017408038; orderListId: -1; price: 0.163269; origQty: 0; type: MARKET; side: BUY; transactTime: 1732195026359
+21-11-2024 16:19:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488271134744207360038; orderListId: -1; price: 0.162962; origQty: 0; type: MARKET; side: BUY; transactTime: 1732195146028
+21-11-2024 16:19:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488271135100710912038; orderListId: -1; price: 0.16275; origQty: 0; type: MARKET; side: BUY; transactTime: 1732195146113
+21-11-2024 16:27:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488273147947225088038; orderListId: -1; price: 0.164047; origQty: 0; type: MARKET; side: BUY; transactTime: 1732195626013
+21-11-2024 16:27:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488273151067770880038; orderListId: -1; price: 0.163905; origQty: 0; type: MARKET; side: BUY; transactTime: 1732195626757
+21-11-2024 16:29:05 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488273650408026112038; orderListId: -1; price: 0.163729; origQty: 0; type: MARKET; side: BUY; transactTime: 1732195745809
+21-11-2024 16:29:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488273653105000502038; orderListId: -1; price: 0.164326; origQty: 0; type: MARKET; side: BUY; transactTime: 1732195746452
+21-11-2024 16:31:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488274156438233088038; orderListId: -1; price: 0.164092; origQty: 0; type: MARKET; side: BUY; transactTime: 1732195866456
+21-11-2024 16:31:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488274156496957440038; orderListId: -1; price: 0.164092; origQty: 0; type: MARKET; side: BUY; transactTime: 1732195866470
+21-11-2024 16:32:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488274406938857478038; orderListId: -1; price: 0.163585; origQty: 0; type: MARKET; side: BUY; transactTime: 1732195926180
+21-11-2024 16:32:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488274407156932609038; orderListId: -1; price: 0.163781; origQty: 0; type: MARKET; side: BUY; transactTime: 1732195926232
+21-11-2024 16:35:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488275162848911360038; orderListId: -1; price: 0.16353; origQty: 0; type: MARKET; side: BUY; transactTime: 1732196106403
+21-11-2024 16:35:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488275163150888960038; orderListId: -1; price: 0.163686; origQty: 0; type: MARKET; side: BUY; transactTime: 1732196106475
+21-11-2024 16:35:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488275163327062033038; orderListId: -1; price: 0.16353; origQty: 0; type: MARKET; side: BUY; transactTime: 1732196106517
+21-11-2024 16:35:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488275163872305164038; orderListId: -1; price: 0.163759; origQty: 0; type: MARKET; side: BUY; transactTime: 1732196106647
+21-11-2024 16:39:05 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488276167149805569038; orderListId: -1; price: 0.16438; origQty: 0; type: MARKET; side: BUY; transactTime: 1732196345847
+21-11-2024 16:39:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488276169536372747038; orderListId: -1; price: 0.16461; origQty: 0; type: MARKET; side: BUY; transactTime: 1732196346416
+21-11-2024 16:47:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488278181804048384038; orderListId: -1; price: 0.164583; origQty: 0; type: MARKET; side: BUY; transactTime: 1732196826178
+21-11-2024 16:47:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488278185293701120038; orderListId: -1; price: 0.164533; origQty: 0; type: MARKET; side: BUY; transactTime: 1732196827010
+21-11-2024 16:50:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488278936598405120038; orderListId: -1; price: 0.164467; origQty: 0; type: MARKET; side: BUY; transactTime: 1732197006135
+21-11-2024 16:50:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488278938062237697038; orderListId: -1; price: 0.164412; origQty: 0; type: MARKET; side: BUY; transactTime: 1732197006484
+21-11-2024 16:55:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488280194344378368038; orderListId: -1; price: 0.164223; origQty: 0; type: MARKET; side: BUY; transactTime: 1732197306005
+21-11-2024 16:55:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488280196273770497038; orderListId: -1; price: 0.164224; origQty: 0; type: MARKET; side: BUY; transactTime: 1732197306465
+21-11-2024 16:56:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488280445688049665038; orderListId: -1; price: 0.164058; origQty: 0; type: MARKET; side: BUY; transactTime: 1732197365930
+21-11-2024 16:56:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488280448057798656038; orderListId: -1; price: 0.164084; origQty: 0; type: MARKET; side: BUY; transactTime: 1732197366495
+21-11-2024 16:58:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488280950153777152038; orderListId: -1; price: 0.163695; origQty: 0; type: MARKET; side: BUY; transactTime: 1732197486204
+21-11-2024 16:58:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488280952573886465038; orderListId: -1; price: 0.163729; origQty: 0; type: MARKET; side: BUY; transactTime: 1732197486781
+21-11-2024 17:02:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488281955549401092038; orderListId: -1; price: 0.16436; origQty: 0; type: MARKET; side: BUY; transactTime: 1732197725909
+21-11-2024 17:02:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488281957013196800038; orderListId: -1; price: 0.164006; origQty: 0; type: MARKET; side: BUY; transactTime: 1732197726258
+21-11-2024 17:05:05 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488282710146605056038; orderListId: -1; price: 0.163797; origQty: 0; type: MARKET; side: BUY; transactTime: 1732197905819
+21-11-2024 17:05:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488282713476927488038; orderListId: -1; price: 0.163797; origQty: 0; type: MARKET; side: BUY; transactTime: 1732197906613
+21-11-2024 17:09:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488283718801256448038; orderListId: -1; price: 0.163139; origQty: 0; type: MARKET; side: BUY; transactTime: 1732198146301
+21-11-2024 17:09:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488283720252477440038; orderListId: -1; price: 0.163134; origQty: 0; type: MARKET; side: BUY; transactTime: 1732198146647
+21-11-2024 17:10:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488283968802729985038; orderListId: -1; price: 0.162793; origQty: 0; type: MARKET; side: BUY; transactTime: 1732198205906
+21-11-2024 17:10:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488283971499679744038; orderListId: -1; price: 0.162792; origQty: 0; type: MARKET; side: BUY; transactTime: 1732198206549
+21-11-2024 17:11:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488284220842647552038; orderListId: -1; price: 0.162598; origQty: 0; type: MARKET; side: BUY; transactTime: 1732198265997
+21-11-2024 17:11:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488284223682174977038; orderListId: -1; price: 0.162713; origQty: 0; type: MARKET; side: BUY; transactTime: 1732198266674
+21-11-2024 17:12:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488284472245035008038; orderListId: -1; price: 0.162341; origQty: 0; type: MARKET; side: BUY; transactTime: 1732198325936
+21-11-2024 17:12:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488284473297821696038; orderListId: -1; price: 0.162316; origQty: 0; type: MARKET; side: BUY; transactTime: 1732198326187
+21-11-2024 17:16:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488285480354418688038; orderListId: -1; price: 0.162193; origQty: 0; type: MARKET; side: BUY; transactTime: 1732198566288
+21-11-2024 17:16:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488285481222610944038; orderListId: -1; price: 0.161911; origQty: 0; type: MARKET; side: BUY; transactTime: 1732198566495
+21-11-2024 17:21:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488286739148922880038; orderListId: -1; price: 0.162333; origQty: 0; type: MARKET; side: BUY; transactTime: 1732198866408
+21-11-2024 17:21:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488286741296381952038; orderListId: -1; price: 0.161904; origQty: 0; type: MARKET; side: BUY; transactTime: 1732198866920
+21-11-2024 17:24:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488287493121183811038; orderListId: -1; price: 0.161752; origQty: 0; type: MARKET; side: BUY; transactTime: 1732199046169
+21-11-2024 17:24:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488287495977537536038; orderListId: -1; price: 0.16173; origQty: 0; type: MARKET; side: BUY; transactTime: 1732199046850
+21-11-2024 17:25:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488287745035304960038; orderListId: -1; price: 0.161173; origQty: 0; type: MARKET; side: BUY; transactTime: 1732199106230
+21-11-2024 17:25:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488287745383419908038; orderListId: -1; price: 0.161173; origQty: 0; type: MARKET; side: BUY; transactTime: 1732199106313
+21-11-2024 17:25:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488287745878347778038; orderListId: -1; price: 0.161114; origQty: 0; type: MARKET; side: BUY; transactTime: 1732199106431
+21-11-2024 17:25:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488287748495589376038; orderListId: -1; price: 0.161173; origQty: 0; type: MARKET; side: BUY; transactTime: 1732199107055
+21-11-2024 17:26:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488287996097916931038; orderListId: -1; price: 0.160879; origQty: 0; type: MARKET; side: BUY; transactTime: 1732199166088
+21-11-2024 17:26:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488287998203453444038; orderListId: -1; price: 0.160906; origQty: 0; type: MARKET; side: BUY; transactTime: 1732199166590
+21-11-2024 17:27:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488288250612482049038; orderListId: -1; price: 0.160125; origQty: 0; type: MARKET; side: BUY; transactTime: 1732199226769
+21-11-2024 17:27:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488288251371675648038; orderListId: -1; price: 0.160123; origQty: 0; type: MARKET; side: BUY; transactTime: 1732199226950
+21-11-2024 17:29:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488288750821003264038; orderListId: -1; price: 0.160445; origQty: 0; type: MARKET; side: BUY; transactTime: 1732199346028
+21-11-2024 17:29:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488288750988787712038; orderListId: -1; price: 0.160119; origQty: 0; type: MARKET; side: BUY; transactTime: 1732199346068
+21-11-2024 17:30:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488289003037073438038; orderListId: -1; price: 0.159952; origQty: 0; type: MARKET; side: BUY; transactTime: 1732199406161
+21-11-2024 17:30:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488289004903526400038; orderListId: -1; price: 0.159761; origQty: 0; type: MARKET; side: BUY; transactTime: 1732199406606
+21-11-2024 17:30:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488289005377490944038; orderListId: -1; price: 0.159771; origQty: 0; type: MARKET; side: BUY; transactTime: 1732199406719
+21-11-2024 17:30:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488289005801107456038; orderListId: -1; price: 0.159979; origQty: 0; type: MARKET; side: BUY; transactTime: 1732199406820
+21-11-2024 17:31:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488289254561087490038; orderListId: -1; price: 0.159313; origQty: 0; type: MARKET; side: BUY; transactTime: 1732199466129
+21-11-2024 17:31:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488289255039238145038; orderListId: -1; price: 0.159061; origQty: 0; type: MARKET; side: BUY; transactTime: 1732199466243
+21-11-2024 17:33:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488289758372532259038; orderListId: -1; price: 0.158991; origQty: 0; type: MARKET; side: BUY; transactTime: 1732199586247
+21-11-2024 17:33:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488289759349768264038; orderListId: -1; price: 0.159027; origQty: 0; type: MARKET; side: BUY; transactTime: 1732199586480
+21-11-2024 17:34:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488290011867844608038; orderListId: -1; price: 0.158426; origQty: 0; type: MARKET; side: BUY; transactTime: 1732199646685
+21-11-2024 17:34:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488290012350214147038; orderListId: -1; price: 0.158426; origQty: 0; type: MARKET; side: BUY; transactTime: 1732199646800
+21-11-2024 17:35:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488290263467356160038; orderListId: -1; price: 0.158708; origQty: 0; type: MARKET; side: BUY; transactTime: 1732199706671
+21-11-2024 17:35:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488290265551945728038; orderListId: -1; price: 0.158375; origQty: 0; type: MARKET; side: BUY; transactTime: 1732199707168
+21-11-2024 17:36:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488290512663580673038; orderListId: -1; price: 0.158292; origQty: 0; type: MARKET; side: BUY; transactTime: 1732199766084
+21-11-2024 17:36:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488290514701967360038; orderListId: -1; price: 0.158312; origQty: 0; type: MARKET; side: BUY; transactTime: 1732199766570
+21-11-2024 17:40:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488291520030498816038; orderListId: -1; price: 0.157715; origQty: 0; type: MARKET; side: BUY; transactTime: 1732200006259
+21-11-2024 17:40:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488291521037131777038; orderListId: -1; price: 0.157807; origQty: 0; type: MARKET; side: BUY; transactTime: 1732200006499
+21-11-2024 17:40:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488291521716633600038; orderListId: -1; price: 0.157715; origQty: 0; type: MARKET; side: BUY; transactTime: 1732200006661
+21-11-2024 17:40:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488291522400325634038; orderListId: -1; price: 0.157715; origQty: 0; type: MARKET; side: BUY; transactTime: 1732200006824
+21-11-2024 17:45:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488292778321711104038; orderListId: -1; price: 0.158894; origQty: 0; type: MARKET; side: BUY; transactTime: 1732200306259
+21-11-2024 17:45:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488292780666318848038; orderListId: -1; price: 0.158469; origQty: 0; type: MARKET; side: BUY; transactTime: 1732200306818
+21-11-2024 17:46:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488293029682147330038; orderListId: -1; price: 0.158468; origQty: 0; type: MARKET; side: BUY; transactTime: 1732200366188
+21-11-2024 17:46:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488293032693682177038; orderListId: -1; price: 0.158385; origQty: 0; type: MARKET; side: BUY; transactTime: 1732200366906
+21-11-2024 17:52:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488294540122329088038; orderListId: -1; price: 0.159062; origQty: 0; type: MARKET; side: BUY; transactTime: 1732200726305
+21-11-2024 17:52:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488294542345306127038; orderListId: -1; price: 0.159109; origQty: 0; type: MARKET; side: BUY; transactTime: 1732200726835
+21-11-2024 17:54:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488295043774382080038; orderListId: -1; price: 0.158653; origQty: 0; type: MARKET; side: BUY; transactTime: 1732200846385
+21-11-2024 17:54:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488295043749187593038; orderListId: -1; price: 0.158504; origQty: 0; type: MARKET; side: BUY; transactTime: 1732200846379
+21-11-2024 17:55:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488295294216269824038; orderListId: -1; price: 0.158236; origQty: 0; type: MARKET; side: BUY; transactTime: 1732200906095
+21-11-2024 17:55:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488295296137228288038; orderListId: -1; price: 0.158337; origQty: 0; type: MARKET; side: BUY; transactTime: 1732200906553
+21-11-2024 17:55:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488295296363753472038; orderListId: -1; price: 0.158236; origQty: 0; type: MARKET; side: BUY; transactTime: 1732200906607
+21-11-2024 17:55:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488295298020491265038; orderListId: -1; price: 0.158236; origQty: 0; type: MARKET; side: BUY; transactTime: 1732200907002
+21-11-2024 18:02:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488297056788615168038; orderListId: -1; price: 0.1596; origQty: 0; type: MARKET; side: BUY; transactTime: 1732201326325
+21-11-2024 18:02:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488297058583789569038; orderListId: -1; price: 0.1596; origQty: 0; type: MARKET; side: BUY; transactTime: 1732201326753
+21-11-2024 18:06:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488298063849402368038; orderListId: -1; price: 0.159432; origQty: 0; type: MARKET; side: BUY; transactTime: 1732201566427
+21-11-2024 18:06:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488298066022047744038; orderListId: -1; price: 0.159265; origQty: 0; type: MARKET; side: BUY; transactTime: 1732201566945
+21-11-2024 18:10:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488299070234890244038; orderListId: -1; price: 0.159846; origQty: 0; type: MARKET; side: BUY; transactTime: 1732201806368
+21-11-2024 18:10:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488299073183494198038; orderListId: -1; price: 0.159295; origQty: 0; type: MARKET; side: BUY; transactTime: 1732201807071
+21-11-2024 18:11:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488299320957816832038; orderListId: -1; price: 0.158884; origQty: 0; type: MARKET; side: BUY; transactTime: 1732201866145
+21-11-2024 18:11:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488299324153868288038; orderListId: -1; price: 0.158916; origQty: 0; type: MARKET; side: BUY; transactTime: 1732201866907
+21-11-2024 18:12:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488299574000181248038; orderListId: -1; price: 0.158666; origQty: 0; type: MARKET; side: BUY; transactTime: 1732201926475
+21-11-2024 18:12:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488299574184734721038; orderListId: -1; price: 0.158544; origQty: 0; type: MARKET; side: BUY; transactTime: 1732201926519
+21-11-2024 18:18:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488301083668582400038; orderListId: -1; price: 0.159231; origQty: 0; type: MARKET; side: BUY; transactTime: 1732202286408
+21-11-2024 18:18:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488301085832859648038; orderListId: -1; price: 0.159231; origQty: 0; type: MARKET; side: BUY; transactTime: 1732202286924
+21-11-2024 18:23:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488302340231737348038; orderListId: -1; price: 0.158781; origQty: 0; type: MARKET; side: BUY; transactTime: 1732202585996
+21-11-2024 18:23:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488302344321167361038; orderListId: -1; price: 0.158763; origQty: 0; type: MARKET; side: BUY; transactTime: 1732202586971
+21-11-2024 18:24:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488302592401674240038; orderListId: -1; price: 0.157798; origQty: 0; type: MARKET; side: BUY; transactTime: 1732202646118
+21-11-2024 18:24:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488302592955318273038; orderListId: -1; price: 0.157627; origQty: 0; type: MARKET; side: BUY; transactTime: 1732202646250
+21-11-2024 18:25:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488302844542246913038; orderListId: -1; price: 0.157914; origQty: 0; type: MARKET; side: BUY; transactTime: 1732202706233
+21-11-2024 18:25:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488302845322403858038; orderListId: -1; price: 0.157795; origQty: 0; type: MARKET; side: BUY; transactTime: 1732202706419
+21-11-2024 18:26:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488303096800317442038; orderListId: -1; price: 0.157062; origQty: 0; type: MARKET; side: BUY; transactTime: 1732202766376
+21-11-2024 18:26:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488303096859013120038; orderListId: -1; price: 0.157068; origQty: 0; type: MARKET; side: BUY; transactTime: 1732202766390
+21-11-2024 18:27:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488303351046438912038; orderListId: -1; price: 0.156706; origQty: 0; type: MARKET; side: BUY; transactTime: 1732202826993
+21-11-2024 18:27:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488303351113527296038; orderListId: -1; price: 0.15645; origQty: 0; type: MARKET; side: BUY; transactTime: 1732202827009
+21-11-2024 18:28:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488303600318078976038; orderListId: -1; price: 0.156391; origQty: 0; type: MARKET; side: BUY; transactTime: 1732202886424
+21-11-2024 18:28:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488303601588998144038; orderListId: -1; price: 0.156389; origQty: 0; type: MARKET; side: BUY; transactTime: 1732202886727
+21-11-2024 18:30:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488304101831049216038; orderListId: -1; price: 0.156214; origQty: 0; type: MARKET; side: BUY; transactTime: 1732203005994
+21-11-2024 18:30:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488304106339909638038; orderListId: -1; price: 0.156324; origQty: 0; type: MARKET; side: BUY; transactTime: 1732203007069
+21-11-2024 18:33:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488304859506868225038; orderListId: -1; price: 0.156241; origQty: 0; type: MARKET; side: BUY; transactTime: 1732203186638
+21-11-2024 18:33:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488304860274446337038; orderListId: -1; price: 0.156243; origQty: 0; type: MARKET; side: BUY; transactTime: 1732203186821
+21-11-2024 18:35:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488305360982085633038; orderListId: -1; price: 0.156169; origQty: 0; type: MARKET; side: BUY; transactTime: 1732203306199
+21-11-2024 18:35:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488305364626911232038; orderListId: -1; price: 0.156184; origQty: 0; type: MARKET; side: BUY; transactTime: 1732203307068
+21-11-2024 18:39:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488306368063791104038; orderListId: -1; price: 0.156937; origQty: 0; type: MARKET; side: BUY; transactTime: 1732203546306
+21-11-2024 18:39:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488306369619894285038; orderListId: -1; price: 0.156937; origQty: 0; type: MARKET; side: BUY; transactTime: 1732203546677
+21-11-2024 18:40:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488306620166660097038; orderListId: -1; price: 0.156639; origQty: 0; type: MARKET; side: BUY; transactTime: 1732203606412
+21-11-2024 18:40:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488306622075068418038; orderListId: -1; price: 0.156639; origQty: 0; type: MARKET; side: BUY; transactTime: 1732203606867
+21-11-2024 18:42:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488307122749149184038; orderListId: -1; price: 0.155892; origQty: 0; type: MARKET; side: BUY; transactTime: 1732203726237
+21-11-2024 18:42:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488307126385586176038; orderListId: -1; price: 0.155849; origQty: 0; type: MARKET; side: BUY; transactTime: 1732203727104
+21-11-2024 18:44:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488307625583251456038; orderListId: -1; price: 0.156661; origQty: 0; type: MARKET; side: BUY; transactTime: 1732203846122
+21-11-2024 18:44:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488307627638480896038; orderListId: -1; price: 0.156738; origQty: 0; type: MARKET; side: BUY; transactTime: 1732203846612
+21-11-2024 18:51:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488309386993803265038; orderListId: -1; price: 0.157347; origQty: 0; type: MARKET; side: BUY; transactTime: 1732204266075
+21-11-2024 18:51:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488309392622559232038; orderListId: -1; price: 0.156985; origQty: 0; type: MARKET; side: BUY; transactTime: 1732204267417
+21-11-2024 18:52:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488309638857580552038; orderListId: -1; price: 0.15706; origQty: 0; type: MARKET; side: BUY; transactTime: 1732204326124
+21-11-2024 18:52:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488309642087182336038; orderListId: -1; price: 0.156901; origQty: 0; type: MARKET; side: BUY; transactTime: 1732204326894
+21-11-2024 18:53:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488309891371458560038; orderListId: -1; price: 0.156733; origQty: 0; type: MARKET; side: BUY; transactTime: 1732204386328
+21-11-2024 18:53:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488309894433312768038; orderListId: -1; price: 0.156733; origQty: 0; type: MARKET; side: BUY; transactTime: 1732204387058
+21-11-2024 18:55:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488310394788593664038; orderListId: -1; price: 0.15716; origQty: 0; type: MARKET; side: BUY; transactTime: 1732204506352
+21-11-2024 18:55:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488310395245789185038; orderListId: -1; price: 0.156922; origQty: 0; type: MARKET; side: BUY; transactTime: 1732204506461
+21-11-2024 19:01:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488311905769811968038; orderListId: -1; price: 0.156682; origQty: 0; type: MARKET; side: BUY; transactTime: 1732204866598
+21-11-2024 19:01:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488311906910674946038; orderListId: -1; price: 0.15697; origQty: 0; type: MARKET; side: BUY; transactTime: 1732204866870
+21-11-2024 19:09:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488313920436637696038; orderListId: -1; price: 0.156782; origQty: 0; type: MARKET; side: BUY; transactTime: 1732205346932
+21-11-2024 19:09:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488313921787224064038; orderListId: -1; price: 0.157295; origQty: 0; type: MARKET; side: BUY; transactTime: 1732205347254
+21-11-2024 19:10:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488314169179865088038; orderListId: -1; price: 0.156682; origQty: 0; type: MARKET; side: BUY; transactTime: 1732205406237
+21-11-2024 19:10:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488314169767047170038; orderListId: -1; price: 0.156699; origQty: 0; type: MARKET; side: BUY; transactTime: 1732205406377
+21-11-2024 19:22:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488317189900820482038; orderListId: -1; price: 0.1575; origQty: 0; type: MARKET; side: BUY; transactTime: 1732206126433
+21-11-2024 19:22:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488317189942734850038; orderListId: -1; price: 0.157689; origQty: 0; type: MARKET; side: BUY; transactTime: 1732206126443
+21-11-2024 19:29:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488318949667213313038; orderListId: -1; price: 0.158825; origQty: 0; type: MARKET; side: BUY; transactTime: 1732206545994
+21-11-2024 19:29:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488318952657743874038; orderListId: -1; price: 0.158761; origQty: 0; type: MARKET; side: BUY; transactTime: 1732206546707
+21-11-2024 19:36:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488320711761391616038; orderListId: -1; price: 0.15799; origQty: 0; type: MARKET; side: BUY; transactTime: 1732206966110
+21-11-2024 19:36:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488320713091018752038; orderListId: -1; price: 0.158046; origQty: 0; type: MARKET; side: BUY; transactTime: 1732206966427
+21-11-2024 19:37:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488320963008598017038; orderListId: -1; price: 0.157811; origQty: 0; type: MARKET; side: BUY; transactTime: 1732207026012
+21-11-2024 19:37:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488320966414360576038; orderListId: -1; price: 0.157811; origQty: 0; type: MARKET; side: BUY; transactTime: 1732207026824
+21-11-2024 19:40:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488321720160170032038; orderListId: -1; price: 0.15749; origQty: 0; type: MARKET; side: BUY; transactTime: 1732207206531
+21-11-2024 19:40:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488321720755773440038; orderListId: -1; price: 0.15749; origQty: 0; type: MARKET; side: BUY; transactTime: 1732207206673
+21-11-2024 19:40:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488321721087123456038; orderListId: -1; price: 0.1575; origQty: 0; type: MARKET; side: BUY; transactTime: 1732207206752
+21-11-2024 19:40:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488321721498152961038; orderListId: -1; price: 0.1575; origQty: 0; type: MARKET; side: BUY; transactTime: 1732207206850
+21-11-2024 19:47:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488323481839177728038; orderListId: -1; price: 0.157597; origQty: 0; type: MARKET; side: BUY; transactTime: 1732207626548
+21-11-2024 19:47:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488323483214876672038; orderListId: -1; price: 0.157674; origQty: 0; type: MARKET; side: BUY; transactTime: 1732207626876
+21-11-2024 19:55:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488325495277023233038; orderListId: -1; price: 0.157868; origQty: 0; type: MARKET; side: BUY; transactTime: 1732208106589
+21-11-2024 19:55:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488325496673722370038; orderListId: -1; price: 0.157909; origQty: 0; type: MARKET; side: BUY; transactTime: 1732208106923
+21-11-2024 20:00:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488326753178157056038; orderListId: -1; price: 0.157876; origQty: 0; type: MARKET; side: BUY; transactTime: 1732208406496
+21-11-2024 20:00:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488326754885234688038; orderListId: -1; price: 0.157851; origQty: 0; type: MARKET; side: BUY; transactTime: 1732208406903
+21-11-2024 20:05:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488328009481289729038; orderListId: -1; price: 0.157701; origQty: 0; type: MARKET; side: BUY; transactTime: 1732208706022
+21-11-2024 20:05:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488328009477070849038; orderListId: -1; price: 0.157777; origQty: 0; type: MARKET; side: BUY; transactTime: 1732208706021
+21-11-2024 20:05:32 | sync_wrapper | WARNING | check_order_by_id failure || id: C02__488288771041759232038; exception: HTTPSConnectionPool(host='api.mexc.com', port=443): Max retries exceeded with url: /api/v3/openOrders?symbol=KASUSDT&signature=3ab8c724130b6d009433a40b29c43e56419cee8aedb94d1ea378657464ade704&timestamp=1732208717696 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f886bcad0>: Failed to resolve 'api.mexc.com' ([Errno -2] Name or service not known)"))
+21-11-2024 20:05:32 | sync_wrapper | WARNING | check_order_by_id failure || id: C02__488288771041759232038; exception: HTTPSConnectionPool(host='api.mexc.com', port=443): Max retries exceeded with url: /api/v3/time (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f883aec50>: Failed to resolve 'api.mexc.com' ([Errno -2] Name or service not known)"))
+21-11-2024 20:05:43 | sync_wrapper | WARNING | check_order_by_id failure || id: C02__488288771041759232038; exception: HTTPSConnectionPool(host='api.mexc.com', port=443): Max retries exceeded with url: /api/v3/time (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f886bc910>: Failed to resolve 'api.mexc.com' ([Errno -2] Name or service not known)"))
+21-11-2024 20:05:44 | sync_wrapper | WARNING | check_order_by_id failure || id: C02__488288771041759232038; exception: HTTPSConnectionPool(host='api.mexc.com', port=443): Max retries exceeded with url: /api/v3/time (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f8b031ad0>: Failed to resolve 'api.mexc.com' ([Errno -2] Name or service not known)"))
+21-11-2024 20:05:54 | sync_wrapper | WARNING | check_order_by_id failure || id: C02__488288771041759232038; exception: HTTPSConnectionPool(host='api.mexc.com', port=443): Max retries exceeded with url: /api/v3/time (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f885f9e10>: Failed to resolve 'api.mexc.com' ([Errno -2] Name or service not known)"))
+21-11-2024 20:05:55 | sync_wrapper | WARNING | check_order_by_id failure || id: C02__488288771041759232038; exception: HTTPSConnectionPool(host='api.mexc.com', port=443): Max retries exceeded with url: /api/v3/time (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f885fb750>: Failed to resolve 'api.mexc.com' ([Errno -2] Name or service not known)"))
+21-11-2024 20:06:05 | sync_wrapper | WARNING | check_order_by_id failure || id: C02__488288771041759232038; exception: HTTPSConnectionPool(host='api.mexc.com', port=443): Max retries exceeded with url: /api/v3/time (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f8b15e250>: Failed to resolve 'api.mexc.com' ([Errno -2] Name or service not known)"))
+21-11-2024 20:12:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488329771961380865038; orderListId: -1; price: 0.158222; origQty: 0; type: MARKET; side: BUY; transactTime: 1732209126230
+21-11-2024 20:12:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488329772619849729038; orderListId: -1; price: 0.157935; origQty: 0; type: MARKET; side: BUY; transactTime: 1732209126387
+21-11-2024 20:14:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488330276938776578038; orderListId: -1; price: 0.158033; origQty: 0; type: MARKET; side: BUY; transactTime: 1732209246626
+21-11-2024 20:14:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488330280294256640038; orderListId: -1; price: 0.158032; origQty: 0; type: MARKET; side: BUY; transactTime: 1732209247426
+21-11-2024 20:19:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488331533405491203038; orderListId: -1; price: 0.158078; origQty: 0; type: MARKET; side: BUY; transactTime: 1732209546191
+21-11-2024 20:19:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488331534332428288038; orderListId: -1; price: 0.158083; origQty: 0; type: MARKET; side: BUY; transactTime: 1732209546412
+21-11-2024 20:31:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488334552343834624038; orderListId: -1; price: 0.158383; origQty: 0; type: MARKET; side: BUY; transactTime: 1732210265962
+21-11-2024 20:31:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488334555292463104038; orderListId: -1; price: 0.158512; origQty: 0; type: MARKET; side: BUY; transactTime: 1732210266665
+21-11-2024 20:34:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488335309600256000038; orderListId: -1; price: 0.158235; origQty: 0; type: MARKET; side: BUY; transactTime: 1732210446506
+21-11-2024 20:34:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488335311047331840038; orderListId: -1; price: 0.158164; origQty: 0; type: MARKET; side: BUY; transactTime: 1732210446851
+21-11-2024 20:36:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488335812597989376038; orderListId: -1; price: 0.157854; origQty: 0; type: MARKET; side: BUY; transactTime: 1732210566430
+21-11-2024 20:36:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488335814317670400038; orderListId: -1; price: 0.157848; origQty: 0; type: MARKET; side: BUY; transactTime: 1732210566840
+21-11-2024 20:50:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488339333640687617038; orderListId: -1; price: 0.158291; origQty: 0; type: MARKET; side: BUY; transactTime: 1732211405912
+21-11-2024 20:50:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488339337105207296038; orderListId: -1; price: 0.158284; origQty: 0; type: MARKET; side: BUY; transactTime: 1732211406738
+21-11-2024 20:56:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488340845653741569038; orderListId: -1; price: 0.157992; origQty: 0; type: MARKET; side: BUY; transactTime: 1732211766404
+21-11-2024 20:56:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488340845938946048038; orderListId: -1; price: 0.157992; origQty: 0; type: MARKET; side: BUY; transactTime: 1732211766472
+21-11-2024 20:58:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488341347749670914038; orderListId: -1; price: 0.157863; origQty: 0; type: MARKET; side: BUY; transactTime: 1732211886113
+21-11-2024 20:58:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488341351163846656038; orderListId: -1; price: 0.158063; origQty: 0; type: MARKET; side: BUY; transactTime: 1732211886927
+21-11-2024 21:03:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488342607043309569038; orderListId: -1; price: 0.158047; origQty: 0; type: MARKET; side: BUY; transactTime: 1732212186352
+21-11-2024 21:03:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488342609153069057038; orderListId: -1; price: 0.158028; origQty: 0; type: MARKET; side: BUY; transactTime: 1732212186855
+21-11-2024 21:06:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488343360717795328038; orderListId: -1; price: 0.157945; origQty: 0; type: MARKET; side: BUY; transactTime: 1732212366042
+21-11-2024 21:06:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488343363070787587038; orderListId: -1; price: 0.157911; origQty: 0; type: MARKET; side: BUY; transactTime: 1732212366603
+21-11-2024 21:11:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488344620317618184038; orderListId: -1; price: 0.15772; origQty: 0; type: MARKET; side: BUY; transactTime: 1732212666354
+21-11-2024 21:11:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488344621835956226038; orderListId: -1; price: 0.157712; origQty: 0; type: MARKET; side: BUY; transactTime: 1732212666716
+21-11-2024 21:14:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488345374302461952038; orderListId: -1; price: 0.157934; origQty: 0; type: MARKET; side: BUY; transactTime: 1732212846118
+21-11-2024 21:14:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488345377146212360038; orderListId: -1; price: 0.157859; origQty: 0; type: MARKET; side: BUY; transactTime: 1732212846796
+21-11-2024 21:32:16 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: 1 validation error for Bets
+  Invalid JSON: EOF while parsing a value at line 1 column 0 [type=json_invalid, input_value=b'', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.9/v/json_invalid
+21-11-2024 21:42:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488352421962149888038; orderListId: -1; price: 0.158118; origQty: 0; type: MARKET; side: BUY; transactTime: 1732214526411
+21-11-2024 21:42:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488352423551766530038; orderListId: -1; price: 0.158649; origQty: 0; type: MARKET; side: BUY; transactTime: 1732214526790
+21-11-2024 21:43:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488352672584380416038; orderListId: -1; price: 0.15797; origQty: 0; type: MARKET; side: BUY; transactTime: 1732214586164
+21-11-2024 21:43:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488352674773819392038; orderListId: -1; price: 0.157995; origQty: 0; type: MARKET; side: BUY; transactTime: 1732214586686
+21-11-2024 21:45:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488353178220298240038; orderListId: -1; price: 0.157873; origQty: 0; type: MARKET; side: BUY; transactTime: 1732214706717
+21-11-2024 21:45:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488353178883006464038; orderListId: -1; price: 0.157873; origQty: 0; type: MARKET; side: BUY; transactTime: 1732214706875
+21-11-2024 22:07:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488358712130506752038; orderListId: -1; price: 0.158853; origQty: 0; type: MARKET; side: BUY; transactTime: 1732216026104
+21-11-2024 22:07:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488358714559000576038; orderListId: -1; price: 0.158851; origQty: 0; type: MARKET; side: BUY; transactTime: 1732216026683
+21-11-2024 22:08:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488358963709034496038; orderListId: -1; price: 0.158541; origQty: 0; type: MARKET; side: BUY; transactTime: 1732216086085
+21-11-2024 22:08:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488358963939741696038; orderListId: -1; price: 0.158541; origQty: 0; type: MARKET; side: BUY; transactTime: 1732216086140
+21-11-2024 22:13:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488360225238245376038; orderListId: -1; price: 0.159021; origQty: 0; type: MARKET; side: BUY; transactTime: 1732216386857
+21-11-2024 22:13:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488360225242419200038; orderListId: -1; price: 0.159021; origQty: 0; type: MARKET; side: BUY; transactTime: 1732216386858
+21-11-2024 22:16:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488360978136756224038; orderListId: -1; price: 0.158639; origQty: 0; type: MARKET; side: BUY; transactTime: 1732216566362
+21-11-2024 22:16:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488360978795266079038; orderListId: -1; price: 0.15859; origQty: 0; type: MARKET; side: BUY; transactTime: 1732216566519
+21-11-2024 22:18:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488361482682204190038; orderListId: -1; price: 0.158344; origQty: 0; type: MARKET; side: BUY; transactTime: 1732216686655
+21-11-2024 22:18:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488361483609116672038; orderListId: -1; price: 0.158343; origQty: 0; type: MARKET; side: BUY; transactTime: 1732216686876
+21-11-2024 22:20:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488361984232873988038; orderListId: -1; price: 0.158092; origQty: 0; type: MARKET; side: BUY; transactTime: 1732216806234
+21-11-2024 22:20:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488361984467726338038; orderListId: -1; price: 0.158022; origQty: 0; type: MARKET; side: BUY; transactTime: 1732216806290
+21-11-2024 22:20:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488361986598449152038; orderListId: -1; price: 0.158019; origQty: 0; type: MARKET; side: BUY; transactTime: 1732216806798
+21-11-2024 22:20:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488361987277942786038; orderListId: -1; price: 0.158027; origQty: 0; type: MARKET; side: BUY; transactTime: 1732216806960
+21-11-2024 22:26:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488363493733490689038; orderListId: -1; price: 0.158413; origQty: 0; type: MARKET; side: BUY; transactTime: 1732217166127
+21-11-2024 22:26:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488363494253604865038; orderListId: -1; price: 0.158445; origQty: 0; type: MARKET; side: BUY; transactTime: 1732217166251
+21-11-2024 22:27:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488363745202991104038; orderListId: -1; price: 0.15808; origQty: 0; type: MARKET; side: BUY; transactTime: 1732217226082
+21-11-2024 22:27:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488363748130643968038; orderListId: -1; price: 0.158136; origQty: 0; type: MARKET; side: BUY; transactTime: 1732217226780
+21-11-2024 22:38:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488366515742126083038; orderListId: -1; price: 0.159093; origQty: 0; type: MARKET; side: BUY; transactTime: 1732217886630
+21-11-2024 22:38:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488366515997999104038; orderListId: -1; price: 0.159093; origQty: 0; type: MARKET; side: BUY; transactTime: 1732217886691
+21-11-2024 22:39:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488366765261291520038; orderListId: -1; price: 0.159093; origQty: 0; type: MARKET; side: BUY; transactTime: 1732217946120
+21-11-2024 22:39:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488366765378703364038; orderListId: -1; price: 0.158909; origQty: 0; type: MARKET; side: BUY; transactTime: 1732217946148
+21-11-2024 22:52:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488370036549947392038; orderListId: -1; price: 0.158017; origQty: 0; type: MARKET; side: BUY; transactTime: 1732218726056
+21-11-2024 22:52:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488370039473373184038; orderListId: -1; price: 0.15802; origQty: 0; type: MARKET; side: BUY; transactTime: 1732218726753
+21-11-2024 23:21:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488377335427432448038; orderListId: -1; price: 0.15882; origQty: 0; type: MARKET; side: BUY; transactTime: 1732220466244
+21-11-2024 23:21:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488377335712677888038; orderListId: -1; price: 0.15882; origQty: 0; type: MARKET; side: BUY; transactTime: 1732220466312
+21-11-2024 23:36:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488381111202828288038; orderListId: -1; price: 0.159474; origQty: 0; type: MARKET; side: BUY; transactTime: 1732221366459
+21-11-2024 23:36:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488381112284966913038; orderListId: -1; price: 0.159608; origQty: 0; type: MARKET; side: BUY; transactTime: 1732221366717
+21-11-2024 23:39:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488381866374692866038; orderListId: -1; price: 0.158572; origQty: 0; type: MARKET; side: BUY; transactTime: 1732221546506
+21-11-2024 23:39:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488381866517282820038; orderListId: -1; price: 0.159155; origQty: 0; type: MARKET; side: BUY; transactTime: 1732221546540
+21-11-2024 23:40:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488382116409737217038; orderListId: -1; price: 0.158426; origQty: 0; type: MARKET; side: BUY; transactTime: 1732221606119
+21-11-2024 23:40:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488382118070644736038; orderListId: -1; price: 0.1584; origQty: 0; type: MARKET; side: BUY; transactTime: 1732221606515
+21-11-2024 23:56:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488386143033856000038; orderListId: -1; price: 0.15858; origQty: 0; type: MARKET; side: BUY; transactTime: 1732222566141
+21-11-2024 23:56:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488386143285477376038; orderListId: -1; price: 0.15858; origQty: 0; type: MARKET; side: BUY; transactTime: 1732222566201
+22-11-2024 00:08:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488389165495427072038; orderListId: -1; price: 0.158069; origQty: 0; type: MARKET; side: BUY; transactTime: 1732223286752
+22-11-2024 00:08:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488389165763858432038; orderListId: -1; price: 0.158072; origQty: 0; type: MARKET; side: BUY; transactTime: 1732223286816
+22-11-2024 00:10:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488389667658489856038; orderListId: -1; price: 0.157815; origQty: 0; type: MARKET; side: BUY; transactTime: 1732223406477
+22-11-2024 00:10:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488389669201993728038; orderListId: -1; price: 0.157815; origQty: 0; type: MARKET; side: BUY; transactTime: 1732223406845
+22-11-2024 00:17:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488391430448971781038; orderListId: -1; price: 0.157752; origQty: 0; type: MARKET; side: BUY; transactTime: 1732223826759
+22-11-2024 00:17:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488391430641901568038; orderListId: -1; price: 0.157752; origQty: 0; type: MARKET; side: BUY; transactTime: 1732223826805
+22-11-2024 00:28:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488394199348109312038; orderListId: -1; price: 0.157803; origQty: 0; type: MARKET; side: BUY; transactTime: 1732224486916
+22-11-2024 00:28:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488394199381671936038; orderListId: -1; price: 0.157803; origQty: 0; type: MARKET; side: BUY; transactTime: 1732224486924
+22-11-2024 00:37:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488396461281742878038; orderListId: -1; price: 0.158351; origQty: 0; type: MARKET; side: BUY; transactTime: 1732225026203
+22-11-2024 00:37:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488396463961862184038; orderListId: -1; price: 0.158351; origQty: 0; type: MARKET; side: BUY; transactTime: 1732225026842
+22-11-2024 00:38:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488396713350987776038; orderListId: -1; price: 0.158107; origQty: 0; type: MARKET; side: BUY; transactTime: 1732225086301
+22-11-2024 00:38:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488396715385217024038; orderListId: -1; price: 0.15811; origQty: 0; type: MARKET; side: BUY; transactTime: 1732225086786
+22-11-2024 00:39:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488396966548557824038; orderListId: -1; price: 0.157968; origQty: 0; type: MARKET; side: BUY; transactTime: 1732225146668
+22-11-2024 00:39:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488396966854725632038; orderListId: -1; price: 0.157926; origQty: 0; type: MARKET; side: BUY; transactTime: 1732225146741
+22-11-2024 00:40:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488397216193531904038; orderListId: -1; price: 0.157968; origQty: 0; type: MARKET; side: BUY; transactTime: 1732225206188
+22-11-2024 00:40:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488397218433265664038; orderListId: -1; price: 0.157962; origQty: 0; type: MARKET; side: BUY; transactTime: 1732225206722
+22-11-2024 00:42:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488397719937843201038; orderListId: -1; price: 0.15779; origQty: 0; type: MARKET; side: BUY; transactTime: 1732225326290
+22-11-2024 00:42:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488397721284182016038; orderListId: -1; price: 0.157788; origQty: 0; type: MARKET; side: BUY; transactTime: 1732225326611
+22-11-2024 01:10:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488404765282230272038; orderListId: -1; price: 0.158229; origQty: 0; type: MARKET; side: BUY; transactTime: 1732227006031
+22-11-2024 01:10:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488404765298987040038; orderListId: -1; price: 0.158229; origQty: 0; type: MARKET; side: BUY; transactTime: 1732227006035
+22-11-2024 01:12:08 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488278956546551808038; exception: Order cancelled.
+22-11-2024 01:12:08 | market_sell | INFO | Market sell success || symbol: KASUSDT; orderId: C02__488405277427687424038; orderListId: -1; price: 0.143545; origQty: 10.85; type: MARKET; side: SELL; transactTime: 1732227128136
+22-11-2024 01:12:09 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488278956546551808038; exception: Order cancelled.
+22-11-2024 01:12:11 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488278956546551808038; exception: Order cancelled.
+22-11-2024 01:12:13 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488278956546551808038; exception: Order cancelled.
+22-11-2024 01:12:15 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488278956546551808038; exception: Order cancelled.
+22-11-2024 01:12:16 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: Error in client! Restarting iteration 162
+22-11-2024 01:22:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488407788200980481038; orderListId: -1; price: 0.159801; origQty: 0; type: MARKET; side: BUY; transactTime: 1732227726751
+22-11-2024 01:22:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488407788502994945038; orderListId: -1; price: 0.159678; origQty: 0; type: MARKET; side: BUY; transactTime: 1732227726823
+22-11-2024 01:24:08 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488281975459774464038; exception: Order cancelled.
+22-11-2024 01:24:09 | market_sell | INFO | Market sell success || symbol: KASUSDT; orderId: C02__488408300551987200038; orderListId: -1; price: 0.144535; origQty: 10.88; type: MARKET; side: SELL; transactTime: 1732227848905
+22-11-2024 01:24:10 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488281975459774464038; exception: Order cancelled.
+22-11-2024 01:24:12 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488281975459774464038; exception: Order cancelled.
+22-11-2024 01:24:13 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488281975459774464038; exception: Order cancelled.
+22-11-2024 01:24:15 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488281975459774464038; exception: Order cancelled.
+22-11-2024 01:24:16 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: Error in client! Restarting iteration 162
+22-11-2024 01:27:08 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488282728593195008038; exception: Order cancelled.
+22-11-2024 01:27:09 | market_sell | INFO | Market sell success || symbol: KASUSDT; orderId: C02__488409056617238528038; orderListId: -1; price: 0.144471; origQty: 10.89; type: MARKET; side: SELL; transactTime: 1732228029165
+22-11-2024 01:27:10 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488282728593195008038; exception: Order cancelled.
+22-11-2024 01:27:12 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488282728593195008038; exception: Order cancelled.
+22-11-2024 01:27:14 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488282728593195008038; exception: Order cancelled.
+22-11-2024 01:27:16 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488282728593195008038; exception: Order cancelled.
+22-11-2024 01:27:17 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: Error in client! Restarting iteration 162
+22-11-2024 01:30:08 | market_sell | INFO | Market sell success || symbol: KASUSDT; orderId: C02__488409809570295808038; orderListId: -1; price: 0.145036; origQty: 10.96; type: MARKET; side: SELL; transactTime: 1732228208683
+22-11-2024 01:30:09 | market_sell | INFO | Market sell success || symbol: KASUSDT; orderId: C02__488409810807640064038; orderListId: -1; price: 0.145038; origQty: 10.96; type: MARKET; side: SELL; transactTime: 1732228208978
+22-11-2024 01:31:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488410051309015040038; orderListId: -1; price: 0.16013; origQty: 0; type: MARKET; side: BUY; transactTime: 1732228266318
+22-11-2024 01:31:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488410051975942152038; orderListId: -1; price: 0.160131; origQty: 0; type: MARKET; side: BUY; transactTime: 1732228266477
+22-11-2024 01:31:13 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488283738774536192038; exception: Order cancelled.
+22-11-2024 01:31:13 | market_sell | INFO | Market sell success || symbol: KASUSDT; orderId: C02__488410081331851270038; orderListId: -1; price: 0.144881; origQty: 10.94; type: MARKET; side: SELL; transactTime: 1732228273476
+22-11-2024 01:31:14 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488283738774536192038; exception: Order cancelled.
+22-11-2024 01:31:16 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488283738774536192038; exception: Order cancelled.
+22-11-2024 01:31:18 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488283738774536192038; exception: Order cancelled.
+22-11-2024 01:31:19 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488283738774536192038; exception: Order cancelled.
+22-11-2024 01:31:20 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: Error in client! Restarting iteration 162
+22-11-2024 01:33:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488410553383972867038; orderListId: -1; price: 0.160069; origQty: 0; type: MARKET; side: BUY; transactTime: 1732228386022
+22-11-2024 01:33:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488410556580032523038; orderListId: -1; price: 0.160069; origQty: 0; type: MARKET; side: BUY; transactTime: 1732228386784
+22-11-2024 01:33:13 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488284239297613827038; exception: Order cancelled.
+22-11-2024 01:33:14 | market_sell | INFO | Market sell success || symbol: KASUSDT; orderId: C02__488410587106209792038; orderListId: -1; price: 0.145019; origQty: 10.96; type: MARKET; side: SELL; transactTime: 1732228394062
+22-11-2024 01:33:15 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488284239297613827038; exception: Order cancelled.
+22-11-2024 01:33:17 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488284239297613827038; exception: Order cancelled.
+22-11-2024 01:33:18 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488284239297613827038; exception: Order cancelled.
+22-11-2024 01:33:20 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488284239297613827038; exception: Order cancelled.
+22-11-2024 01:33:21 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: Error in client! Restarting iteration 162
+22-11-2024 01:43:08 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488286761231908864038; exception: Order cancelled.
+22-11-2024 01:43:08 | market_sell | INFO | Market sell success || symbol: KASUSDT; orderId: C02__488413079441317888038; orderListId: -1; price: 0.145092; origQty: 11.01; type: MARKET; side: SELL; transactTime: 1732228988281
+22-11-2024 01:43:09 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488286761231908864038; exception: Order cancelled.
+22-11-2024 01:43:11 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488286761231908864038; exception: Order cancelled.
+22-11-2024 01:43:13 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488286761231908864038; exception: Order cancelled.
+22-11-2024 01:43:14 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488286761231908864038; exception: Order cancelled.
+22-11-2024 01:43:15 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: Error in client! Restarting iteration 162
+22-11-2024 01:45:09 | market_sell | INFO | Market sell success || symbol: KASUSDT; orderId: C02__488413586033553408038; orderListId: -1; price: 0.14494; origQty: 11.07; type: MARKET; side: SELL; transactTime: 1732229109062
+22-11-2024 01:45:09 | market_sell | INFO | Market sell success || symbol: KASUSDT; orderId: C02__488413586230693888038; orderListId: -1; price: 0.144967; origQty: 11.07; type: MARKET; side: SELL; transactTime: 1732229109109
+22-11-2024 01:46:07 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488287513824292865038; exception: Order cancelled.
+22-11-2024 01:46:08 | market_sell | INFO | Market sell success || symbol: KASUSDT; orderId: C02__488413835435245568038; orderListId: -1; price: 0.145154; origQty: 11.04; type: MARKET; side: SELL; transactTime: 1732229168524
+22-11-2024 01:46:09 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488287513824292865038; exception: Order cancelled.
+22-11-2024 01:46:11 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488287513824292865038; exception: Order cancelled.
+22-11-2024 01:46:12 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488287513824292865038; exception: Order cancelled.
+22-11-2024 01:46:14 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488287513824292865038; exception: Order cancelled.
+22-11-2024 01:46:15 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: Error in client! Restarting iteration 162
+22-11-2024 01:47:07 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488287765595787264038; exception: Order cancelled.
+22-11-2024 01:47:08 | market_sell | INFO | Market sell success || symbol: KASUSDT; orderId: C02__488414086166577152038; orderListId: -1; price: 0.1452; origQty: 11.07; type: MARKET; side: SELL; transactTime: 1732229228303
+22-11-2024 01:47:09 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488287765595787264038; exception: Order cancelled.
+22-11-2024 01:47:11 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488287765595787264038; exception: Order cancelled.
+22-11-2024 01:47:12 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488287765595787264038; exception: Order cancelled.
+22-11-2024 01:47:14 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488287765595787264038; exception: Order cancelled.
+22-11-2024 01:47:15 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: Error in client! Restarting iteration 162
+22-11-2024 01:48:08 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488288018277400578038; exception: Order cancelled.
+22-11-2024 01:48:09 | market_sell | INFO | Market sell success || symbol: KASUSDT; orderId: C02__488414340467228672038; orderListId: -1; price: 0.145129; origQty: 11.08; type: MARKET; side: SELL; transactTime: 1732229288933
+22-11-2024 01:48:10 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488288018277400578038; exception: Order cancelled.
+22-11-2024 01:48:11 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488288018277400578038; exception: Order cancelled.
+22-11-2024 01:48:13 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488288018277400578038; exception: Order cancelled.
+22-11-2024 01:48:15 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488288018277400578038; exception: Order cancelled.
+22-11-2024 01:48:16 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: Error in client! Restarting iteration 162
+22-11-2024 01:49:08 | market_sell | INFO | Market sell success || symbol: KASUSDT; orderId: C02__488414589306871808038; orderListId: -1; price: 0.145202; origQty: 11.14; type: MARKET; side: SELL; transactTime: 1732229348261
+22-11-2024 01:49:08 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488288272334807040038; exception: Order cancelled.
+22-11-2024 01:49:10 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488288272334807040038; exception: Order cancelled.
+22-11-2024 01:49:11 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488288272334807040038; exception: Order cancelled.
+22-11-2024 01:49:13 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488288272334807040038; exception: Order cancelled.
+22-11-2024 01:49:15 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488288272334807040038; exception: Order cancelled.
+22-11-2024 01:49:16 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: Error in client! Restarting iteration 162
+22-11-2024 01:50:08 | market_sell | INFO | Market sell success || symbol: KASUSDT; orderId: C02__488414842655444992038; orderListId: -1; price: 0.145227; origQty: 11.15; type: MARKET; side: SELL; transactTime: 1732229408664
+22-11-2024 01:50:09 | market_sell | INFO | Market sell success || symbol: KASUSDT; orderId: C02__488414847415971840038; orderListId: -1; price: 0.145214; origQty: 11.15; type: MARKET; side: SELL; transactTime: 1732229409799
+22-11-2024 02:00:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488417351457366016038; orderListId: -1; price: 0.160558; origQty: 0; type: MARKET; side: BUY; transactTime: 1732230006809
+22-11-2024 02:00:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488417351579041792038; orderListId: -1; price: 0.160408; origQty: 0; type: MARKET; side: BUY; transactTime: 1732230006838
+22-11-2024 02:01:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488417602423590912038; orderListId: -1; price: 0.160408; origQty: 0; type: MARKET; side: BUY; transactTime: 1732230066644
+22-11-2024 02:01:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488417602738151432038; orderListId: -1; price: 0.1604; origQty: 0; type: MARKET; side: BUY; transactTime: 1732230066720
+22-11-2024 02:02:07 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: 1 validation error for Bets
+  Invalid JSON: EOF while parsing a value at line 1 column 0 [type=json_invalid, input_value=b'', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.9/v/json_invalid
+22-11-2024 02:06:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488418859720699904038; orderListId: -1; price: 0.159853; origQty: 0; type: MARKET; side: BUY; transactTime: 1732230366407
+22-11-2024 02:06:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488418861247434752038; orderListId: -1; price: 0.159861; origQty: 0; type: MARKET; side: BUY; transactTime: 1732230366771
+22-11-2024 02:09:08 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: 1 validation error for Bets
+  Invalid JSON: EOF while parsing a value at line 1 column 0 [type=json_invalid, input_value=b'', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.9/v/json_invalid
+22-11-2024 02:13:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488420622209216512038; orderListId: -1; price: 0.160549; origQty: 0; type: MARKET; side: BUY; transactTime: 1732230786617
+22-11-2024 02:13:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488420622465060870038; orderListId: -1; price: 0.16065; origQty: 0; type: MARKET; side: BUY; transactTime: 1732230786678
+22-11-2024 02:16:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488421378152812544038; orderListId: -1; price: 0.16065; origQty: 0; type: MARKET; side: BUY; transactTime: 1732230966848
+22-11-2024 02:16:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488421378110853121038; orderListId: -1; price: 0.16065; origQty: 0; type: MARKET; side: BUY; transactTime: 1732230966838
+22-11-2024 02:17:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488421627458023424038; orderListId: -1; price: 0.160196; origQty: 0; type: MARKET; side: BUY; transactTime: 1732231026287
+22-11-2024 02:17:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488421627466420224038; orderListId: -1; price: 0.160543; origQty: 0; type: MARKET; side: BUY; transactTime: 1732231026289
+22-11-2024 02:19:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488422130543845376038; orderListId: -1; price: 0.160118; origQty: 0; type: MARKET; side: BUY; transactTime: 1732231146232
+22-11-2024 02:19:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488422131227484160038; orderListId: -1; price: 0.160119; origQty: 0; type: MARKET; side: BUY; transactTime: 1732231146395
+22-11-2024 02:20:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488422382021709824038; orderListId: -1; price: 0.160119; origQty: 0; type: MARKET; side: BUY; transactTime: 1732231206189
+22-11-2024 02:20:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488422383523278850038; orderListId: -1; price: 0.160119; origQty: 0; type: MARKET; side: BUY; transactTime: 1732231206547
+22-11-2024 02:26:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488423893132996618038; orderListId: -1; price: 0.160045; origQty: 0; type: MARKET; side: BUY; transactTime: 1732231566466
+22-11-2024 02:26:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488423894877818880038; orderListId: -1; price: 0.159948; origQty: 0; type: MARKET; side: BUY; transactTime: 1732231566882
+22-11-2024 03:20:05 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: 1 validation error for Bets
+  Invalid JSON: EOF while parsing a value at line 1 column 0 [type=json_invalid, input_value=b'', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.9/v/json_invalid
+22-11-2024 03:30:05 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: 1 validation error for Bets
+  Invalid JSON: EOF while parsing a value at line 1 column 0 [type=json_invalid, input_value=b'', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.9/v/json_invalid
+22-11-2024 03:32:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488440503168229376038; orderListId: -1; price: 0.160815; origQty: 0; type: MARKET; side: BUY; transactTime: 1732235526607
+22-11-2024 03:32:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488440503889657861038; orderListId: -1; price: 0.160971; origQty: 0; type: MARKET; side: BUY; transactTime: 1732235526779
+22-11-2024 03:34:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488441006191087616038; orderListId: -1; price: 0.160372; origQty: 0; type: MARKET; side: BUY; transactTime: 1732235646537
+22-11-2024 03:34:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488441006375641088038; orderListId: -1; price: 0.160352; origQty: 0; type: MARKET; side: BUY; transactTime: 1732235646581
+22-11-2024 03:35:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488441257484451840038; orderListId: -1; price: 0.160389; origQty: 0; type: MARKET; side: BUY; transactTime: 1732235706450
+22-11-2024 03:35:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488441257522167808038; orderListId: -1; price: 0.160389; origQty: 0; type: MARKET; side: BUY; transactTime: 1732235706459
+22-11-2024 03:41:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488442766309777408038; orderListId: -1; price: 0.159918; origQty: 0; type: MARKET; side: BUY; transactTime: 1732236066182
+22-11-2024 03:41:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488442766523691008038; orderListId: -1; price: 0.159848; origQty: 0; type: MARKET; side: BUY; transactTime: 1732236066233
+22-11-2024 03:42:07 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: 1 validation error for Bets
+  Invalid JSON: EOF while parsing a value at line 1 column 0 [type=json_invalid, input_value=b'', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.9/v/json_invalid
+22-11-2024 03:45:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488443771709648896038; orderListId: -1; price: 0.159562; origQty: 0; type: MARKET; side: BUY; transactTime: 1732236305888
+22-11-2024 03:45:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488443772154208256038; orderListId: -1; price: 0.159562; origQty: 0; type: MARKET; side: BUY; transactTime: 1732236305994
+22-11-2024 03:46:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488444024206733312038; orderListId: -1; price: 0.159244; origQty: 0; type: MARKET; side: BUY; transactTime: 1732236366088
+22-11-2024 03:46:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488444024282218497038; orderListId: -1; price: 0.159477; origQty: 0; type: MARKET; side: BUY; transactTime: 1732236366106
+22-11-2024 03:50:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488445031699509249038; orderListId: -1; price: 0.158877; origQty: 0; type: MARKET; side: BUY; transactTime: 1732236606293
+22-11-2024 03:50:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488445032089579520038; orderListId: -1; price: 0.159068; origQty: 0; type: MARKET; side: BUY; transactTime: 1732236606386
+22-11-2024 03:54:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488446037585887232038; orderListId: -1; price: 0.159675; origQty: 0; type: MARKET; side: BUY; transactTime: 1732236846115
+22-11-2024 03:54:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488446038105972766038; orderListId: -1; price: 0.159533; origQty: 0; type: MARKET; side: BUY; transactTime: 1732236846239
+22-11-2024 03:55:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488446291249016832038; orderListId: -1; price: 0.15921; origQty: 0; type: MARKET; side: BUY; transactTime: 1732236906593
+22-11-2024 03:55:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488446291349676032038; orderListId: -1; price: 0.15921; origQty: 0; type: MARKET; side: BUY; transactTime: 1732236906617
+22-11-2024 04:02:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488448050096865294038; orderListId: -1; price: 0.159675; origQty: 0; type: MARKET; side: BUY; transactTime: 1732237325935
+22-11-2024 04:02:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488448053326467072038; orderListId: -1; price: 0.159465; origQty: 0; type: MARKET; side: BUY; transactTime: 1732237326705
+22-11-2024 04:03:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488448303436996608038; orderListId: -1; price: 0.159167; origQty: 0; type: MARKET; side: BUY; transactTime: 1732237386336
+22-11-2024 04:03:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488448303952883714038; orderListId: -1; price: 0.159623; origQty: 0; type: MARKET; side: BUY; transactTime: 1732237386459
+22-11-2024 04:04:09 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: 1 validation error for Bets
+  Invalid JSON: EOF while parsing a value at line 1 column 0 [type=json_invalid, input_value=b'', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.9/v/json_invalid
+22-11-2024 04:05:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488448805461651456038; orderListId: -1; price: 0.159498; origQty: 0; type: MARKET; side: BUY; transactTime: 1732237506028
+22-11-2024 04:05:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488448808015974400038; orderListId: -1; price: 0.159642; origQty: 0; type: MARKET; side: BUY; transactTime: 1732237506637
+22-11-2024 04:11:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488450315717267456038; orderListId: -1; price: 0.160047; origQty: 0; type: MARKET; side: BUY; transactTime: 1732237866101
+22-11-2024 04:11:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488450315771793408038; orderListId: -1; price: 0.160047; origQty: 0; type: MARKET; side: BUY; transactTime: 1732237866115
+22-11-2024 04:18:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488452079770230784038; orderListId: -1; price: 0.159925; origQty: 0; type: MARKET; side: BUY; transactTime: 1732238286684
+22-11-2024 04:18:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488452079820574720038; orderListId: -1; price: 0.159504; origQty: 0; type: MARKET; side: BUY; transactTime: 1732238286696
+22-11-2024 04:19:08 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: 1 validation error for Bets
+  Invalid JSON: EOF while parsing a value at line 1 column 0 [type=json_invalid, input_value=b'', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.9/v/json_invalid
+22-11-2024 04:20:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488452579961966594038; orderListId: -1; price: 0.159477; origQty: 0; type: MARKET; side: BUY; transactTime: 1732238405939
+22-11-2024 04:20:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488452582784716801038; orderListId: -1; price: 0.159481; origQty: 0; type: MARKET; side: BUY; transactTime: 1732238406612
+22-11-2024 04:23:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488453335721009152038; orderListId: -1; price: 0.159048; origQty: 0; type: MARKET; side: BUY; transactTime: 1732238586126
+22-11-2024 04:23:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488453335741960196038; orderListId: -1; price: 0.159235; origQty: 0; type: MARKET; side: BUY; transactTime: 1732238586131
+22-11-2024 04:25:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488453838232158208038; orderListId: -1; price: 0.158522; origQty: 0; type: MARKET; side: BUY; transactTime: 1732238705934
+22-11-2024 04:25:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488453840828456960038; orderListId: -1; price: 0.158519; origQty: 0; type: MARKET; side: BUY; transactTime: 1732238706553
+22-11-2024 04:25:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488453841151418368038; orderListId: -1; price: 0.158502; origQty: 0; type: MARKET; side: BUY; transactTime: 1732238706630
+22-11-2024 04:25:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488453841184948225038; orderListId: -1; price: 0.158506; origQty: 0; type: MARKET; side: BUY; transactTime: 1732238706638
+22-11-2024 04:26:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488454089873633280038; orderListId: -1; price: 0.158207; origQty: 0; type: MARKET; side: BUY; transactTime: 1732238765930
+22-11-2024 04:26:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488454093786935297038; orderListId: -1; price: 0.158207; origQty: 0; type: MARKET; side: BUY; transactTime: 1732238766863
+22-11-2024 04:27:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488454342748217345038; orderListId: -1; price: 0.158015; origQty: 0; type: MARKET; side: BUY; transactTime: 1732238826220
+22-11-2024 04:27:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488454342949556224038; orderListId: -1; price: 0.158015; origQty: 0; type: MARKET; side: BUY; transactTime: 1732238826268
+22-11-2024 04:33:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488455851770728448038; orderListId: -1; price: 0.158852; origQty: 0; type: MARKET; side: BUY; transactTime: 1732239185999
+22-11-2024 04:33:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488455853079334912038; orderListId: -1; price: 0.15872; origQty: 0; type: MARKET; side: BUY; transactTime: 1732239186311
+22-11-2024 04:36:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488456607450071040038; orderListId: -1; price: 0.158289; origQty: 0; type: MARKET; side: BUY; transactTime: 1732239366167
+22-11-2024 04:36:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488456610222518278038; orderListId: -1; price: 0.158127; origQty: 0; type: MARKET; side: BUY; transactTime: 1732239366828
+22-11-2024 04:38:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488457110682656772038; orderListId: -1; price: 0.158205; origQty: 0; type: MARKET; side: BUY; transactTime: 1732239486147
+22-11-2024 04:38:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488457111966146560038; orderListId: -1; price: 0.158242; origQty: 0; type: MARKET; side: BUY; transactTime: 1732239486453
+22-11-2024 04:41:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488457865464475649038; orderListId: -1; price: 0.158235; origQty: 0; type: MARKET; side: BUY; transactTime: 1732239666101
+22-11-2024 04:41:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488457868031373313038; orderListId: -1; price: 0.158344; origQty: 0; type: MARKET; side: BUY; transactTime: 1732239666713
+22-11-2024 04:45:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488458875289288704038; orderListId: -1; price: 0.158057; origQty: 0; type: MARKET; side: BUY; transactTime: 1732239906862
+22-11-2024 04:45:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488458875297689600038; orderListId: -1; price: 0.158057; origQty: 0; type: MARKET; side: BUY; transactTime: 1732239906864
+22-11-2024 04:48:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488459629307711488038; orderListId: -1; price: 0.158352; origQty: 0; type: MARKET; side: BUY; transactTime: 1732240086634
+22-11-2024 04:48:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488459629307711489038; orderListId: -1; price: 0.158153; origQty: 0; type: MARKET; side: BUY; transactTime: 1732240086634
+22-11-2024 04:53:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488460886000889856038; orderListId: -1; price: 0.159166; origQty: 0; type: MARKET; side: BUY; transactTime: 1732240386253
+22-11-2024 04:53:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488460888542613504038; orderListId: -1; price: 0.159166; origQty: 0; type: MARKET; side: BUY; transactTime: 1732240386859
+22-11-2024 04:58:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488462144040439808038; orderListId: -1; price: 0.158475; origQty: 0; type: MARKET; side: BUY; transactTime: 1732240686193
+22-11-2024 04:58:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488462144686342144038; orderListId: -1; price: 0.158409; origQty: 0; type: MARKET; side: BUY; transactTime: 1732240686347
+22-11-2024 04:59:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488462398001332224038; orderListId: -1; price: 0.158107; origQty: 0; type: MARKET; side: BUY; transactTime: 1732240746742
+22-11-2024 04:59:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488462398060064768038; orderListId: -1; price: 0.158072; origQty: 0; type: MARKET; side: BUY; transactTime: 1732240746756
+22-11-2024 05:00:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488462647176523776038; orderListId: -1; price: 0.158052; origQty: 0; type: MARKET; side: BUY; transactTime: 1732240806150
+22-11-2024 05:00:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488462648099311616038; orderListId: -1; price: 0.158051; origQty: 0; type: MARKET; side: BUY; transactTime: 1732240806370
+22-11-2024 05:02:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488463151315095552038; orderListId: -1; price: 0.157994; origQty: 0; type: MARKET; side: BUY; transactTime: 1732240926346
+22-11-2024 05:02:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488463151327686656038; orderListId: -1; price: 0.157994; origQty: 0; type: MARKET; side: BUY; transactTime: 1732240926349
+22-11-2024 05:02:16 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: 1 validation error for Bets
+  Invalid JSON: EOF while parsing a value at line 1 column 0 [type=json_invalid, input_value=b'', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.9/v/json_invalid
+22-11-2024 05:06:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488464156471672832038; orderListId: -1; price: 0.158493; origQty: 0; type: MARKET; side: BUY; transactTime: 1732241165994
+22-11-2024 05:06:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488464156530388997038; orderListId: -1; price: 0.158042; origQty: 0; type: MARKET; side: BUY; transactTime: 1732241166008
+22-11-2024 05:10:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488465165159837696038; orderListId: -1; price: 0.157967; origQty: 0; type: MARKET; side: BUY; transactTime: 1732241406484
+22-11-2024 05:10:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488465166485217280038; orderListId: -1; price: 0.157849; origQty: 0; type: MARKET; side: BUY; transactTime: 1732241406800
+22-11-2024 05:12:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488465667310325780038; orderListId: -1; price: 0.15769; origQty: 0; type: MARKET; side: BUY; transactTime: 1732241526206
+22-11-2024 05:12:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488465670057562112038; orderListId: -1; price: 0.15769; origQty: 0; type: MARKET; side: BUY; transactTime: 1732241526861
+22-11-2024 05:18:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488467178627096580038; orderListId: -1; price: 0.157891; origQty: 0; type: MARKET; side: BUY; transactTime: 1732241886532
+22-11-2024 05:18:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488467178664833024038; orderListId: -1; price: 0.157891; origQty: 0; type: MARKET; side: BUY; transactTime: 1732241886541
+22-11-2024 05:36:10 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: 1 validation error for Bets
+  Invalid JSON: EOF while parsing a value at line 1 column 0 [type=json_invalid, input_value=b'', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.9/v/json_invalid
+22-11-2024 05:37:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488471960985096192038; orderListId: -1; price: 0.15759; origQty: 0; type: MARKET; side: BUY; transactTime: 1732243026735
+22-11-2024 05:37:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488471961299648512038; orderListId: -1; price: 0.15759; origQty: 0; type: MARKET; side: BUY; transactTime: 1732243026810
+22-11-2024 05:37:16 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: 1 validation error for Bets
+  Invalid JSON: EOF while parsing a value at line 1 column 0 [type=json_invalid, input_value=b'', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.9/v/json_invalid
+22-11-2024 05:41:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488472964262600704038; orderListId: -1; price: 0.156704; origQty: 0; type: MARKET; side: BUY; transactTime: 1732243265935
+22-11-2024 05:41:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488472966124883968038; orderListId: -1; price: 0.156719; origQty: 0; type: MARKET; side: BUY; transactTime: 1732243266379
+22-11-2024 05:44:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488473719719673856038; orderListId: -1; price: 0.156126; origQty: 0; type: MARKET; side: BUY; transactTime: 1732243446050
+22-11-2024 05:44:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488473720256520192038; orderListId: -1; price: 0.156126; origQty: 0; type: MARKET; side: BUY; transactTime: 1732243446178
+22-11-2024 05:45:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488473971600203776038; orderListId: -1; price: 0.156087; origQty: 0; type: MARKET; side: BUY; transactTime: 1732243506103
+22-11-2024 05:45:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488473972447440901038; orderListId: -1; price: 0.156322; origQty: 0; type: MARKET; side: BUY; transactTime: 1732243506305
+22-11-2024 05:46:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488474223728189440038; orderListId: -1; price: 0.155912; origQty: 0; type: MARKET; side: BUY; transactTime: 1732243566215
+22-11-2024 05:46:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488474224579678208038; orderListId: -1; price: 0.155912; origQty: 0; type: MARKET; side: BUY; transactTime: 1732243566418
+22-11-2024 05:55:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488476487536689152038; orderListId: -1; price: 0.157017; origQty: 0; type: MARKET; side: BUY; transactTime: 1732244105949
+22-11-2024 05:55:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488476489768054785038; orderListId: -1; price: 0.15696; origQty: 0; type: MARKET; side: BUY; transactTime: 1732244106481
+22-11-2024 05:56:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488476741149474816038; orderListId: -1; price: 0.15608; origQty: 0; type: MARKET; side: BUY; transactTime: 1732244166415
+22-11-2024 05:56:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488476742541996034038; orderListId: -1; price: 0.155926; origQty: 0; type: MARKET; side: BUY; transactTime: 1732244166747
+22-11-2024 06:00:05 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488477745525907457038; orderListId: -1; price: 0.156418; origQty: 0; type: MARKET; side: BUY; transactTime: 1732244405877
+22-11-2024 06:00:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488477746855485441038; orderListId: -1; price: 0.156279; origQty: 0; type: MARKET; side: BUY; transactTime: 1732244406194
+22-11-2024 06:03:13 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: 1 validation error for Bets
+  Invalid JSON: EOF while parsing a value at line 1 column 0 [type=json_invalid, input_value=b'', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.9/v/json_invalid
+22-11-2024 06:04:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488478753140310016038; orderListId: -1; price: 0.156036; origQty: 0; type: MARKET; side: BUY; transactTime: 1732244646111
+22-11-2024 06:04:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488478753211621377038; orderListId: -1; price: 0.155934; origQty: 0; type: MARKET; side: BUY; transactTime: 1732244646128
+22-11-2024 06:20:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488482779022032896038; orderListId: -1; price: 0.156779; origQty: 0; type: MARKET; side: BUY; transactTime: 1732245605956
+22-11-2024 06:20:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488482782268432385038; orderListId: -1; price: 0.157195; origQty: 0; type: MARKET; side: BUY; transactTime: 1732245606730
+22-11-2024 06:22:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488483284158865408038; orderListId: -1; price: 0.156535; origQty: 0; type: MARKET; side: BUY; transactTime: 1732245726390
+22-11-2024 06:22:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488483284695744514038; orderListId: -1; price: 0.156535; origQty: 0; type: MARKET; side: BUY; transactTime: 1732245726518
+22-11-2024 06:24:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488483786162536448038; orderListId: -1; price: 0.156397; origQty: 0; type: MARKET; side: BUY; transactTime: 1732245846077
+22-11-2024 06:24:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488483786405777410038; orderListId: -1; price: 0.156397; origQty: 0; type: MARKET; side: BUY; transactTime: 1732245846135
+22-11-2024 07:00:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488492846047920160038; orderListId: -1; price: 0.1575; origQty: 0; type: MARKET; side: BUY; transactTime: 1732248006122
+22-11-2024 07:00:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488492848765825024038; orderListId: -1; price: 0.1575; origQty: 0; type: MARKET; side: BUY; transactTime: 1732248006770
+22-11-2024 07:13:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488496117974122496038; orderListId: -1; price: 0.15768; origQty: 0; type: MARKET; side: BUY; transactTime: 1732248786210
+22-11-2024 07:13:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488496118720688128038; orderListId: -1; price: 0.157788; origQty: 0; type: MARKET; side: BUY; transactTime: 1732248786388
+22-11-2024 07:16:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488496872445513728038; orderListId: -1; price: 0.157629; origQty: 0; type: MARKET; side: BUY; transactTime: 1732248966090
+22-11-2024 07:16:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488496874077114368038; orderListId: -1; price: 0.15762; origQty: 0; type: MARKET; side: BUY; transactTime: 1732248966479
+22-11-2024 07:31:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488500646710972416038; orderListId: -1; price: 0.158915; origQty: 0; type: MARKET; side: BUY; transactTime: 1732249865945
+22-11-2024 07:31:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488500648170561536038; orderListId: -1; price: 0.159089; origQty: 0; type: MARKET; side: BUY; transactTime: 1732249866293
+22-11-2024 07:32:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488500900780937216038; orderListId: -1; price: 0.15874; origQty: 0; type: MARKET; side: BUY; transactTime: 1732249926520
+22-11-2024 07:32:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488500900806098948038; orderListId: -1; price: 0.15874; origQty: 0; type: MARKET; side: BUY; transactTime: 1732249926526
+22-11-2024 07:33:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488501152372064264038; orderListId: -1; price: 0.158434; origQty: 0; type: MARKET; side: BUY; transactTime: 1732249986504
+22-11-2024 07:33:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488501153311592448038; orderListId: -1; price: 0.158656; origQty: 0; type: MARKET; side: BUY; transactTime: 1732249986728
+22-11-2024 07:37:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488502158057091072038; orderListId: -1; price: 0.158375; origQty: 0; type: MARKET; side: BUY; transactTime: 1732250226278
+22-11-2024 07:37:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488502158447144960038; orderListId: -1; price: 0.158375; origQty: 0; type: MARKET; side: BUY; transactTime: 1732250226371
+22-11-2024 07:54:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488506437568364544038; orderListId: -1; price: 0.158235; origQty: 0; type: MARKET; side: BUY; transactTime: 1732251246593
+22-11-2024 07:54:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488506438663090176038; orderListId: -1; price: 0.158206; origQty: 0; type: MARKET; side: BUY; transactTime: 1732251246854
+22-11-2024 08:02:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488508448850407427038; orderListId: -1; price: 0.158485; origQty: 0; type: MARKET; side: BUY; transactTime: 1732251726120
+22-11-2024 08:02:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488508448959430657038; orderListId: -1; price: 0.158307; origQty: 0; type: MARKET; side: BUY; transactTime: 1732251726146
+22-11-2024 08:04:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488508953597145088038; orderListId: -1; price: 0.15795; origQty: 0; type: MARKET; side: BUY; transactTime: 1732251846461
+22-11-2024 08:04:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488508955438440448038; orderListId: -1; price: 0.157983; origQty: 0; type: MARKET; side: BUY; transactTime: 1732251846900
+22-11-2024 08:05:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488509204051628032038; orderListId: -1; price: 0.157815; origQty: 0; type: MARKET; side: BUY; transactTime: 1732251906174
+22-11-2024 08:05:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488509205821612032038; orderListId: -1; price: 0.157707; origQty: 0; type: MARKET; side: BUY; transactTime: 1732251906596
+22-11-2024 08:20:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488512979751464960038; orderListId: -1; price: 0.158416; origQty: 0; type: MARKET; side: BUY; transactTime: 1732252806371
+22-11-2024 08:20:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488512980330307584038; orderListId: -1; price: 0.158577; origQty: 0; type: MARKET; side: BUY; transactTime: 1732252806509
+22-11-2024 09:09:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488525310216695808038; orderListId: -1; price: 0.1596; origQty: 0; type: MARKET; side: BUY; transactTime: 1732255746183
+22-11-2024 09:09:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488525313370836992038; orderListId: -1; price: 0.160159; origQty: 0; type: MARKET; side: BUY; transactTime: 1732255746935
+22-11-2024 09:10:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488525561275162624038; orderListId: -1; price: 0.159709; origQty: 0; type: MARKET; side: BUY; transactTime: 1732255806040
+22-11-2024 09:10:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488525561254187008038; orderListId: -1; price: 0.159709; origQty: 0; type: MARKET; side: BUY; transactTime: 1732255806035
+22-11-2024 09:23:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488528834879090688038; orderListId: -1; price: 0.159831; origQty: 0; type: MARKET; side: BUY; transactTime: 1732256586528
+22-11-2024 09:23:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488528835281739776038; orderListId: -1; price: 0.159831; origQty: 0; type: MARKET; side: BUY; transactTime: 1732256586624
+22-11-2024 09:25:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488529336001961985038; orderListId: -1; price: 0.159504; origQty: 0; type: MARKET; side: BUY; transactTime: 1732256706005
+22-11-2024 09:25:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488529339114127360038; orderListId: -1; price: 0.159506; origQty: 0; type: MARKET; side: BUY; transactTime: 1732256706747
+22-11-2024 09:35:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488531852743753730038; orderListId: -1; price: 0.159502; origQty: 0; type: MARKET; side: BUY; transactTime: 1732257306043
+22-11-2024 09:35:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488531854790557697038; orderListId: -1; price: 0.15925; origQty: 0; type: MARKET; side: BUY; transactTime: 1732257306531
+22-11-2024 09:36:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488532105945493505038; orderListId: -1; price: 0.159099; origQty: 0; type: MARKET; side: BUY; transactTime: 1732257366411
+22-11-2024 09:36:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488532107790974980038; orderListId: -1; price: 0.159099; origQty: 0; type: MARKET; side: BUY; transactTime: 1732257366851
+22-11-2024 09:39:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488532860031025152038; orderListId: -1; price: 0.158501; origQty: 0; type: MARKET; side: BUY; transactTime: 1732257546199
+22-11-2024 09:39:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488532861494824971038; orderListId: -1; price: 0.158501; origQty: 0; type: MARKET; side: BUY; transactTime: 1732257546548
+22-11-2024 09:40:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488533110640685056038; orderListId: -1; price: 0.158445; origQty: 0; type: MARKET; side: BUY; transactTime: 1732257605949
+22-11-2024 09:40:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488533112238739456038; orderListId: -1; price: 0.158419; origQty: 0; type: MARKET; side: BUY; transactTime: 1732257606330
+22-11-2024 09:41:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488533364450607105038; orderListId: -1; price: 0.158025; origQty: 0; type: MARKET; side: BUY; transactTime: 1732257666462
+22-11-2024 09:41:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488533365213982720038; orderListId: -1; price: 0.158025; origQty: 0; type: MARKET; side: BUY; transactTime: 1732257666644
+22-11-2024 09:51:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488535879455961088038; orderListId: -1; price: 0.158956; origQty: 0; type: MARKET; side: BUY; transactTime: 1732258266086
+22-11-2024 09:51:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488535879707594755038; orderListId: -1; price: 0.158956; origQty: 0; type: MARKET; side: BUY; transactTime: 1732258266146
+22-11-2024 09:58:10 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: 1 validation error for Bets
+  Invalid JSON: EOF while parsing a value at line 1 column 0 [type=json_invalid, input_value=b'', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.9/v/json_invalid
+22-11-2024 09:59:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488537892319211521038; orderListId: -1; price: 0.159329; origQty: 0; type: MARKET; side: BUY; transactTime: 1732258745990
+22-11-2024 09:59:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488537892340203520038; orderListId: -1; price: 0.159329; origQty: 0; type: MARKET; side: BUY; transactTime: 1732258745995
+22-11-2024 10:06:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488539655881416704038; orderListId: -1; price: 0.159171; origQty: 0; type: MARKET; side: BUY; transactTime: 1732259166456
+22-11-2024 10:06:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488539656787394560038; orderListId: -1; price: 0.159188; origQty: 0; type: MARKET; side: BUY; transactTime: 1732259166672
+22-11-2024 10:16:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488542170643533849038; orderListId: -1; price: 0.159108; origQty: 0; type: MARKET; side: BUY; transactTime: 1732259766022
+22-11-2024 10:16:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488542170995822592038; orderListId: -1; price: 0.159108; origQty: 0; type: MARKET; side: BUY; transactTime: 1732259766106
+22-11-2024 10:20:06 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: 1 validation error for Bets
+  Invalid JSON: EOF while parsing a value at line 1 column 0 [type=json_invalid, input_value=b'', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.9/v/json_invalid
+22-11-2024 10:24:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488544184119160833038; orderListId: -1; price: 0.159196; origQty: 0; type: MARKET; side: BUY; transactTime: 1732260246072
+22-11-2024 10:24:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488544187109687296038; orderListId: -1; price: 0.159184; origQty: 0; type: MARKET; side: BUY; transactTime: 1732260246785
+22-11-2024 10:25:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488544436398137344038; orderListId: -1; price: 0.158899; origQty: 0; type: MARKET; side: BUY; transactTime: 1732260306220
+22-11-2024 10:25:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488544438105219074038; orderListId: -1; price: 0.158899; origQty: 0; type: MARKET; side: BUY; transactTime: 1732260306627
+22-11-2024 10:25:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488544438138769408038; orderListId: -1; price: 0.158895; origQty: 0; type: MARKET; side: BUY; transactTime: 1732260306635
+22-11-2024 10:25:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488544438981853184038; orderListId: -1; price: 0.158892; origQty: 0; type: MARKET; side: BUY; transactTime: 1732260306836
+22-11-2024 10:34:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488546700496044033038; orderListId: -1; price: 0.158695; origQty: 0; type: MARKET; side: BUY; transactTime: 1732260846023
+22-11-2024 10:34:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488546703000018944038; orderListId: -1; price: 0.158442; origQty: 0; type: MARKET; side: BUY; transactTime: 1732260846620
+22-11-2024 10:38:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488547707175133184038; orderListId: -1; price: 0.158599; origQty: 0; type: MARKET; side: BUY; transactTime: 1732261086034
+22-11-2024 10:38:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488547710337650688038; orderListId: -1; price: 0.158677; origQty: 0; type: MARKET; side: BUY; transactTime: 1732261086788
+22-11-2024 10:43:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488548966795927552038; orderListId: -1; price: 0.158531; origQty: 0; type: MARKET; side: BUY; transactTime: 1732261386351
+22-11-2024 10:43:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488548966787526657038; orderListId: -1; price: 0.158414; origQty: 0; type: MARKET; side: BUY; transactTime: 1732261386349
+22-11-2024 10:45:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488549471869829120038; orderListId: -1; price: 0.158082; origQty: 0; type: MARKET; side: BUY; transactTime: 1732261506770
+22-11-2024 10:45:07 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488549472230531072038; orderListId: -1; price: 0.158146; origQty: 0; type: MARKET; side: BUY; transactTime: 1732261506856
+22-11-2024 10:53:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488551484313632768038; orderListId: -1; price: 0.158028; origQty: 0; type: MARKET; side: BUY; transactTime: 1732261986574
+22-11-2024 10:53:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488551484695330816038; orderListId: -1; price: 0.157995; origQty: 0; type: MARKET; side: BUY; transactTime: 1732261986665
+22-11-2024 11:00:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488553245321560065038; orderListId: -1; price: 0.157706; origQty: 0; type: MARKET; side: BUY; transactTime: 1732262406431
+22-11-2024 11:00:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488553246802132994038; orderListId: -1; price: 0.157698; origQty: 0; type: MARKET; side: BUY; transactTime: 1732262406784
+22-11-2024 11:05:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488554501746262016038; orderListId: -1; price: 0.157654; origQty: 0; type: MARKET; side: BUY; transactTime: 1732262705986
+22-11-2024 11:05:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488554505156239360038; orderListId: -1; price: 0.157746; origQty: 0; type: MARKET; side: BUY; transactTime: 1732262706799
+22-11-2024 11:07:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488555004798533632038; orderListId: -1; price: 0.157911; origQty: 0; type: MARKET; side: BUY; transactTime: 1732262825923
+22-11-2024 11:07:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488555007902285824038; orderListId: -1; price: 0.157781; origQty: 0; type: MARKET; side: BUY; transactTime: 1732262826663
+22-11-2024 11:11:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488556011125301249038; orderListId: -1; price: 0.157144; origQty: 0; type: MARKET; side: BUY; transactTime: 1732263065850
+22-11-2024 11:11:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488556014015148032038; orderListId: -1; price: 0.157144; origQty: 0; type: MARKET; side: BUY; transactTime: 1732263066539
+22-11-2024 11:19:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488558026488360960038; orderListId: -1; price: 0.157579; origQty: 0; type: MARKET; side: BUY; transactTime: 1732263546350
+22-11-2024 11:19:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488558028212240385038; orderListId: -1; price: 0.157501; origQty: 0; type: MARKET; side: BUY; transactTime: 1732263546761
+22-11-2024 11:25:07 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: 1 validation error for Bets
+  Invalid JSON: EOF while parsing a value at line 1 column 0 [type=json_invalid, input_value=b'', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.9/v/json_invalid
+22-11-2024 11:31:05 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488561044537544705038; orderListId: -1; price: 0.158059; origQty: 0; type: MARKET; side: BUY; transactTime: 1732264265909
+22-11-2024 11:31:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488561047154806787038; orderListId: -1; price: 0.158198; origQty: 0; type: MARKET; side: BUY; transactTime: 1732264266533
+22-11-2024 11:45:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488564568566603778038; orderListId: -1; price: 0.157903; origQty: 0; type: MARKET; side: BUY; transactTime: 1732265106103
+22-11-2024 11:45:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488564568591761412038; orderListId: -1; price: 0.157903; origQty: 0; type: MARKET; side: BUY; transactTime: 1732265106109
+22-11-2024 11:45:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488564571452293123038; orderListId: -1; price: 0.157902; origQty: 0; type: MARKET; side: BUY; transactTime: 1732265106791
+22-11-2024 11:47:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488565072415789057038; orderListId: -1; price: 0.157609; origQty: 0; type: MARKET; side: BUY; transactTime: 1732265226230
+22-11-2024 11:47:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488565072784846848038; orderListId: -1; price: 0.157717; origQty: 0; type: MARKET; side: BUY; transactTime: 1732265226318
+22-11-2024 11:47:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488565074114482177038; orderListId: -1; price: 0.157609; origQty: 0; type: MARKET; side: BUY; transactTime: 1732265226635
+22-11-2024 11:52:08 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488440523405733888038; exception: Order cancelled.
+22-11-2024 11:52:08 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488440523405733888038; exception: Order cancelled.
+22-11-2024 11:52:08 | market_sell | INFO | Market sell success || symbol: KASUSDT; orderId: C02__488566340127354880038; orderListId: -1; price: 0.142781; origQty: 10.76; type: MARKET; side: SELL; transactTime: 1732265528476
+22-11-2024 11:52:09 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488440523405733888038; exception: Order cancelled.
+22-11-2024 11:52:09 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488440523405733888038; exception: Order cancelled.
+22-11-2024 11:52:11 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488440523405733888038; exception: Order cancelled.
+22-11-2024 11:52:11 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488440523405733888038; exception: Order cancelled.
+22-11-2024 11:52:13 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488440523405733888038; exception: Order cancelled.
+22-11-2024 11:52:13 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488440523405733888038; exception: Order cancelled.
+22-11-2024 11:52:14 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488440523405733888038; exception: Order cancelled.
+22-11-2024 11:52:14 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488440523405733888038; exception: Order cancelled.
+22-11-2024 11:52:15 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: Error in client! Restarting iteration 162
+22-11-2024 11:52:15 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: Error in client! Restarting iteration 162
+22-11-2024 11:55:08 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488441277805813760038; exception: Order cancelled.
+22-11-2024 11:55:08 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488441277805813760038; exception: Order cancelled.
+22-11-2024 11:55:08 | market_sell | INFO | Market sell success || symbol: KASUSDT; orderId: C02__488567095412473860038; orderListId: -1; price: 0.143029; origQty: 10.79; type: MARKET; side: SELL; transactTime: 1732265708550
+22-11-2024 11:55:09 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488441277805813760038; exception: Order cancelled.
+22-11-2024 11:55:10 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488441277805813760038; exception: Order cancelled.
+22-11-2024 11:55:11 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488441277805813760038; exception: Order cancelled.
+22-11-2024 11:55:11 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488441277805813760038; exception: Order cancelled.
+22-11-2024 11:55:13 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488441277805813760038; exception: Order cancelled.
+22-11-2024 11:55:13 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488441277805813760038; exception: Order cancelled.
+22-11-2024 11:55:14 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488441277805813760038; exception: Order cancelled.
+22-11-2024 11:55:15 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488441277805813760038; exception: Order cancelled.
+22-11-2024 11:55:15 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: Error in client! Restarting iteration 162
+22-11-2024 11:55:16 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: Error in client! Restarting iteration 162
+22-11-2024 11:57:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488567588197076992038; orderListId: -1; price: 0.157753; origQty: 0; type: MARKET; side: BUY; transactTime: 1732265826039
+22-11-2024 11:57:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488567588301905920038; orderListId: -1; price: 0.15764; origQty: 0; type: MARKET; side: BUY; transactTime: 1732265826064
+22-11-2024 11:57:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488567588402569222038; orderListId: -1; price: 0.15764; origQty: 0; type: MARKET; side: BUY; transactTime: 1732265826088
+22-11-2024 12:01:08 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488442786882838528038; exception: Order cancelled.
+22-11-2024 12:01:08 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488442786882838528038; exception: Order cancelled.
+22-11-2024 12:01:08 | market_sell | INFO | Market sell success || symbol: KASUSDT; orderId: C02__488568605374472193038; orderListId: -1; price: 0.143436; origQty: 10.83; type: MARKET; side: SELL; transactTime: 1732266068553
+22-11-2024 12:01:09 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488442786882838528038; exception: Order cancelled.
+22-11-2024 12:01:09 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488442786882838528038; exception: Order cancelled.
+22-11-2024 12:01:11 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488442786882838528038; exception: Order cancelled.
+22-11-2024 12:01:11 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488442786882838528038; exception: Order cancelled.
+22-11-2024 12:01:13 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488442786882838528038; exception: Order cancelled.
+22-11-2024 12:01:13 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488442786882838528038; exception: Order cancelled.
+22-11-2024 12:01:14 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488442786882838528038; exception: Order cancelled.
+22-11-2024 12:01:14 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488442786882838528038; exception: Order cancelled.
+22-11-2024 12:01:15 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: Error in client! Restarting iteration 162
+22-11-2024 12:01:15 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: Error in client! Restarting iteration 162
+22-11-2024 12:05:08 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488443790466576384038; exception: Order cancelled.
+22-11-2024 12:05:08 | market_sell | INFO | Market sell success || symbol: KASUSDT; orderId: C02__488569612154277889038; orderListId: -1; price: 0.143721; origQty: 10.85; type: MARKET; side: SELL; transactTime: 1732266308588
+22-11-2024 12:05:08 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488443790466576384038; exception: Order cancelled.
+22-11-2024 12:05:10 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488443790466576384038; exception: Order cancelled.
+22-11-2024 12:05:10 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488443790466576384038; exception: Order cancelled.
+22-11-2024 12:05:11 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488443790466576384038; exception: Order cancelled.
+22-11-2024 12:05:11 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488443790466576384038; exception: Order cancelled.
+22-11-2024 12:05:13 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488443790466576384038; exception: Order cancelled.
+22-11-2024 12:05:13 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488443790466576384038; exception: Order cancelled.
+22-11-2024 12:05:14 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488443790466576384038; exception: Order cancelled.
+22-11-2024 12:05:15 | sync_wrapper | WARNING | close_order_by_id failure || id: C02__488443790466576384038; exception: Order cancelled.
+22-11-2024 12:05:15 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: Error in client! Restarting iteration 162
+22-11-2024 12:05:16 | sync_wrapper | WARNING | EASY_Big_down_loop failure || exception: Error in client! Restarting iteration 162
+22-11-2024 12:09:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488570607861063680038; orderListId: -1; price: 0.15844; origQty: 0; type: MARKET; side: BUY; transactTime: 1732266545983
+22-11-2024 12:09:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488570608704102400038; orderListId: -1; price: 0.158466; origQty: 0; type: MARKET; side: BUY; transactTime: 1732266546184
+22-11-2024 12:09:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488570609907859456038; orderListId: -1; price: 0.158581; origQty: 0; type: MARKET; side: BUY; transactTime: 1732266546471
+22-11-2024 12:13:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488571614884102145038; orderListId: -1; price: 0.158247; origQty: 0; type: MARKET; side: BUY; transactTime: 1732266786076
+22-11-2024 12:13:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488571615676788736038; orderListId: -1; price: 0.158365; origQty: 0; type: MARKET; side: BUY; transactTime: 1732266786265
+22-11-2024 12:13:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488571616918302720038; orderListId: -1; price: 0.158245; origQty: 0; type: MARKET; side: BUY; transactTime: 1732266786561
+22-11-2024 12:17:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488572621655453696038; orderListId: -1; price: 0.158236; origQty: 0; type: MARKET; side: BUY; transactTime: 1732267026109
+22-11-2024 12:17:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488572623198937089038; orderListId: -1; price: 0.158435; origQty: 0; type: MARKET; side: BUY; transactTime: 1732267026477
+22-11-2024 12:17:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488572623198937090038; orderListId: -1; price: 0.158435; origQty: 0; type: MARKET; side: BUY; transactTime: 1732267026477
+22-11-2024 12:26:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488574885904314368038; orderListId: -1; price: 0.157698; origQty: 0; type: MARKET; side: BUY; transactTime: 1732267565948
+22-11-2024 12:26:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488574887183581185038; orderListId: -1; price: 0.157803; origQty: 0; type: MARKET; side: BUY; transactTime: 1732267566253
+22-11-2024 12:26:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488574888488022020038; orderListId: -1; price: 0.15796; origQty: 0; type: MARKET; side: BUY; transactTime: 1732267566564
+22-11-2024 12:30:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488575894235975680038; orderListId: -1; price: 0.157392; origQty: 0; type: MARKET; side: BUY; transactTime: 1732267806353
+22-11-2024 12:30:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488575894227607553038; orderListId: -1; price: 0.157392; origQty: 0; type: MARKET; side: BUY; transactTime: 1732267806351
+22-11-2024 12:30:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488575895745953792038; orderListId: -1; price: 0.157408; origQty: 0; type: MARKET; side: BUY; transactTime: 1732267806713
+22-11-2024 14:02:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488599045091184643038; orderListId: -1; price: 0.156031; origQty: 0; type: MARKET; side: BUY; transactTime: 1732273325947
+22-11-2024 14:02:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488599045091184643038; orderListId: -1; price: 0.156031; origQty: 0; type: MARKET; side: BUY; transactTime: 1732273325947
+22-11-2024 14:03:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488599299580596224038; orderListId: -1; price: 0.155996; origQty: 0; type: MARKET; side: BUY; transactTime: 1732273386622
+22-11-2024 14:03:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488599299580596224038; orderListId: -1; price: 0.155996; origQty: 0; type: MARKET; side: BUY; transactTime: 1732273386622
+22-11-2024 14:10:05 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488601057836994560038; orderListId: -1; price: 0.156351; origQty: 0; type: MARKET; side: BUY; transactTime: 1732273805823
+22-11-2024 14:10:05 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488601057836994560038; orderListId: -1; price: 0.156351; origQty: 0; type: MARKET; side: BUY; transactTime: 1732273805823
+22-11-2024 14:34:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488607101271240704038; orderListId: -1; price: 0.157345; origQty: 0; type: MARKET; side: BUY; transactTime: 1732275246690
+22-11-2024 14:35:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488607352807817216038; orderListId: -1; price: 0.157098; origQty: 0; type: MARKET; side: BUY; transactTime: 1732275306661
+22-11-2024 14:37:06 | market_buy | INFO | Market buy success || symbol: KASUSDT; orderId: C02__488607853137956864038; orderListId: -1; price: 0.156914; origQty: 0; type: MARKET; side: BUY; transactTime: 1732275425949

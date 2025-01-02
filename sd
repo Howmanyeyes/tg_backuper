@@ -1,0 +1,672 @@
+    1  ды
+    2  ls
+    3  exit
+    4  sudo
+    5  sudo su
+    6  sudo apt update -y
+    7  sudo apt upgrade -y
+    8  ssh-keygen -t rsa -b 4096 -C "seva@dacha_server_seva"
+    9  cat ~/.ssh/git_key.pub
+   10  cd .ssh/
+   11  ls
+   12  cat authorized_keys
+   13  cd ..
+   14  ls
+   15  mv git_key ./ssh
+   16  ls
+   17  cp git_key.pub ./ssh
+   18  ls
+   19  ls .ssh
+   20  cd .ssh/
+   21  ls
+   22  cd ..
+   23  ls
+   24  rm git_key.pub
+   25  rm ssh
+   26  cd .ssh/
+   27  ssh-keygen -t rsa -b 4096 -C "seva@dacha_server_seva"
+   28  ls
+   29  cat git_key.pub
+   30  cd ..
+   31  git
+   32  ssh -T git@github.com
+   33  nano ~/.bashrc
+   34  exit
+   35  ssh -T git@github.com
+   36  git pull howmanyeyes/tg_backuper
+   37  git pull howmanyeyes/tg_backuper.git
+   38  git clone howmanyeyes/tg_backuper
+   39  git clone HowManyEyes/tg_backuper
+   40  git
+   41  git clone https://github.com/HowManyEyes/tg_backuper.git
+   42  ls
+   43  cd tg_backuper/
+   44  ls
+   45  git pull
+   46  ls
+   47  chmod +u+x pull
+   48  git commit
+   49  git config --global user.name "server_dacha"
+   50  git commit
+   51  git config --global user.email "and.ppv@yandex.ru"
+   52  git commit
+   53  git add pull
+   54  git commit
+   55  git push
+   56  git commit
+   57  git push
+   58  ды
+   59  ls
+   60  git config -l
+   61  git push
+   62  git config --global user.email "andrey@howmanyeyes.ru"
+   63  git config --global user.name "howmanyeyes"
+   64  git push
+   65  git remote -v
+   66  git remote set-url origin git@github.com:HowManyEyes/tg_backuper.git
+   67  git push
+   68  ю.згдд
+   69  ./pull
+   70  ls
+   71  ssh-add -l
+   72  cd tg_backuper/
+   73  python3 --version
+   74  ls
+   75  cd back_end/
+   76  ls
+   77  cd ..
+   78  ls
+   79  python3 pip
+   80  python3 pip install
+   81  python --version
+   82  sudo apt install python-pip
+   83  python 3 pip freeze
+   84  python3 pip freeze
+   85  sudo apt install --upgrade python3
+   86  python3 pip freeze
+   87  python pip freeze
+   88  sudo apt install --upgrade python-is-python3
+   89  python pip freeze
+   90  python3 venv
+   91  python3 -m pip freeze
+   92  python -m pip freeze
+   93  sudo apt install python3-pip
+   94  python -m pip freeze
+   95  sudo apt install python3-venv
+   96  python -m pip freeze
+   97  python -m venv tg_backuper
+   98  ls
+   99  rm tg_backuper/
+  100  rm -rf tg_backuper/
+  101  ls
+  102  python -m venv tg_backuper_venv
+  103  source tg_backuper_venv/bin/activate
+  104  pip freeze
+  105  pip install -r requirements.txt
+  106  cd back_end/
+  107  python main.py
+  108  mkdir changable_data
+  109  cd changable_data/
+  110  touch settings.json
+  111  cd ..
+  112  python main.py
+  113  ls changable_data/
+  114  cd ..
+  115  python back_end/main.py
+  116  docker
+  117  deactivate
+  118  docker
+  119  cd ..
+  120  sudo apt-get update
+  121  sudo apt-get install ca-certificates curl
+  122  sudo install -m 0755 -d /etc/apt/keyrings
+  123  sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
+  124  sudo chmod a+r /etc/apt/keyrings/docker.asc
+  125  echo   "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu \
+  126    $(. /etc/os-release && echo "$VERSION_CODENAME") stable" |   sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+  127  sudo apt-get update
+  128  sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+  129  \
+  130  docker
+  131  docker pull elasticsearch:8.6.0
+  132  exit
+  133  docker pull elastic/filebeat:7.17.25
+  134  cd tg_backuper/
+  135  ls
+  136  docker import filebeat.tar
+  137  sudo docker import filebeat.tar
+  138  docker load filebeat.tar
+  139  docker import --help
+  140  docker import filebeat.tar
+  141  sudo docker import filebeat.tar
+  142  exit
+  143  curl -k -u elastic:x4D3+3AAGI5N_RUTDsTr -X GET "https://192.168.1.219:9200/_cat/indice
+  144  s?v"
+  145  curl -k -u elastic:x4D3+3AAGI5N_RUTDsTr -X GET "https://192.168.1.219:9200/_cat/indices?v"
+  146  docker logs filebeat
+  147  sudo docker logs filebeat
+  148  docker container ls
+  149  sudo docker container ls
+  150  cd tg_backuper/
+  151  ls
+  152  cd filebeat_config/
+  153  ls
+  154  cat filebeat.yml
+  155  sudo docker exec -it 6881962eb174
+  156  sudo docker exec -it 6881962eb174 sh
+  157  ls
+  158  cd tg_backuper/
+  159  ls
+  160  ./pull
+  161  docker
+  162  docker network create elastic
+  163  sudo docker network create elastic
+  164  docker run -d --name elasticsearch --net elastic -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" -e "ES_JAVA_OPTS=-Xms1g -Xmx1g" elasticsearch:8.6.0
+  165  sudo docker run -d --name elasticsearch --net elastic -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" -e "ES_JAVA_OPTS=-Xms1g -Xmx1g" elasticsearch:8.6.0
+  166  docker run -d --name kibana --net elastic -p 5601:5601 -e "ELASTICSEARCH_HOSTS=http://elasticsearch:9200" kibana:8.6.0
+  167  sudo docker run -d --name kibana --net elastic -p 5601:5601 -e "ELASTICSEARCH_HOSTS=http://elasticsearch:9200" kibana:8.6.0
+  168  docker logs elasticsearch
+  169  sudo docker logs elasticsearch
+  170  curl -k http://localhost:9200
+  171  curl -k http://192.168.1.219:9200
+  172  curl -k https://192.168.1.219:9200
+  173  docker exec -it elasticsearch bash
+  174  sudo docker exec -it elasticsearch bash
+  175  curl -k https://192.168.1.219:9200 elastic:x4D3+3AAGI5N_RUTDsTr
+  176  curl -k http://192.168.1.219:9200 elastic:x4D3+3AAGI5N_RUTDsTr
+  177  curl -k http://192.168.1.219:9300 elastic:x4D3+3AAGI5N_RUTDsTr
+  178  curl -k https://192.168.1.219:9300 elastic:x4D3+3AAGI5N_RUTDsTr
+  179  curl -k http://192.168.1.219:9200 -u elastic:x4D3+3AAGI5N_RUTDsTr
+  180  curl -k https://192.168.1.219:9200 -u elastic:x4D3+3AAGI5N_RUTDsTr
+  181  sudo docker exec -it elasticsearch bash
+  182  ls
+  183  ./pull
+  184  mkdir filebeat_config
+  185  ls
+  186  nano filebeat_config/filebeat.yml
+  187  docker pull filebeat:8.6.0
+  188  sudo docker pull filebeat:8.6.0
+  189  docker run -d --name filebeat --net elastic -v $(pwd)/filebeat_config/filebeat.yml:/usr/share/filebeat/filebeat.yml:ro -v $(pwd)/logs:/usr/share/filebeat/logs:ro docker.elastic.co/beats/filebeat:8.6.0 filebeat -e -strict.perms=false
+  190  sudo docker run -d --name filebeat --net elastic -v $(pwd)/filebeat_config/filebeat.yml:/usr/share/filebeat/filebeat.yml:ro -v $(pwd)/logs:/usr/share/filebeat/logs:ro docker.elastic.co/beats/filebeat:8.6.0 filebeat -e -strict.perms=false
+  191  docker pull docker.elastic.co/beats/filebeat:8.6.0-amd64
+  192  docker pull elastic/filebeat:7.17.24
+  193  cd tg_backuper/
+  194  ls
+  195  docker load -i file.tar
+  196  sudo docker load -i file.tar
+  197  docker images
+  198  sudo docker images
+  199  docker run -d --name filebeat --net elastic -v $(pwd)/filebeat_config/filebeat.yml:/usr/share/filebeat/filebeat.yml:ro -v $(pwd)/logs:/usr/share/filebeat/logs:ro docker.elastic.co/beats/filebeat:7.17.25 filebeat -e -strict.perms=false
+  200  sudo docker run -d --name filebeat --net elastic -v $(pwd)/filebeat_config/filebeat.yml:/usr/share/filebeat/filebeat.yml:ro -v $(pwd)/logs:/usr/share/filebeat/logs:ro docker.elastic.co/beats/filebeat:7.17.25 filebeat -e -strict.perms=false
+  201  docker conainer ls
+  202  docker container ls
+  203  sudo docker container ls
+  204  docker logs 6881962eb174
+  205  sudo docker logs 6881962eb174
+  206  cd tg_backuper/docker exec -it <mycontainer> sh
+  207  docker exec -it 575e3c8a1060 sh
+  208  sudo docker exec -it 575e3c8a1060 sh
+  209  sudo docker exec -it kibana sh
+  210  sudo docker logs kibana
+  211  
+  212  sudo docker network inspect elastic
+  213  docker network connect elastic kibana
+  214  sudo docker network connect elastic kibana
+  215  docker logs elasticsearch
+  216  sudo docker logs elasticsearch
+  217  sudo docker container ls
+  218  sudo docker stop kibana
+  219  docker run -d --name kibana --net elastic -p 5601:5601   -e ELASTICSEARCH_HOSTS="https://elasticsearch:9200"   -e ELASTICSEARCH_SSL_VERIFICATIONMODE="none"   kibana:8.6.0
+  220  sudo docker run -d --name kibana --net elastic -p 5601:5601   -e ELASTICSEARCH_HOSTS="https://elasticsearch:9200"   -e ELASTICSEARCH_SSL_VERIFICATIONMODE="none"   kibana:8.6.0
+  221  sudo docker container ls -a
+  222  sudo docker container rm d8b097c3031d
+  223  sudo docker run -d --name kibana --net elastic -p 5601:5601   -e ELASTICSEARCH_HOSTS="https://elasticsearch:9200"   -e ELASTICSEARCH_SSL_VERIFICATIONMODE="none"   kibana:8.6.0
+  224  sudo docker container ls -a
+  225  sudo docker logs kibana
+  226  sudo docker container ls -a
+  227  sudo docker stop bc463c28e818
+  228  sudo docker rm bc463c28e818
+  229  docker run -d --name kibana --net elastic -p 5601:5601   -e ELASTICSEARCH_HOSTS="https://elasticsearch:9200"   -e ELASTICSEARCH_SSL_VERIFICATIONMODE="none"   -e XPACK_ENCRYPTEDSAVEDOBJECTS_ENCRYPTIONKEY="a_32_char_random_string_for_encryption"   -e ELASTICSEARCH_USERNAME="elastic"   -e ELASTICSEARCH_PASSWORD="your_elastic_password"   kibana:8.6.0
+  230  sudo docker run -d --name kibana --net elastic -p 5601:5601   -e ELASTICSEARCH_HOSTS="https://elasticsearch:9200"   -e ELASTICSEARCH_SSL_VERIFICATIONMODE="none"   -e XPACK_ENCRYPTEDSAVEDOBJECTS_ENCRYPTIONKEY="a_32_char_random_string_for_encryption"   -e ELASTICSEARCH_USERNAME="elastic"   -e ELASTICSEARCH_PASSWORD="x4D3+3AAGI5N_RUTDsTr"   kibana:8.6.0
+  231  sudo docker container ls -a
+  232  sudo docker logs kibana
+  233  sudo docker exec -it elasticsearch bin/elasticsearch-service-tokens create elastic/kibana kibana-token
+  234  docker run -d --name kibana --net elastic -p 5601:5601   -e ELASTICSEARCH_HOSTS="https://elasticsearch:9200"   -e ELASTICSEARCH_SSL_VERIFICATIONMODE="none"   -e XPACK_ENCRYPTEDSAVEDOBJECTS_ENCRYPTIONKEY="a_32_char_random_string_for_encryption"   -e ELASTICSEARCH_SERVICE_TOKEN="abc123..."   kibana:8.6.0
+  235  sudo docker run -d --name kibana --net elastic -p 5601:5601   -e ELASTICSEARCH_HOSTS="https://elasticsearch:9200"   -e ELASTICSEARCH_SSL_VERIFICATIONMODE="none"   -e XPACK_ENCRYPTEDSAVEDOBJECTS_ENCRYPTIONKEY="a_32_char_random_string_for_encryption"   -e ELASTICSEARCH_SERVICE_TOKEN="abc123..."   kibana:8.6.0
+  236  docker container ls -a
+  237  sudo docker container ls -a
+  238  sudo docker container stop ddf454339585
+  239  sudo docker container rm ddf454339585
+  240  sudo docker run -d --name kibana --net elastic -p 5601:5601   -e ELASTICSEARCH_HOSTS="https://elasticsearch:9200"   -e ELASTICSEARCH_SSL_VERIFICATIONMODE="none"   -e XPACK_ENCRYPTEDSAVEDOBJECTS_ENCRYPTIONKEY="a_32_char_random_string_for_encryption"   -e ELASTICSEARCH_SERVICE_TOKEN="abc123..."   kibana:8.6.0
+  241  sudo docker container ls -a
+  242  sudo docker logs kibana
+  243  sudo docker run -d --name kibana --net elastic -p 5601:5601   -e ELASTICSEARCH_HOSTS="https://elasticsearch:9200"   -e ELASTICSEARCH_SSL_VERIFICATIONMODE="none"   -e XPACK_ENCRYPTEDSAVEDOBJECTS_ENCRYPTIONKEY="a_32_char_random_string_for_encryption"   -e ELASTICSEARCH_SERVICE_TOKEN="abc123..."  -e ELASTICSEARCH_USERNAME="elastic" \ kibana:8.6.0
+  244  sudo docker run -d --name kibana --net elastic -p 5601:5601   -e ELASTICSEARCH_HOSTS="https://elasticsearch:9200"   -e ELASTICSEARCH_SSL_VERIFICATIONMODE="none"   -e XPACK_ENCRYPTEDSAVEDOBJECTS_ENCRYPTIONKEY="a_32_char_random_string_for_encryption"   -e ELASTICSEARCH_SERVICE_TOKEN="abc123..."  -e ELASTICSEARCH_USERNAME="elastic" kibana:8.6.0
+  245  sudo docker run -d --name kibana --net elastic -p 5601:5601   -e ELASTICSEARCH_HOSTS="https://elasticsearch:9200"   -e ELASTICSEARCH_SSL_VERIFICATIONMODE="none"   -e XPACK_ENCRYPTEDSAVEDOBJECTS_ENCRYPTIONKEY="a_32_char_random_string_for_encryption"   -e ELASTICSEARCH_SERVICE_TOKEN="abc123..."  -e ELASTICSEARCH_USERNAME="elastic" -e ELASTICSEARCH_PASSWORD="x4D3+3AAGI5N_RUTDsTr" kibana:8.6.0
+  246  sudo docker container ls -a
+  247  sudo docker container stop 358e37e88701
+  248  sudo docker container rm 358e37e88701
+  249  sudo docker run -d --name kibana --net elastic -p 5601:5601   -e ELASTICSEARCH_HOSTS="https://elasticsearch:9200"   -e ELASTICSEARCH_SSL_VERIFICATIONMODE="none"   -e XPACK_ENCRYPTEDSAVEDOBJECTS_ENCRYPTIONKEY="a_32_char_random_string_for_encryption"   -e ELASTICSEARCH_SERVICE_TOKEN="abc123..."  -e ELASTICSEARCH_USERNAME="elastic" -e ELASTICSEARCH_PASSWORD="x4D3+3AAGI5N_RUTDsTr" kibana:8.6.0
+  250  sudo docker container ls -a
+  251  sudo docker logs kibana
+  252  sudo docker run -d --name kibana --net elastic -p 5601:5601   -e ELASTICSEARCH_HOSTS="https://elasticsearch:9200"   -e ELASTICSEARCH_SSL_VERIFICATIONMODE="none"   -e XPACK_ENCRYPTEDSAVEDOBJECTS_ENCRYPTIONKEY="a_32_char_random_string_for_encryption"   -e ELASTICSEARCH_SERVICE_TOKEN="abc123..."  -e ELASTICSEARCH_USERNAME="elastic" -e ELASTICSEARCH_PASSWORD="x4D3+3AAGI5N_RUTDsTr" kibana:8.6.0
+  253  sudo docker run -d --name kibana --net elastic -p 5601:5601   -e ELASTICSEARCH_HOSTS="https://elasticsearch:9200"   -e ELASTICSEARCH_SSL_VERIFICATIONMODE="none"   -e XPACK_ENCRYPTEDSAVEDOBJECTS_ENCRYPTIONKEY="a_32_char_random_string_for_encryption"   -e ELASTICSEARCH_SERVICE_TOKEN="abc123..." kibana:8.6.0
+  254  sudo docker container ls -a
+  255  sudo docker container stop 597d9cb691de
+  256  sudo docker container rm 597d9cb691de
+  257  sudo docker run -d --name kibana --net elastic -p 5601:5601   -e ELASTICSEARCH_HOSTS="https://elasticsearch:9200"   -e ELASTICSEARCH_SSL_VERIFICATIONMODE="none"   -e XPACK_ENCRYPTEDSAVEDOBJECTS_ENCRYPTIONKEY="a_32_char_random_string_for_encryption"   -e ELASTICSEARCH_SERVICE_TOKEN="abc123..." kibana:8.6.0
+  258  sudo docker container ls -a
+  259  sudo docker logs 0adb505d6a5b
+  260  sudo docker container ls -a
+  261  sudo docker container stop 0adb505d6a5b
+  262  sudo docker container rm 0adb505d6a5b
+  263  sudo docker run -d --name kibana --net elastic -p 5601:5601   -e ELASTICSEARCH_HOSTS="https://elasticsearch:9200"   -e ELASTICSEARCH_SSL_VERIFICATIONMODE="none"   -e XPACK_ENCRYPTEDSAVEDOBJECTS_ENCRYPTIONKEY="a_32_char_random_string_for_encryption"   -e ELASTICSEARCH_SERVICE_TOKEN="AAEAAWVsYXN0aWMva2liYW5hL2tpYmFuYS10b2tlbjpVOUpEa2pmdlNWV2s2VWJlQkdDM3R3" kibana:8.6.0
+  264  sudo docker logs kibana
+  265  curl -X GET http://localhost:9200/_cluster/health?pretty
+  266  curl -X GET https://localhost:9200/_cluster/health?pretty
+  267  curl -u elastic:x4D3+3AAGI5N_RUTDsTr -X GET https://localhost:9200/_cluster/health?pretty
+  268  curl -k -u elastic:x4D3+3AAGI5N_RUTDsTr -X GET https://localhost:9200/_cluster/health?pretty
+  269  docker exec it elastic sh
+  270  sh docker exec it elastic sh
+  271  docker container ls -a
+  272  sudo docker container ls -a
+  273  sudo docker exec it elastic sh
+  274  sudo docker exec it 575e3c8a1060 sh
+  275  sudo docker exec -it 575e3c8a1060 sh
+  276  sudo docker container ls -a
+  277  sudo docker container stop 787de831f6be
+  278  sudo docker container rm 787de831f6be
+  279  sudo docker run -d --name kibana --net elastic -p 5601:5601   -e ELASTICSEARCH_HOSTS="https://elasticsearch:9200"   -e ELASTICSEARCH_SSL_VERIFICATIONMODE="none"   -e XPACK_ENCRYPTEDSAVEDOBJECTS_ENCRYPTIONKEY="a_32_char_random_string_for_encryption"   -e ELASTICSEARCH_SERVICE_TOKEN="AAEAAWVsYXN0aWMva2liYW5hL2tpYmFuYS10b2tlbjpVOUpEa2pmdlNWV2s2VWJlQkdDM3R3"  -e ELASTICSEARCH_USERNAME="seva" -e ELASTICSEARCH_PASSWORD="123456" kibana:8.6.0
+  280  sudo docker logs kibana
+  281  sudo docker container ls -a
+  282  sudo docker container stop 991616205cbe
+  283  sudo docker container rm 991616205cbe
+  284  sudo docker exec -it 575e3c8a1060 sh
+  285  sudo docker run -d --name kibana --net elastic -p 5601:5601   -e ELASTICSEARCH_HOSTS="https://elasticsearch:9200"   -e ELASTICSEARCH_SSL_VERIFICATIONMODE="none"   -e XPACK_ENCRYPTEDSAVEDOBJECTS_ENCRYPTIONKEY="a_32_char_random_string_for_encryption"   -e ELASTICSEARCH_SERVICE_TOKEN="AAEAAWVsYXN0aWMva2liYW5hL2tpYmFuYS10b2tlbjpVOUpEa2pmdlNWV2s2VWJlQkdDM3R3"  -e ELASTICSEARCH_USERNAME="seva" -e ELASTICSEARCH_PASSWORD="qwerty" kibana:8.6.0
+  286  sudo docker logs kibana
+  287  docker exec -it elasticsearch bin/elasticsearch-service-tokens create elastic/kibana kibana-system-token
+  288  sudo docker exec -it elasticsearch bin/elasticsearch-service-tokens create elastic/kibana kibana-system-token
+  289  curl -X POST "https://localhost:9200/_security/user/seva/_roles" -H "Content-Type: application/json" -d'
+  290  {
+  291    "roles": ["kibana_system", "monitor"]
+  292  }
+  293  '
+  294  curl -X POST "https://192.168.1219:9200/_security/user/seva/_roles" -H "Content-Type: application/json" -d'
+  295  {
+  296    "roles": ["kibana_system", "monitor"]
+  297  }
+  298  '
+  299  curl -X POST "https://192.168.1.219:9200/_security/user/seva/_roles" -H "Content-Type: application/json" -d'
+  300  {
+  301    "roles": ["kibana_system", "monitor"]
+  302  }
+  303  '
+  304  curl -k -X POST "https://192.168.1.219:9200/_security/user/seva/_roles" -H "Content-Type: application/json" -d'
+  305  {
+  306    "roles": ["kibana_system", "monitor"]
+  307  }
+  308  '
+  309  docker container ls -a
+  310  sudo docker container ls -a
+  311  sudo docker container stop 5e9c139da212
+  312  sudo docker container rm 5e9c139da212
+  313  sudo docker run -d --name kibana --net elastic -p 5601:5601   -e ELASTICSEARCH_HOSTS="https://elasticsearch:9200"   -e ELASTICSEARCH_SSL_VERIFICATIONMODE="none"   -e XPACK_ENCRYPTEDSAVEDOBJECTS_ENCRYPTIONKEY="a_32_char_random_string_for_encryption"   -e ELASTICSEARCH_SERVICE_TOKEN="AAEAAWVsYXN0aWMva2liYW5hL2tpYmFuYS1zeXN0ZW0tdG9rZW46dWxKeXJuSTlUVGVEWEpHNUhxcGhadw"  -e ELASTICSEARCH_USERNAME="seva" -e ELASTICSEARCH_PASSWORD="qwerty" kibana:8.6asdfasdf.0
+  314  sudo docker exec -it 575e3c8a1060 sh
+  315  curl -X POST "localhost:9200/_security/role/my_admin_role?pretty" -H 'Content-Type: application/json' -d'
+  316  {
+  317    "description": "Grants full access to all management features within the cluster.",
+  318    "cluster": ["all"],
+  319    "indices": [
+  320      {
+  321        "names": [ "index1", "index2" ],
+  322        "privileges": ["all"],
+  323        "field_security" : { // optional
+  324          "grant" : [ "title", "body" ]
+  325        },
+  326        "query": "{\"match\": {\"title\": \"foo\"}}" // optional
+  327      }
+  328    ],
+  329    "applications": [
+  330      {
+  331        "application": "myapp",
+  332        "privileges": [ "admin", "read" ],
+  333        "resources": [ "*" ]
+  334      }
+  335    ],
+  336    "run_as": [ "other_user" ], // optional
+  337    "metadata" : { // optional
+  338      "version" : 1
+  339    }
+  340  }
+  341  '
+  342  curl -k -u elastic:x4D3+3AAGI5N_RUTDsTr -X POST "192.168.1.219:9200/_security/role/my_admin_role?pretty" -H 'Content-Type: application/json' -d'
+  343  {
+  344    "description": "Grants full access to all management features within the cluster.",
+  345    "cluster": ["all"],
+  346    "indices": [
+  347      {
+  348        "names": [ "index1", "index2" ],
+  349        "privileges": ["all"],
+  350        "field_security" : { // optional
+  351          "grant" : [ "title", "body" ]
+  352        },
+  353        "query": "{\"match\": {\"title\": \"foo\"}}" // optional
+  354      }
+  355    ],
+  356    "applications": [
+  357      {
+  358        "application": "myapp",
+  359        "privileges": [ "admin", "read" ],
+  360        "resources": [ "*" ]
+  361      }
+  362    ],
+  363    "run_as": [ "other_user" ], // optional
+  364    "metadata" : { // optional
+  365      "version" : 1
+  366    }
+  367  }
+  368  '
+  369  curl -k -u elastic:x4D3+3AAGI5N_RUTDsTr -X POST "https://192.168.1.219:9200/_security/role/my_admin_role?pretty" -H 'Content-Type: application/json' -d'
+  370  {
+  371    "description": "Grants full access to all management features within the cluster.",
+  372    "cluster": ["all"],
+  373    "indices": [
+  374      {
+  375        "names": [ "index1", "index2" ],
+  376        "privileges": ["all"],
+  377        "field_security" : { // optional
+  378          "grant" : [ "title", "body" ]
+  379        },
+  380        "query": "{\"match\": {\"title\": \"foo\"}}" // optional
+  381      }
+  382    ],
+  383    "applications": [
+  384      {
+  385        "application": "myapp",
+  386        "privileges": [ "admin", "read" ],
+  387        "resources": [ "*" ]
+  388      }
+  389    ],
+  390    "run_as": [ "other_user" ], // optional
+  391    "metadata" : { // optional
+  392      "version" : 1
+  393    }
+  394  }
+  395  '
+  396  curl -k -u elastic:x4D3+3AAGI5N_RUTDsTr -X POST "https://192.168.1.219:9200/_security/role/my_admin_role?pretty" -H 'Content-Type: application/json' -d'
+  397  {
+  398    "cluster": ["all"],
+  399    "indices": [
+  400      {
+  401        "names": [ "index1", "index2" ],
+  402        "privileges": ["all"],
+  403        "field_security" : { // optional
+  404          "grant" : [ "title", "body" ]
+  405        },
+  406        "query": "{\"match\": {\"title\": \"foo\"}}" // optional
+  407      }
+  408    ],
+  409    "applications": [
+  410      {
+  411        "application": "myapp",
+  412        "privileges": [ "admin", "read" ],
+  413        "resources": [ "*" ]
+  414      }
+  415    ],
+  416    "run_as": [ "other_user" ], // optional
+  417    "metadata" : { // optional
+  418      "version" : 1
+  419    }
+  420  }
+  421  '
+  422  sudo docker exec -it 575e3c8a1060 sh
+  423  sudo docker run -d --name kibana --net elastic -p 5601:5601   -e ELASTICSEARCH_HOSTS="https://elasticsearch:9200"   -e ELASTICSEARCH_SSL_VERIFICATIONMODE="none"   -e XPACK_ENCRYPTEDSAVEDOBJECTS_ENCRYPTIONKEY="a_32_char_random_string_for_encryption"   -e ELASTICSEARCH_SERVICE_TOKEN="AAEAAWVsYXN0aWMva2liYW5hL2tpYmFuYS1zeXN0ZW0tdG9rZW46dWxKeXJuSTlUVGVEWEpHNUhxcGhadw"  -e ELASTICSEARCH_USERNAME="seva" -e ELASTICSEARCH_PASSWORD="qwerty" kibana:8.6asdfasdf.0
+  424  sudo docker run -d --name kibana --net elastic -p 5601:5601   -e ELASTICSEARCH_HOSTS="https://elasticsearch:9200"   -e ELASTICSEARCH_SSL_VERIFICATIONMODE="none"   -e XPACK_ENCRYPTEDSAVEDOBJECTS_ENCRYPTIONKEY="a_32_char_random_string_for_encryption"   -e ELASTICSEARCH_SERVICE_TOKEN="AAEAAWVsYXN0aWMva2liYW5hL2tpYmFuYS1zeXN0ZW0tdG9rZW46dWxKeXJuSTlUVGVEWEpHNUhxcGhadw"  -e ELASTICSEARCH_USERNAME="seva" -e ELASTICSEARCH_PASSWORD="qwerty" kibana:8.6.0
+  425  sudo docker logs kibana
+  426  sudo docker exec -it 575e3c8a1060 sh
+  427  sudo docker container ls -a
+  428  sudo docker container stop c181d4bacb1b
+  429  sudo docker container rm c181d4bacb1b
+  430  sudo docker run -d --name kibana --net elastic -p 5601:5601   -e ELASTICSEARCH_HOSTS="https://elasticsearch:9200"   -e ELASTICSEARCH_SSL_VERIFICATIONMODE="none"   -e XPACK_ENCRYPTEDSAVEDOBJECTS_ENCRYPTIONKEY="a_32_char_random_string_for_encryption"   -e ELASTICSEARCH_SERVICE_TOKEN="AAEAAWVsYXN0aWMva2liYW5hL2tpYmFuYS1zeXN0ZW0tdG9rZW46dWxKeXJuSTlUVGVEWEpHNUhxcGhadw"  -e ELASTICSEARCH_USERNAME="seva" -e ELASTICSEARCH_PASSWORD="qwerty" kibana:8.6.0
+  431  docker logs kibana
+  432  sudo docker logs kibana
+  433  sudo docker container ls -a
+  434  sudo docker container stop 963bbe688d7b
+  435  sudo docker container rm 963bbe688d7b
+  436  sudo docker exec -it 575e3c8a1060 sh
+  437  sudo docker run -d --name kibana --net elastic -p 127.0.0.1:5601:5601   -e ELASTICSEARCH_HOSTS="https://elasticsearch:9200"   -e ELASTICSEARCH_SSL_VERIFICATIONMODE="none"   -e XPACK_ENCRYPTEDSAVEDOBJECTS_ENCRYPTIONKEY="a_32_char_random_string_for_encryption"   -e ELASTICSEARCH_SERVICE_TOKEN="AAEAAWVsYXN0aWMva2liYW5hL2tpYmFuYS1zeXN0ZW0tdG9rZW46dWxKeXJuSTlUVGVEWEpHNUhxcGhadw"  -e ELASTICSEARCH_USERNAME="seva" -e ELASTICSEARCH_PASSWORD="qwerty" kibana:8.6.0
+  438  sudo docker logs kibana
+  439  sudo docker exec -it 575e3c8a1060 sh
+  440  sudo docker container ls -a
+  441  sudo docker container restart 650a585aeb69
+  442  docker logs filebeat
+  443  sudo docker logs filebeat
+  444  curl -k -u elastic:x4D3+3AAGI5N_RUTDsTr -X GET "https://192.168.1.219:9200/_cat/indices?v"
+  445  ls
+  446  cd back_end/
+  447  ls
+  448  python3 tg_bot.py
+  449  python3 -m venv activate
+  450  python3 -m venv
+  451  cd ..
+  452  python3 -m venv
+  453  python venv . bin/activate
+  454  python . bin/activate
+  455  python .bin/activate
+  456  cd ./
+  457  ls
+  458  source ./tg_backuper_venv/bin/activate
+  459  cd back_end/
+  460  python tg_bot.py
+  461  ls
+  462  ls changable_data/
+  463  python tg_bot.py
+  464  cd ..
+  465  python back_end/tg_bot.py
+  466  pip freeze
+  467  pip install json_log_formatter
+  468  python back_end/tg_bot.py
+  469  cd back_end/
+  470  nano tg_bot.py
+  471  cd ..
+  472  python back_end/tg_bot.py
+  473  sudo python back_end/tg_bot.py
+  474  pip install aiogram
+  475  sudo pip install aiogram
+  476  sudo python back_end/tg_bot.py
+  477  sudo pip install json_log_formatter
+  478  sudo python back_end/tg_bot.py
+  479  ls
+  480  cd logs
+  481  ls
+  482  cd ..
+  483  deactivate
+  484  ls
+  485  source ./tg_backuper_venv/bin/activate
+  486  sudo python back_end/tg_bot.py
+  487  ls
+  488  cd tg_backuper/
+  489  ls
+  490  cd logs
+  491  ls
+  492  ls logs
+  493  ls
+  494  cat app_logs.json
+  495  cd ..
+  496  sudo docker logs filebeat
+  497  ls
+  498  cd filebeat_config/
+  499  nano filebeat.yml
+  500  cd ..
+  501  sudo docker container ls
+  502  sudo docker container stop 6881962eb174
+  503  sudo docker container rm 6881962eb174
+  504  docker run -d --name filebeat --net elastic   -v $(pwd)/filebeat_config/filebeat.yml:/usr/share/filebeat/filebeat.yml:ro   -v $(pwd)/logs:/usr/share/filebeat/logs:ro   docker.elastic.co/beats/filebeat:8.6.0 filebeat -e -strict.perms=false
+  505  sudo docker run -d --name filebeat --net elastic   -v $(pwd)/filebeat_config/filebeat.yml:/usr/share/filebeat/filebeat.yml:ro   -v $(pwd)/logs:/usr/share/filebeat/logs:ro   docker.elastic.co/beats/filebeat:8.6.0 filebeat -e -strict.perms=false
+  506  sudo docker run -d --name filebeat --net elastic   -v $(pwd)/filebeat_config/filebeat.yml:/usr/share/filebeat/filebeat.yml:ro   -v $(pwd)/logs:/usr/share/filebeat/logs:ro   docker.elastic.co/beats/filebeat:7.17.25 filebeat -e -strict.perms=false
+  507  docker logs filebeat
+  508  sudo docker logs filebeat
+  509  cat filebeat
+  510  ls
+  511  cat filebet_config/filebeat.yml
+  512  cd filebeat_config/
+  513  cat filebeat.yml
+  514  nano filebeat.yml
+  515  sudo docker container ls
+  516  sudo docker container stop 7fbeb7c2aaf8
+  517  sudo docker container rm 7fbeb7c2aaf8
+  518  sudo docker run -d --name filebeat --net elastic   -v $(pwd)/filebeat_config/filebeat.yml:/usr/share/filebeat/filebeat.yml:ro   -v $(pwd)/logs:/usr/share/filebeat/logs:ro   docker.elastic.co/beats/filebeat:7.17.25 filebeat -e -strict.perms=false
+  519  cd ..
+  520  sudo docker run -d --name filebeat --net elastic   -v $(pwd)/filebeat_config/filebeat.yml:/usr/share/filebeat/filebeat.yml:ro   -v $(pwd)/logs:/usr/share/filebeat/logs:ro   docker.elastic.co/beats/filebeat:7.17.25 filebeat -e -strict.perms=false
+  521  sudo docker container ls
+  522  sudo docker container ls -a
+  523  sudo docker container rm 2034c8bd78af
+  524  sudo docker run -d --name filebeat --net elastic   -v $(pwd)/filebeat_config/filebeat.yml:/usr/share/filebeat/filebeat.yml:ro   -v $(pwd)/logs:/usr/share/filebeat/logs:ro   docker.elastic.co/beats/filebeat:7.17.25 filebeat -e -strict.perms=false
+  525  sudo docker logs filebeat
+  526  sudo docker logs elasticsearch
+  527  sudo docker container ls -a
+  528  sudo docker container stop 6a3e4d88995f
+  529  sudo docker container rm 6a3e4d88995f
+  530  ls
+  531  cd filebeat_config/
+  532  nano filebeat
+  533  nano filebeat.yml
+  534  cd ..
+  535  ls
+  536  cd logs/
+  537  ls
+  538  cd ..
+  539* sudo docker run -d --name filebeat --net elastic   -v $(pwd)/filebeat_config/filebeat.yml:/usr/share/filebeat/filebeat.yml:ro   -v $(pwd)/logs:/usr/share/filebeat/logs:ro   docker.elastic.co/beats/filebeat:7.17.25 filebeat -e -strict.perms=false
+  540  sudo docker logs filebeat
+  541  nano filebeat.yml
+  542  nano /config_filebeat/filebeat.yml
+  543  cd tg_backuper/
+  544  ls
+  545  cd logs/
+  546  ls
+  547  cat app_logs.log
+  548  cd ..
+  549  ls
+  550  cd logs/
+  551  ls
+  552  cd ..
+  553  cd filebeat_config/
+  554  cat filebeat
+  555  cat filebeat.yml
+  556  sudo chmod 644 /home/seva/tg_backuper/logs/app_logs.log
+  557  cd filebeat_config/
+  558  nano /config_filebeat/filebeat.yml
+  559  cd ..
+  560  nano /config_filebeat/filebeat.yml
+  561  cd filebeat_config/
+  562  nano filebeat.yml/
+  563  nano filebeat.yml
+  564  ls
+  565  cd filebeat.yml/
+  566  ls
+  567  cd ..
+  568  rm -rf filebeat.yml/
+  569  sudo rm -rf filebeat.yml/
+  570  ls
+  571  touch filebeat.yml
+  572  sudo touch filebeat.yml
+  573  ls
+  574  sudo nano filebeat.yml
+  575  cat filebeat.yml
+  576  cd ..
+  577  ls
+  578  cd filebeat_config/
+  579  ls
+  580  cd logs/
+  581  ls
+  582  cd ..
+  583  cat filebeat
+  584  cat filebeat.yml
+  585  nano filebeat.yml
+  586  ls
+  587  sudo rm -rf logs/
+  588  sudo rm -rf filebeat
+  589  ls
+  590  sudo rm -rf filebeat_config/
+  591  ls
+  592  cd ..
+  593  sudo docker container ls
+  594  sudo docker container stop 80275285ec09
+  595  sudo docker container rm 80275285ec09
+  596  sudo chmod 644 /home/seva/tg_backuper/logs/app_logs.log
+  597  ls
+  598  ls filebeat_config/
+  599  sudo chmod 644 /home/seva/tg_backuper/logs/app_logs.log
+  600  sudo docker run -d --name filebeat --net elastic   -v $(pwd)/filebeat_config/filebeat.yml:/usr/share/filebeat/filebeat.yml:ro   -v $(pwd)/logs:/usr/share/filebeat/logs:ro   docker.elastic.co/beats/filebeat:7.17.25 filebeat -e -strict.perms=false
+  601  sudo docker logs filebeat
+  602  1docker logs kibana
+  603  docker logs kibana
+  604  sudo docker logs kibana
+  605  curl -X GET "http://localhost:9200/filebeat-*/_search?pretty"
+  606  curl -k -u elastic:x4D3+3AAGI5N_RUTDsTr -X GET "https://localhost:9200/filebeat-*/_search?pretty"
+  607  cd filebeat_config/
+  608  ls
+  609  cat filebeat.yml
+  610  nano filebeat.yml
+  611  sudo docker filebeat restart
+  612  sudo docker restart filebeat
+  613  sudo docker logs filebeat
+  614  curl -k -u elastic:x4D3+3AAGI5N_RUTDsTr -X GET "https://localhost:9200/filebeat-*/_search?pretty"
+  615  cd ..
+  616  sudo docker container ls
+  617  sudo docker container stop b6703a0b23a1
+  618  sudo docker container rm b6703a0b23a1
+  619  sudo docker run -d --name filebeat --net elastic   -v $(pwd)/filebeat_config/filebeat.yml:/usr/share/filebeat/filebeat.yml:ro   -v $(pwd)/logs:/usr/share/filebeat/logs:ro   docker.elastic.co/beats/filebeat:7.17.25 filebeat -e -strict.perms=false
+  620  sudo docker logs filebeat
+  621  sudo docker logs elasticsearch
+  622  sudo docker logs kibana
+  623  ls
+  624  cat logs/app_logs.log
+  625  curl -fsSL https://artifacts.elastic.co/GPG-KEY-elasticsearch | sudo gpg --batch --yes --dearmor -o /usr/share/keyrings/elasticsearch-keyring.gpg
+  626  sudo apt install filebeat
+  627  curl -L -O https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-8.15.3-linux-x86_64.tar.gz
+  628  tar xzvf filebeat-8.15.3-linux-x86_64.tar.gz
+  629  sudo apt-get install filebeat
+  630  sudo apt update
+  631  sudo apt-get install filebeat
+  632  sudo docker container ls
+  633  sudo yum install epel-release
+  634  sudo nginx
+  635  sudo apt-get update
+  636  sudo apt-get install nginx
+  637  sudo nginx -v
+  638  sudo systemctl start nginx
+  639  sudo systemctl enable nginx
+  640  sudo nano /etc/nginx/sites-available/yourdomain.com
+  641  sudo nano /etc/nginx/sites-available/kibana.com
+  642  cd ..
+  643  cd /etc/ssl
+  644  sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout private/kibana.key -out certs/kibana.crt
+  645  sudo openssl dhparam -out /etc/ssl/certs/dhparam.pem 2048
+  646  sudo nano /etc/nginx/sites-available/kibana.conf
+  647  sudo nginx -t
+  648  sudo ln -s /etc/nginx/sites-available/kibana.conf /etc/nginx/sites-enabled/
+  649  sudo nginx -t
+  650  sudo rm /etc/nginx/sites-enabled/default
+  651  sudo nginx -t
+  652  sudo systemctl reload nginx
+  653  sudo systemctl status nginx
+  654  sudo ufw status
+  655  sudo docker container ls
+  656  sudo docker container restart 650a585aeb69
+  657  cd /etc/nginx/sites-available/
+  658  ls
+  659  sudo nano default
+  660  sudo rm /etc/nginx/sites-enabled/default
+  661  ls
+  662  sudo rm /etc/nginx/sites-enabled/default/
+  663  sudo rm /etc/nginx/sites-enabled/default
+  664  sudo rm default
+  665  ls
+  666  sudo systemctl reload nginx
+  667  sudo systemctl status nginx
+  668  sudo nano /etc/nginx/sites-available/kibana.conf
+  669  sudo systemctl reload nginx
+  670  sudo systemctl status nginx
+  671  access_log /var/log/nginx/docker_service_access.log;
+  672  history
