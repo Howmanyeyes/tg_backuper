@@ -3,7 +3,8 @@
     "chats": [
         ""
     ],
-    "time": null,
+    "time": 24365437,
+    "files": [],
     "frequency": {
         "every_day": true,
         "week_days": []
